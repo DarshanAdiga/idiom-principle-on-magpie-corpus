@@ -13,7 +13,7 @@ The original source code that runs both training and evaluation is obtained from
 | Experiment | Notebook | Single Token Rep | Dataset  | Model | Context | Status |
 |:-----------|:---------|:-----------------|:---------|:------|:--------|:-------|
 | exp0 | [exp0.ipynb](./notebooks//exp0.ipynb) | No | Zero-shot | BERT base (cased) | No | On Going |
-| exp1 | [exp1.ipynb](./notebooks//exp1.ipynb) | No | Zero-shot | XLNet base (cased) | Yes | TODO | 
+| exp1 | [exp1.ipynb](./notebooks//exp1.ipynb) | No | Zero-shot | XLNet base (cased) | Yes | On Going | 
 | exp2 | [exp2.ipynb](./notebooks//exp2.ipynb) | No | Zero-shot | BERT base (cased) | Previous 2 | TODO |
 | exp3 | [exp3.ipynb](./notebooks//exp3.ipynb) | No | Zero-shot | XLNet base (cased) | Previous 2 | TODO |
 | exp4 | [exp4.ipynb](./notebooks//exp4.ipynb) | No | Zero-shot | BERT base (cased) | Next 2 | TODO |
@@ -25,7 +25,17 @@ The original source code that runs both training and evaluation is obtained from
 | exp10 | [exp10.ipynb](./notebooks//exp10.ipynb) | Yes | ToBeDecided | ToBeDecided | ToBeDecided | TODO |
 
 ## Results
-TODO
+
+| Experiment | Dev Accuracy | Dev F1 | Test Accuracy | Test F1 |
+|:-----------|:-------------|:-------|:--------------|:--------|
+| exp0 | 0.0 | 0.0 | 85.7 | 83.8 |
+| exp1 | 0.0 | 0.0 | 0 | 0 |
+
+
+TODO: Update this
+Approximate Training time per experiment:
+- BERT base (cased): ~2 hours
+- XLNet base (cased): ~1 hour
 
 
 ## References
