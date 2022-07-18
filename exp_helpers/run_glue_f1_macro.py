@@ -125,6 +125,10 @@ class DataTrainingArguments:
     )
     test_file: Optional[str] = field(default=None, metadata={"help": "A csv or a json file containing the test data."})
 
+    test_metrics: bool = field(
+        default=False, metadata={"help": "Generate & log the evaluation metrics on test data."}
+    )
+
     def __post_init__(self):
         if self.task_name is not None:
             self.task_name = self.task_name.lower()
@@ -526,6 +530,13 @@ def main():
                         else:
                             item = label_list[item]
                             writer.write(f"{index}\t{item}\n")
+
+            # Get the metrics on the test data, if required
+            if data_args.test_metrics:
+                metrics = trainer.evaluate(eval_dataset=test_dataset)
+                metrics["test_samples"] = len(test_dataset)
+                trainer.log_metrics("test", metrics)
+                trainer.save_metrics("test", metrics)
 
 
 def _mp_fn(index):

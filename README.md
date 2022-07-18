@@ -38,6 +38,9 @@ Approximate Training time per experiment:
 - XLNet base (cased): ~1 hour
 
 
+# TODO
+- Track & Visualise Training progress
+
 ## References
 [1] Hessel Haagsma, Johan Bos, and Malvina Nissim. 2020. MAGPIE: A Large Corpus of Potentially Idiomatic Expressions. In Proceedings of the 12th Language Resources and Evaluation Conference, pages 279–287, Marseille, France. European Language Resources Association.
 
