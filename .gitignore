@@ -3,4 +3,4 @@
 */.ipynb_checkpoints
 *.log
 runs/
-*/checkpoints
+*/*/checkpoints

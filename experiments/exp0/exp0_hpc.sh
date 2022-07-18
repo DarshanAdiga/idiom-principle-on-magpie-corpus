@@ -1,5 +1,5 @@
 #!/bin/bash
-#$ -l h_rt=3:00:00  #time needed
+#$ -l h_rt=2:00:00  #time needed
 #$ -pe smp 3 #number of cores
 #$ -l rmem=4G #Maximum amount (xx) of real memory to be requested per CPU core
 #$ -l gpu=1 # Number of GPUs per every CPU core

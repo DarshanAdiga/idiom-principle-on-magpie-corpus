@@ -32,7 +32,7 @@ The original source code that runs both training and evaluation is obtained from
 
 | Experiment | Dev Accuracy | Dev F1 | Test Accuracy | Test F1 |
 |:-----------|:-------------|:-------|:--------------|:--------|
-| exp0 | 0.0 | 0.0 | 85.7 | 83.8 |
+| exp0 | 85.16 | 83.00 | 0.0 | 0.0 |
 | exp1 | 0.0 | 0.0 | 0 | 0 |
 
 
