@@ -10,7 +10,6 @@ The original source code that runs both training and evaluation is obtained from
 
 **Notes on Reproducibility:**
 1. The paths used in the notebooks are relative. Run every notebook from its own current directory.
-2. The python scripts take the arguments as file paths and can be used from any directory
 
 
 ### Experiment Tracker

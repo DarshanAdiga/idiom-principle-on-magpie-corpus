@@ -3,10 +3,11 @@ from exp_helpers import run_glue_f1_macro
 
 exp_model = 'bert-base-cased'
 exp_seed = 26
-model_checkpoint_dir = 'experiments/exp0/checkpoints'
-train_csv = '../tmp/train.csv'
-dev_csv = '../tmp/dev.csv'
-test_csv = '../tmp/test.csv'
+exp_dir = './'
+model_checkpoint_dir = exp_dir + 'checkpoints'
+train_csv = exp_dir + 'tmp/train.csv'
+dev_csv = exp_dir + 'tmp/dev.csv'
+test_csv = exp_dir + 'tmp/test.csv'
 
 # Run the helper script that trains, saves the sentence classification model
 args = f"""
