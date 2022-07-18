@@ -21,6 +21,7 @@ args = f"""
 --do_predict \
 --max_seq_length 128 \
 --per_device_train_batch_size 32 \
+--per_device_eval_batch_size 32 \
 --learning_rate 2e-5 \
 --num_train_epochs 9 \
 --output_dir {model_checkpoint_dir} \

@@ -10,23 +10,21 @@ The original source code that runs both training and evaluation is obtained from
 
 **Notes on Reproducibility:**
 1. The paths used in the notebooks are relative. Run every notebook from its own current directory.
-
+2. It is better to use even-numbered GPUs (2 is slow, 4 is better) for training & evaluation. Specifically, the batch size should be divisible by number of GPUs.
 
 ### Experiment Tracker
 
 | Experiment | Notebook | Single Token Rep | Dataset  | Model | Context | Status |
 |:-----------|:---------|:-----------------|:---------|:------|:--------|:-------|
-| exp0 | [exp0.ipynb](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No | On Going |
-| exp1 | [exp1.ipynb](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | Yes | On Going | 
-| exp2 | [exp2.ipynb](./notebooks/exp2) | No | Zero-shot | BERT base (cased) | Previous 2 | TODO |
-| exp3 | [exp3.ipynb](./notebooks/exp3) | No | Zero-shot | XLNet base (cased) | Previous 2 | TODO |
-| exp4 | [exp4.ipynb](./notebooks/exp4) | No | Zero-shot | BERT base (cased) | Next 2 | TODO |
-| exp5 | [exp5.ipynb](./notebooks/exp5) | No | Zero-shot | XLNet base (cased) | Next 2 | TODO |
-| exp6 | [exp6.ipynb](./notebooks/exp6) | No | Zero-shot | BERT base (cased) | All Context | TODO |
-| exp7 | [exp7.ipynb](./notebooks/exp7) | No | Zero-shot | XLNet base (cased) | All Context | TODO |
-| exp8 | [exp8.ipynb](./notebooks/exp8) | No | One-shot | ToBeDecided | ToBeDecided | TODO |
-| exp9 | [exp9.ipynb](./notebooks/exp9) | No | Few-shot | ToBeDecided | ToBeDecided | TODO |
-| exp10 | [exp10.ipynb](./notebooks/exp10) | Yes | ToBeDecided | ToBeDecided | ToBeDecided | TODO |
+| exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
+| exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | On Going (2GPUs) | 
+
+| exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | (Best arch) | All Context | TODO (4GPUs) |
+
+| exp3 | [exp3](./notebooks/exp3) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
+
+| exp4 | [exp4](./notebooks/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
+| exp5 | [exp5](./notebooks/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
 
 ## Results
 
@@ -36,10 +34,9 @@ The original source code that runs both training and evaluation is obtained from
 | exp1 | 0.0 | 0.0 | 0 | 0 |
 
 
-TODO: Update this
-Approximate Training time per experiment:
-- BERT base (cased): ~2 hours
-- XLNet base (cased): ~1 hour
+Approximate Training (Wallclock) time per experiment:
+- BERT base-cased (3 GPUs): ~1.5 hours
+- XLNet base-cased (2 GPUs): TODO
 
 
 # TODO
