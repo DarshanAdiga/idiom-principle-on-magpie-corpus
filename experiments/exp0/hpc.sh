@@ -15,4 +15,4 @@ module load apps/python/conda
 module load libs/cudnn/7.3.1.20/binary-cuda-9.0.176
 source activate dis_venv_1
 
-python ./exp0.py 
+python ./run.py
