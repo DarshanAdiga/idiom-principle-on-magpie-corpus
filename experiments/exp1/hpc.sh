@@ -1,6 +1,6 @@
 #!/bin/bash
 #$ -l h_rt=2:00:00  #time needed
-#$ -pe smp 2 #number of cores
+#$ -pe smp 4 #number of cores
 #$ -l rmem=4G #Maximum amount (xx) of real memory to be requested per CPU core
 #$ -l gpu=1 # Number of GPUs per every CPU core
 #$ -o ./output.txt  #This is where your output and errors are logged.

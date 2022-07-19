@@ -17,12 +17,9 @@ The original source code that runs both training and evaluation is obtained from
 | Experiment | Notebook | Single Token Rep | Dataset  | Model | Context | Status |
 |:-----------|:---------|:-----------------|:---------|:------|:--------|:-------|
 | exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
-| exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | On Going (2GPUs) | 
-
-| exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | (Best arch) | All Context | TODO (4GPUs) |
-
+| exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
+| exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | **BERT base (cased)** | All Context | TODO (4GPUs) |
 | exp3 | [exp3](./notebooks/exp3) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
-
 | exp4 | [exp4](./notebooks/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
 | exp5 | [exp5](./notebooks/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
 
@@ -31,12 +28,11 @@ The original source code that runs both training and evaluation is obtained from
 | Experiment | Dev Accuracy | Dev F1 | Test Accuracy | Test F1 |
 |:-----------|:-------------|:-------|:--------------|:--------|
 | exp0 | 85.16 | 83.00 | 0.0 | 0.0 |
-| exp1 | 0.0 | 0.0 | 0 | 0 |
-
+| exp1 | 87.60 | 85.38 | 0.0 | 0.0 |
 
 Approximate Training (Wallclock) time per experiment:
 - BERT base-cased (3 GPUs): ~1.5 hours
-- XLNet base-cased (2 GPUs): TODO
+- XLNet base-cased (4 GPUs): ~1.76 hours
 
 
 # TODO
