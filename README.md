@@ -6,11 +6,24 @@
 Original dataset is available: [MAGPIE_filtered_split_{*}.jsonl](https://github.com/hslh/magpie-corpus).
 
 ## Experiment Setup
-The original source code that runs both training and evaluation is obtained from [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/Utils/run_glue_f1_macro.py). The local copy of this code is [run_glue_f1_macro.py](./exp_helpers/run_glue_f1_macro.py).
+- The original source code that runs both training and evaluation is obtained from [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/Utils/run_glue_f1_macro.py). The local copy of this code is [run_glue_f1_macro.py](./exp_helpers/run_glue_f1_macro.py).
 
 **Notes on Reproducibility:**
 1. The paths used in the notebooks are relative. Run every notebook from its own current directory.
 2. It is better to use even-numbered GPUs (2 is slow, 4 is better) for training & evaluation. Specifically, the batch size should be divisible by number of GPUs.
+
+### Single Token Representation
+The code for adding single-token-representations is based on:
+1. [Adding new Tokens](https://huggingface.co/transformers/v2.11.0/main_classes/tokenizer.html#transformers.PreTrainedTokenizer.add_tokens)
+2. [Manual method of adding tokens](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#adding-idiom-tokens-to--transformers-models)
+
+**Variations:**  
+The MAGPIE dataset contains `idiom` column but the sentences can contain different *surface form* of those idioms(due discontiguity & variations of MWEs). Approximately 50% of the sentences contain a different form than the given `idiom` column. Thus, two different ways of adding single-token-representations are used:
+
+* Option-1: Just convert the values in `idiom` column to tokens, irrespective of how they are used in the sentence. In other words, this approach will make the LM model to learn only those tokens which have an exact match.
+
+* Option-2: Use the `offsets` column and extract the actual MWE from the sentence. This will capture all possible MWEs in the data, but the number of unique tokens would be very high
+
 
 ### Experiment Tracker
 
@@ -18,10 +31,16 @@ The original source code that runs both training and evaluation is obtained from
 |:-----------|:---------|:-----------------|:---------|:------|:--------|:-------|
 | exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
 | exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
-| exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | **BERT base (cased)** | All Context | TODO (4GPUs) |
+| exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | **BERT base (cased)** | All Context | On Going (4GPUs) |
 | exp3 | [exp3](./notebooks/exp3) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
 | exp4 | [exp4](./notebooks/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
 | exp5 | [exp5](./notebooks/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
+
+*> exp2 should have used XLNet architecture, used BERT because it was faster
+
+**TODO:**
+- Experiment with both 'Option-1' and 'Option-2' methods of adding single-token-representations.
+- Conduct single-token-representations experiment with XLNet base model.
 
 ## Results
 
