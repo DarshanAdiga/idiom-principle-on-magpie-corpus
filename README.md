@@ -32,8 +32,8 @@ The MAGPIE dataset contains `idiom` column but the sentences can contain differe
 | exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
 | exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
 | exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
-| **exp3A_1**| [exp3A_1](./notebooks/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | On Going (4GPUs) |
-| **exp3A_2**| [exp3A_2](./notebooks/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Re-DO (4GPUs) |
+| **exp3A_1**| [exp3A_1](./notebooks/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
+| **exp3A_2**| [exp3A_2](./notebooks/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
 | **exp3B_1**| [exp3B_1](./notebooks/exp3B_1) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
 | **exp3B_2**| [exp3B_2](./notebooks/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
 | exp4 | [exp4](./notebooks/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
@@ -73,8 +73,8 @@ The single-token-representations experiment has following variations:
 | exp0 | 85.16 | 83.00 | 0.0 | 0.0 |
 | exp1 | 87.60 | 85.38 | 0.0 | 0.0 |
 | exp2 | 84.91 | 81.50 | 0.0 | 0.0 |
-| exp3A_1| 86.32 | 83.77 | 0.0 | 0.0 |
-| exp3A_2| 85.51 | 83.10 | 0.0 | 0.0 |
+| exp3A_1| 78.26 | 67.54 | 0.0 | 0.0 |
+| exp3A_2| 80.39 | 74.21 | 0.0 | 0.0 |
 
 Approximate Training (Wallclock) time per experiment:
 - BERT base-cased (3 GPUs): ~1.5 hours
