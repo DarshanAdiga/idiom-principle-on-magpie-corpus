@@ -32,7 +32,7 @@ The MAGPIE dataset contains `idiom` column but the sentences can contain differe
 | exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
 | exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
 | exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
-| **exp3A_1**| [exp3A_1](./notebooks/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | Re-DO (4GPUs) |
+| **exp3A_1**| [exp3A_1](./notebooks/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | On Going (4GPUs) |
 | **exp3A_2**| [exp3A_2](./notebooks/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Re-DO (4GPUs) |
 | **exp3B_1**| [exp3B_1](./notebooks/exp3B_1) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
 | **exp3B_2**| [exp3B_2](./notebooks/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
