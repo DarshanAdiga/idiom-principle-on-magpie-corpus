@@ -32,8 +32,8 @@ The MAGPIE dataset contains `idiom` column but the sentences can contain differe
 | exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
 | exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
 | exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
-| **exp3A_1**| [exp3A_1](./notebooks/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
-| **exp3A_2**| [exp3A_2](./notebooks/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
+| **exp3A_1**| [exp3A_1](./notebooks/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | Re-DO (4GPUs) |
+| **exp3A_2**| [exp3A_2](./notebooks/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Re-DO (4GPUs) |
 | **exp3B_1**| [exp3B_1](./notebooks/exp3B_1) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
 | **exp3B_2**| [exp3B_2](./notebooks/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
 | exp4 | [exp4](./notebooks/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
@@ -42,19 +42,29 @@ The MAGPIE dataset contains `idiom` column but the sentences can contain differe
 *> exp2 and onwards should have used XLNet architecture, used BERT because it was faster
 
 **TODO:**
-- Experiment with both 'Option-1' and 'Option-2' methods of adding single-token-representations.
 - Conduct single-token-representations experiment with XLNet base model.
+- The *AStitchInLanguageModels* paper does Idiom-includ/exclude experiment as well in Task-1. Try that as well, if required.
 
 **Variations of exp3:**
+In both of the below experiments (exp3A and exp3B), the MWEs are replaced by their corresponding single tokens in the training data. 
 The single-token-representations experiment has following variations:
 
 1. `exp3A`: The single-token-representation contain randomly initialized embeddings.   
     1.1 `exp3A_1`: Uses the `option-1` method of adding single-token-representations, as described above.  
     1.2 `exp3A_2`: Uses the `option-2` method of adding single-token-representations, as described above.  
 
-2. `exp3B`: The model with single-token-representation is trained on Common Crawl News Dataset (as described in the *AStitchInLanguageModels* paper).  
-    2.1 `exp3B_1`: TODO  
-    2.2 `exp3B_1`: TODO  
+2. `exp3B`: The model with single-token-representation is first trained(fine-tuned) with a Masked-LM objective on Common Crawl News Dataset (as described in the *AStitchInLanguageModels* paper). The steps followed [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#generating-pre-training-data) are taken as reference.  
+**Steps:**  
+
+    i. Add the new tokens to the vocabulary of the model. This leads to two variations of models using `option-1` and `option-2`.  
+
+    ii. Train(fine-tune) the model with a *Masked-LM* objective on CC-News corpus. The pre-processed CC-News data for this purpose is already available [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#generating-pre-training-data). It has been used directly in these experiments. The training scripts are available [experiments/pretraining](experiments/pretraining).  
+
+    iii. Use this fine-tuned model with a *SequenceClassification* objective on the MAGPIE dataset as done by previous experiments. This leads to two experiments: `exp3B_1` and `exp3B_2`.  
+
+
+**TODO:**
+- The pre-processed CC News Corpus used in the `step 2.ii` above has been created using [this script](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#extract-data-from-common-crawl). This method uses a list of idioms to identify sentences with and without idioms in the CC News dataset. Evaluate the percentage of overlap between the list of idioms used by this script and the list of idioms available in the MAGPIE dataset.
 
 ## Results
 
