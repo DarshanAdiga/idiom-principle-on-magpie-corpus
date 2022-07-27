@@ -12,9 +12,14 @@ from tqdm          import tqdm
 from collections   import defaultdict
 from nltk.tokenize import sent_tokenize, word_tokenize   
 
+import argparse
+
 sys.stderr.flush()
 sys.stdout.flush()
 
+CC_NEWS_BASE_URL = 'https://data.commoncrawl.org/'
+# NEWS_FILES_SEED_LIST = '2020-news-files.txt'
+NEWS_FILES_SEED_LIST = 'top_3_2020-news-files.txt'
 
 ## Outside class to speed up multithreading
 def process_single_file( file_name, file_index, output_path, idioms, return_dict ) :
@@ -25,8 +30,9 @@ def process_single_file( file_name, file_index, output_path, idioms, return_dict
     except FileExistsError :
         pass
 
+    print (f'Processing file {file_name} with index {file_index}')
     file_name.split( ' ' )[-1]
-    get_url = 'https://commoncrawl.s3.amazonaws.com/' + file_name.split( ' ' )[-1]
+    get_url = CC_NEWS_BASE_URL + file_name.split( ' ' )[-1]
 
     file_path   = os.path.join( this_scratch, file_name.split( '/' )[-1] )
     wget_out    = os.path.join( this_scratch, 'wget.out'                 )
@@ -179,7 +185,7 @@ class processCCNews :
     
     def _init_run_state( self ) :
 
-        file_location = os.path.join( self.info_path, '2020-news-files.txt' )
+        file_location = os.path.join( self.info_path, NEWS_FILES_SEED_LIST )
         crawl_files   = open( file_location ).read().split( '\n' )
         crawl_files   = [ i for i in crawl_files if i != '' ]
 
@@ -218,6 +224,7 @@ class processCCNews :
         idioms = list()
         with open( idioms_path ) as csvfile :
                reader = csv.reader(csvfile)
+               next(reader, None) # Skip the header row, default=None
                for row in reader:
                    idioms.append( row[0] )
         return idioms
@@ -225,9 +232,10 @@ class processCCNews :
     
     def _get_idiom_info( self ) :
         en_idioms = self._read_idioms( 'en' ) 
-        pt_idioms = self._read_idioms( 'pt' )
-
-        self.idioms = en_idioms + pt_idioms
+        # No 'pt' idioms for now
+        # pt_idioms = self._read_idioms( 'pt' )
+        self.idioms = en_idioms
+        # self.idioms = en_idioms + pt_idioms
 
         self.idiom_words = list()
         for idiom in self.idioms :
@@ -336,8 +344,14 @@ class processCCNews :
 
 if __name__ == '__main__' :
 
+    arg_parser = argparse.ArgumentParser()
+    arg_parser.add_argument( '-i', '--info_path', help='Info path - a folder contaiing 2020-news-files.txt file and en_idioms.csv file', required=True )
+    arg_parser.add_argument( '-o', '--output_path', help='Output path - a folder to write the output files', required=True )
+    arg_parser.add_argument( '-p', '--processes', help='Number of processes to use', required=False, default=5, type=int )
 
-    processor = processCCNews()
+    args = arg_parser.parse_args()
+
+    processor = processCCNews(info_path=args.info_path, output_path=args.output_path, processes=args.processes)
     processor.process()
 
 
