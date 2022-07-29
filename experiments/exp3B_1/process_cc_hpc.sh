@@ -1,6 +1,6 @@
 #!/bin/bash
-#$ -l h_rt=4:00:00  #time needed
-#$ -pe smp 6 #number of cores
+#$ -l h_rt=10:00:00  #time needed
+#$ -pe smp 12 #number of cores
 #$ -l rmem=3G #Maximum amount (xx) of real memory to be requested per CPU core
 
 #$ -o ./output.txt  #This is where your output and errors are logged.
@@ -15,4 +15,4 @@ module load apps/python/conda
 module load libs/cudnn/7.3.1.20/binary-cuda-9.0.176
 source activate dis_venv_1
 
-python ../../exp_helpers/prepare_cc_corpus/processCCNews.py -i ../../data/cc_news_data/ -o ../../data/cc_news_data/cc_processed_option1 -p 10
+python ../../exp_helpers/prepare_cc_corpus/processCCNews.py -i ../../data/cc_news_data_option1/ -o ../../data/cc_news_data_option1/output -p 24

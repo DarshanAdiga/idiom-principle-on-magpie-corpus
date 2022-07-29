@@ -58,14 +58,17 @@ The single-token-representations experiment has following variations:
 
     i. Add the new tokens to the vocabulary of the model. This leads to two variations of models using `option-1` and `option-2`.  
 
-    ii. Train(fine-tune) the model with a *Masked-LM* objective on CC-News corpus. The pre-processed CC-News data for this purpose had to be generated with slight modifications. The original steps are described [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#generating-pre-training-data). The modified preprocessing scripts are available [here](./exp_helpers/prepare_cc_corpus/). The training scripts are available [TODO - Add link](TODO).  
+    ii. Train(fine-tune) the model with a *Masked-LM* objective on the pre-processed CC-News corpus.  
 
-    First, download and preprocess the CC News Corpus (for `option-1` & `option-2`):
-    ```bash
-    python exp_helpers/prepare_cc_corpus/processCCNews.py -i data/cc_news_data/ -o data/cc_news_data/cc_processed_option1 -p 6
-    ```
+    **CC News Data Preparation:**  
+    The pre-processed CC-News data for this purpose had to be generated with slight modifications. The original steps are described [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#generating-pre-training-data). The modified preprocessing scripts are available [here](./exp_helpers/prepare_cc_corpus/).  
 
-    TODO: Add the `createPreTrainData_simplified.py` command used.  
+    First, download and preprocess the CC News Corpus using `experiments/exp3B_1/process_cc_hpc.sh` script. Then, prepare the training data for pretraining with single-tokens using `experiments/exp3B_1/create_pretrain_data_hpc.sh` script.  
+    
+    **Pre Training:**
+    Then, train the model with a *Masked-LM* objective on this data. The training scripts are available [exp3B_1/pretraining - TODO Update this](experiments/exp3B_1/).  
+
+    Follow these steps of `option-2` as well using the idioms of Option-2.  
 
     iii. Use this fine-tuned model with a *SequenceClassification* objective on the MAGPIE dataset as done by previous experiments. This leads to two experiments: `exp3B_1` and `exp3B_2`.  
 
