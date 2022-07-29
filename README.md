@@ -58,13 +58,17 @@ The single-token-representations experiment has following variations:
 
     i. Add the new tokens to the vocabulary of the model. This leads to two variations of models using `option-1` and `option-2`.  
 
-    ii. Train(fine-tune) the model with a *Masked-LM* objective on CC-News corpus. The pre-processed CC-News data for this purpose is already available [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#generating-pre-training-data). It has been used directly in these experiments. The training scripts are available [experiments/pretraining](experiments/pretraining).  
+    ii. Train(fine-tune) the model with a *Masked-LM* objective on CC-News corpus. The pre-processed CC-News data for this purpose had to be generated with slight modifications. The original steps are described [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#generating-pre-training-data). The modified preprocessing scripts are available [here](./exp_helpers/prepare_cc_corpus/). The training scripts are available [TODO - Add link](TODO).  
+
+    First, download and preprocess the CC News Corpus (for `option-1` & `option-2`):
+    ```bash
+    python exp_helpers/prepare_cc_corpus/processCCNews.py -i data/cc_news_data/ -o data/cc_news_data/cc_processed_option1 -p 6
+    ```
+
+    TODO: Add the `createPreTrainData_simplified.py` command used.  
 
     iii. Use this fine-tuned model with a *SequenceClassification* objective on the MAGPIE dataset as done by previous experiments. This leads to two experiments: `exp3B_1` and `exp3B_2`.  
 
-
-**TODO:**
-- The pre-processed CC News Corpus used in the `step 2.ii` above has been created using [this script](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#extract-data-from-common-crawl). This method uses a list of idioms to identify sentences with and without idioms in the CC News dataset. Evaluate the percentage of overlap between the list of idioms used by this script and the list of idioms available in the MAGPIE dataset.
 
 ## Results
 

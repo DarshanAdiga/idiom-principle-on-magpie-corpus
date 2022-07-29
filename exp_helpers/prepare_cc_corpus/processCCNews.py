@@ -18,8 +18,8 @@ sys.stderr.flush()
 sys.stdout.flush()
 
 CC_NEWS_BASE_URL = 'https://data.commoncrawl.org/'
-# NEWS_FILES_SEED_LIST = '2020-news-files.txt'
-NEWS_FILES_SEED_LIST = 'top_3_2020-news-files.txt'
+NEWS_FILES_SEED_LIST = '2020-news-files.txt'
+# NEWS_FILES_SEED_LIST = 'top_3_2020-news-files.txt'
 
 ## Outside class to speed up multithreading
 def process_single_file( file_name, file_index, output_path, idioms, return_dict ) :
