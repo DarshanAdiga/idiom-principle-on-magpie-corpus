@@ -5,5 +5,4 @@
 runs/
 */*/checkpoints
 local_models/*
-data/cc_news_data_option1/tmp
-data/cc_news_data_option1/output
+data/cc_news_data_option1/output_xaa
