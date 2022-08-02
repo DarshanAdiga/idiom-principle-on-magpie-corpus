@@ -1,0 +1,30 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-949272979372389558-6')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-949272979372389558-2')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-949272979372389558-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-949272979372389558-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-949272979372389558-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Share on FacebookShare on LinkedInShare on Twitter
+
+
+--DocBreak--
+BIGG BOSS TAMIL Season 4, DAY 46 Highlights: Ever smiling Ramya stole the show!
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-923631473827533328-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-923631473827533328-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-923631473827533328-5')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-923631473827533328-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+

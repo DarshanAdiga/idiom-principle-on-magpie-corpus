@@ -1,0 +1,566 @@
+Coming off three straight wins, the Boys in Blue have had a rare full week of training to recover as they prepare to take on Chicago Fire FC on Sunday. In NYCFC’s 16th Hudson River Derby against the Red Bulls last weekend, City enjoyed an exciting 5-2 victory over the visitors.
+
+
+--DocBreak--
+Thanks, Rich. Harry, sorry. It's Frank here. Yeah. Of course we don't yet break out the water utility segment as a stand-alone and you have some of the optimization and holding company costs in there, but the primary driver quarter-over-quarter was the acquisition of the additional Washington and Texas assets that we announced earlier. So that was the driver. I think that we're, we haven't announced any more acquisitions from that point. So what you're seeing there year-to-date is pretty good representation of what's going on. Third quarter is a good quarter for the water business, it's a high usage period, so the year-to-date number in there is representative, I think. There has been a little bit of softening year-over-year on some of the optimization as well and we always because business development cost kind of can go up and down depending on the level of activities we'll see a little bit of volatility in there.
+
+
+--DocBreak--
+The Notorious B.I.G. was shot to death in 1997 at 24 and in a few years became one of the top voices in rap and pop. He was inducted by close friend and collaborator Diddy.
+ "Nobody has come close to the way Biggie sounds, to the way he raps, to the frequency that he hits. Tonight, we are inducting the greatest rapper of all- time," Diddy said.
+ Nas said B.I.G. "represents Bed-Stuy, Brooklyn, New York City, America, the world and he represents the Black experience." Jay-Z recalled when B.I.G. sent him a demo of "Life After Death," his second and final album that was released 16 days after his death, explaining: "I was a little worried for myself as an artist."
+ "It's just really unfortunate what happened after that," continued Jay-Z. "The human side of him came through in his music and I think it moved the molecules in the world. I know for a fact it pointed me in the (right) direction and I'm sure that's happened to millions and millions of people worldwide."
+ The Notorious B.I.G.'s son and daughter, C.J. and T'yanna Wallace, accepted the honor. The son of T. Rex's Marc Bolan, who died in 1977 at 29, was also on hand to pay tribute to his father with a touching speech.
+ "As I reflect on this incredible honor of my dad and his band being inducted into the Rock and Roll Hall of Fame, I think about how I really didn't have a chance to know him very well. He was taken away from all of us so early in his life," Rolan Bolan said. "I discovered his music pretty much the same way you have -- through my eyes and ears."
+ The British band T. Rex was known primarily for its 1970s hit "Bang a Gong (Get It On)" and, to a lesser extent, "Jeepster." They were inducted by Ringo Starr.
+ T. Rex, Houston, B.I.G. and the Doobie Brothers were inducted after being on the ballot for the first time. The Doobie Brothers' inclusion makes 2020 historic for the band -- it's also their 50th anniversary. The group known for hits like "Listen to the Music" and "Black Water" were supposed to celebrate this year with a tour featuring singer-songwriter Michael McDonald -- who sang with the band starting in 1975 before beginning his own solo career -- but it was postponed because of the pandemic.
+ "It seems unreal, but it's been quite a trip and we aren't done yet," Tom Johnston said.
+ It's also been a good year for Nine Inch Nails -- their induction comes two months after Trent Reznor and Atticus Ross won their first Emmy for their musical contributions to the hit HBO series "Watchmen." Reznor and Ross are also Oscar and Grammy winners, only needing a Tony to enter the esteemed EGOT club.
+ Rick Rubin, Miley Cyrus, Jimmy Iovine, David Fincher, Mark Ronson and others spoke passionately about Nine Inch Nails' influence on them and others.
+ "What a disoriented, strange year we find ourselves in. As I've been wrapping my head around Nine Inch Nails being welcomed in the Rock and Roll Hall of Fame, I think I was most looking forward to the ceremony itself, where hopefully the whole camp, past and present, was going to get together and have a moment, and we're all stuck in our little boxes here in our screens," Reznor said. "But even now music's always been the thing that keeps me going."
+ Oscar winner Charlize Theron inducted Depeche Mode, whose biggest influence came in the 1980s when their post-punk, synthesizer-dominated music made the Brits a favorite of the goth subculture. Theron thanked the band "for being the soundtrack of my life."
+ Dave Grohl, Bruce Springsteen, Lin-Manuel Miranda, Jennifer Hudson, Adam Levine, Gwen Stefani and Brad Paisley also made appearances during the TV special. Top-notch music manager Irving Azoff and Jon Landau, who manages Springsteen, both earned the Ahmet Ertegun Award.
+ The Rock Hall's annual induction ceremony was originally supposed to take place in May at the Public Auditorium in Cleveland, the city where the rock museum is located.
+
+
+--DocBreak--
+Jigger and Pony has been lauded as one of the best bars in Singapore. In fact, the bar clinched the top spot on the list of Asia’s 50 Best Bars 2020.
+
+
+--DocBreak--
+"I think we have two really good players. I feel for Adrian (Martinez), that's a tough position to be in and he's poured his heart and soul into this," Frost said after Saturday's game. "But those guys are going to compete. I'm comfortable with both of them in the game."
+
+
+--DocBreak--
+He captured the interaction on cell phone video and noted there was a black couple waiting in line ahead of him.
+ “I was sitting there thinking, what do they think that someone saying that their lives matter is getting pulled out of line,” Arias said. “I kind of wonder if he would have had the courage to tell a Black person not to wear that shirt.”
+ Arias said he knew he had a right to vote while wearing the shirt. He was soon addressed by what he called a second, more gracious manager, who checked the polling policies and allowed him in to vote.
+ The Georgia native, who is White, won’t assume why the first poll worker prevented him from voting. But once the moment went viral, Arias also dealt with criticism from his neighbors.
+ “I’m just standing up for my rights. Isn’t that what everybody is saying?” Arias said. “But then I stand up for my rights, and one lady on Nextdoor said she was going to contact the county elections office and have my vote undone. Because I wore a T-shirt she disagrees with.”
+ Arias won’t call Forsyth County a racist place, but he believes bigotry exists. He said there’s also a history, noting the county’s infamous 1987 appearance on the Oprah Winfrey Show for excluding Black people from the community.
+ “I’ve grown up knowing that Forsyth County is a sundown county,” Arias said, meaning you didn’t want to be out after dark if you are a person of color.
+ He also admits to his own racist behavior in the past.
+ “I grew up here in the South, and you make ethnic jokes and use ethnic slurs, and get a laugh out of people,” Arias said. “I grew up with family that would say, ‘Well you know, them Black people’ this or that. And, ‘You can’t really trust what a Black person says.’”
+ Arias said he, like many Whites, took issue with the rise in discussion over “White privilege.”
+ “I had that very first White, knee-jerk reaction of, ‘I’m not privileged. I’ve worked hard for everything. No one’s giving me anything because I’m White,’” Arias said.
+
+
+--DocBreak--
+Now that we've moved WordPress, it's time to up the ante a bit. The next article in this series looks at containerizing MediaWiki. Once you've had a chance to digest that one, we'll take a swing at Request Tracker.
+
+
+--DocBreak--
+This indirect business model has been instrumental in creating value. It can be scaled up not only in renewables, but also in other part of our business in light of the opportunities that will be available, fully supported by our skills and critical know-how across the full value chain of the power business.
+
+
+--DocBreak--
+The Big Ten has been all over the place in its opening few weeks. One things for sure though, the late start to this season has produced some entertaining moments to say the least.
+
+
+--DocBreak--
+Well, yes. So, there is a couple of things there. One is, what we've seen so far with Essential is a couple of data points. One, it seems being - it's being sold to a different customer. So, we look at Essential as playing in a new price band and allowing us to actually capture a new customer. So, that's one. Two, we're seeing relatively consistent subscriber sign up. So when you talk about our long-term business model around subscription, Essential is going to play an important component of that. So from an Essential perspective, that's where we see it kind of playing, across different channels. And it will be not only attaching a new customer to the Arlo ecosystem, but actually driving incremental subscriptions for us down the road.
+
+
+--DocBreak--
+Scott Frost on the QB situation: "I think we have two really good players. I feel for Adrian (Martinez), that's a tough position to be in and he's poured his heart and soul into this. But those guys are going to compete. I'm comfortable with both of them in the game."
+
+
+--DocBreak--
+"Our squad leaders came to me with a great idea for social justice, and they wanted to use the name plates on the back of their jerseys and pick five words that they could do that they want this country to represent," Kelly said in a video statement. "I fully support them in terms of where they're and using their voice and their platform."
+
+
+--DocBreak--
+Well, so for the visibility that we have for the time being, we can confirm the guidance for 2020 even in light of the fact that we are experiencing weaker currencies, and also, in some part of the world, the worsening of the COVID-19 situation. We are so linked to operating growth and efficiencies that are the key items for reaching the 2020 guidelines.
+
+
+--DocBreak--
+Three-star athlete Herman Smith, who was previously committed to San Diego State, also flipped his decision to join the Tigers. The San Diego native claimed to have offers from Boston College, Fresno State and Hawaii as well.
+
+
+--DocBreak--
+Hundreds of independent journalists have either been arrested, jailed or gone into exile. They either have to toe the line and become songbirds of the regime, or prisons become their new homes.
+
+
+--DocBreak--
+Keys to the Match | Fight Fire with Fire
+
+
+--DocBreak--
+It's in the bag
+
+
+--DocBreak--
+"
+ FAYETTEVILLE -- Arkansas followed Thursday's release of its nonconference men's basketball schedule with Friday's announcement of its SEC basketball schedule.
+ Coach Eric Musselman's Razorbacks will open SEC play Dec. 30 at Auburn and play its first SEC home game on Saturday, Jan. 2 at Walton Arena against Missouri.
+ The Razorbacks' 18-game SEC schedule includes home games, all at Walton, against Georgia, Jan. 9; Auburn, Jan. 20; Ole Miss, Jan. 27; Mississippi State, Feb. 2, Texas A&M;, Feb. 6; Florida, Feb. 16; Alabama, Feb. 24 and LSU, Feb. 27.
+ Aside from the SEC opener at Auburn, Arkansas on the SEC road visits Tennessee, Jan. 6; LSU, Jan. 13; Alabama, Jan. 16; Vanderbilt, Jan. 23; Kentucky, Feb. 9; Missouri, Feb. 13; Texas A&M;, Feb. 20; and South Carolina, March 2.
+ Nonconference the Razorbacks open Nov. 25 hosting Mississippi Valley State; with home games against North Texas; Nov. 28, Texas-Arlington, Dec. 2; Lipscomb, Dec. 5; the University of Central Arkansas, Dec. 12; Oral Roberts, Dec. 20; and Abilene Christian, Dec. 22.
+ On the road nonconference the Razorbacks visit into the State of Oklahoma on Dec. 8 against the Tulsa Golden Hurricane and on Jan. 30 in the SEC vs. Big 12 challenge game against Oklahoma State in Stillwater.
+ "
+
+
+--DocBreak--
+Thank you, Dan. Good evening, everyone, and thank you for joining us on our call today to discuss our third-quarter 2020 financial results and recent business highlights. I would like to continue to provide an update regarding the ongoing SARS-CoV-2 virus pandemic. Oyster Point Pharma continues to monitor the impact of the SARS-CoV-2 virus pandemic and is taking proactive steps to ensure the safety of its employees, maintain business continuity of our operations, and to advance our R&D pipeline.
+
+
+--DocBreak--
+As I go through the results, please bear in mind that year-over-year comparisons remain a function of the impact of the pandemic, franchise terminations over the last 12 months and the effect from having sold the vast majority of our owned hotels as we transition to an asset-light franchise model. In the third quarter, we reported a net loss of $3.1 million or $0.12 per share as compared to last year's net loss of $3.7 million or $0.15 per share.
+
+
+--DocBreak--
+Yeah. It’s one of those things where it’s, like, we are investing a ton in things that will compel them because they have something unique to bring to their surgeons and so where we have seen a lot of activity is a lot of the big company guys that I can really think some of the bigger companies are bored with this business.
+
+
+--DocBreak--
+If you want a number, that's the best one we can give you. But again, I think it varies all over the place.
+
+
+--DocBreak--
+Masterson isn't the only _Malcolm In the Middle_ alum to have a bundle of joy on the way. Frankie Muniz and his wife, Paige Price, are also expecting their first child together. The couple shared their news in September, and revealed in October that they are having a baby boy.
+
+
+--DocBreak--
+Pitts’s eight touchdowns broke the record for the most single-season touchdowns by a Florida tight end. He hit the record with his first and only touchdown on the game.
+
+
+--DocBreak--
+And I will be honored to be serving with a fantastic vice president — Kamala Harris — who will make history as the first woman, first Black woman, first woman of South Asian descent, and first daughter of immigrants ever elected to national office in this country.
+
+
+--DocBreak--
+It shows there's still a long way to go': Little Mix discuss Britain's Got Talent's Black Lives Matter backlash as they call for more diversity in the music industry
+
+
+--DocBreak--
+They in turn requested President Muhammad Buhari “the father of our nation, to look into the demands of the various groups of our people, review same with a view to solving them”.
+
+
+--DocBreak--
+Catholic Information Service for Africa (Nairobi)
+
+
+--DocBreak--
+The `ubi-init` image is configured out of the box to run `systemd` _in_ the container when run. This makes it easy to run a few commands at install and rely on the subject matter expertise embedded in the Linux distribution. As I've argued for years, the quality of the container image and supply chain hygiene are more important than the absolute smallest individual images we can produce (Container Tidbits: Can Good Supply Chain Hygiene Mitigate Base Image Sizes?). We need to consider your supply chain's total size, not the individual images, so I chose the `ubi-init` image.
+
+
+--DocBreak--
+Rutgers looks WAY more competitive under Greg Schiano. Long way to go, but headed in the right direction. How's Jeremy Pruitt doing at Tennessee?
+
+
+--DocBreak--
+The Mandalorian season three on the horizon at Disney+ with production possibly starting 'as early as next week' ... as well as a Boba Fett miniseries in the pipeline
+
+
+--DocBreak--
+Lastly, we are in the process of negotiating a revision to our Area Development Agreement with Burger King Corporation as it relates to our new restaurants and remodeling requirements. We anticipate that our proposed revised agreement will reduce the minimum new restaurant development requirements down to a total of 50 units over the next 5 years and removes annual remodel commitments that were part of the current agreement. We expect that we would also give up our right of first refusal that we believe has diminished in value in the current QSR business environment. We believe that this new arrangement when entered into will allow Carrols to ramp up its organic growth on a balanced basis. It should be noted that while we expect to enter into this new agreement, at this stage, the parties have agreed to a term sheet, and there is no assurance that such new arrangement will be entered into on such terms or at all.
+
+
+--DocBreak--
+FAYETTEVILLE -- Arkansas followed Thursday's release of its nonconference men's basketball schedule with Friday's announcement of its SEC basketball schedule.
+   
+ Coach Eric Musselman's Razorbacks will open SEC play Dec. 30 at Auburn and play its first SEC home game on Saturday, Jan. 2 at Walton Arena against Missouri.
+   
+ The Razorbacks' 18-game SEC schedule includes home games, all at Walton, against Georgia, Jan. 9; Auburn, Jan. 20; Ole Miss, Jan. 27; Mississippi State, Feb. 2, Texas A&M;, Feb. 6; Florida, Feb. 16; Alabama, Feb. 24 and LSU, Feb. 27.
+   
+ Aside from the SEC opener at Auburn, Arkansas on the SEC road visits Tennessee, Jan. 6; LSU, Jan. 13; Alabama, Jan. 16; Vanderbilt, Jan. 23; Kentucky, Feb. 9; Missouri, Feb. 13; Texas A&M;, Feb. 20; and South Carolina, March 2.
+   
+ Nonconference the Razorbacks open Nov. 25 hosting Mississippi Valley State; with home games against North Texas; Nov. 28, Texas-Arlington, Dec. 2; Lipscomb, Dec. 5; the University of Central Arkansas, Dec. 12; Oral Roberts, Dec. 20; and Abilene Christian, Dec. 22.
+   
+ On the road nonconference the Razorbacks visit into the State of Oklahoma on Dec. 8 against the Tulsa Golden Hurricane and on Jan. 30 in the SEC vs. Big 12 challenge game against Oklahoma State in Stillwater.
+
+
+--DocBreak--
+Thank you, Dan. Good morning, all. Thank you for joining us today to review our results for the third quarter of 2020. We hope that you and your loved ones are remaining healthy and safe. The pandemic continued to impact the lodging industry and our business in the third quarter. Despite the dampening effect of the virus, we are pleased with the relative outperformance of hotels in the Red Lion franchise network and with the continued improvement in franchise retention.
+
+
+--DocBreak--
+Manufacturer/Company profiles, manufacturing base distribution, sales areas, product introduction, main business, market position and their competitors.
+
+
+--DocBreak--
+As they enter Sunday’s match, City is looking to extend their winning streak and secure their fourth win. So long as all works out, a win for the Boys in Blue could allow them to potentially pass Columbus Crew SC for the fourth- place position as they enter the playoffs.
+
+
+--DocBreak--
+It's in the bag - Fulton County Expositor
+
+
+--DocBreak--
+The third thing on the content cost, no, we don't experience an increase or a pressure on content cost. We have long - and this is like 3 to 5 years deals with all the major content providers. And these are set deals at set prices. So any price increase we do go to not 100%, but to the majority, big majority of the increase remains with us. There is a couple of content costs, which are variable, and there's also a couple of other third-party costs like technology, et cetera, which slightly variable, but price increases, yes, tend to go straight into our pocket and deliver more than 80% gross margin.
+
+
+--DocBreak--
+Yes. No. I mean, we'll continue to drive it down. If you look at the performance of some of our plants as - I mean, we see that margin at or above that in several of our plants, and we're going to continue to drive that across the board. So it doesn't necessarily mean all of them have to be, and you can't have any start-up, as we continue to drive down costs and look at other things, speeding up transitions and just cutting cost out of start-ups. That's where we see us achieving that 12% margin that we've put out there as a long-term target.
+
+
+--DocBreak--
+The school system in the Anglophone region meanwhile remains at a standstill. Thousands of students did not return to class when the school term officially resumed in early October, with nervous parents increasingly reluctant to send their children to school in light of the increasing violence -- even before the attack in Kumba.
+
+
+--DocBreak--
+Still, Notre Dame left some serious points on the board with Book's fumble. But the game remains tied and up for grabs.
+
+
+--DocBreak--
+Before we dive into the consolidated quarterly results, review our operating segments and open the call up for questions, I'd first like to discuss some noteworthy developments at Tidewater since we last spoke. The first is the appointment of two new Board members, Lois Zabrocky, President and CEO of International Seaways and also recently appointed Commodore of the Connecticut Maritime Association; and Darron Anderson, President and CEO of Ranger Energy Services. Both new directors bring broad industry and diversity of insight to our Board's governance and decision-making processes and we're excited to have them aboard. Also joining me on the call today is Piers Middleton. Piers joined Tidewater in the third quarter and is leading up Global Sales and Marketing. I'm excited to have Piers on board as we fill out the management team and position Tidewater for the future of offshore energy services. In addition to sales and marketing, Piers will be assisting in the strategic valuation of hydrocarbon and renewable investment opportunities as we position Tidewater to benefit from the offshore energy activities over the next 20 years.
+
+
+--DocBreak--
+left and right values for both. 
+
+
+--DocBreak--
+One of the biggest items on my bucket list is to see President Paul Biya in the flesh. After all, he's ruled Cameroon -- the country of my birth -- for 38 years. And for ten of those years, I've been working as a news reporter.
+
+
+--DocBreak--
+But I've never managed to lay eyes on the 87-year old President because Biya is virtually absent from public view: He's hardly ever in parliament, invisible on the campaign path, and certainly does not make himself available for interviews with any of Cameroon's dozens of private media outlets. He even avoids interviews with the state-owned media, his personal propaganda tool.
+
+
+--DocBreak--
+Par for the Course
+
+
+--DocBreak--
+Yeah for this time of the year they have now sort of I think as best as I can judge it, based on comments that we receive from our customers. We as best as we can judge it inventory situation is now more normal to what we would achieve this time of the year. And of course, a lot of it depends on how long demand continues into the winter. So, it's always difficult to predict when that seasonal seasonality really kicks in, but other than that, I would say we are probably back in line to where it would typically be.
+
+
+--DocBreak--
+Who doesn't see red and blue states, but a United States.
+
+
+--DocBreak--
+And when our very democracy was on the ballot in this election, with the very soul of America at stake, and the world watching, you ushered in a new day for America.
+
+
+--DocBreak--
+Thank you, Seth. Our first question. With the presidential election decisions still up in the air, how do you think Lightbridge will fare along with the nuclear industry as a whole with a Trump or Biden win? And how will the change to a Biden administration affect internal time lines for the GAIN Voucher project to proceed?
+
+
+--DocBreak--
+The organic growth, Jeremy, will come from a combination of sale-leaseback opportunities, of which we've already identified several and some build-to- suit opportunities. There may be a couple that we do out of pocket. But for the most part, that's what they will be and therefore, the only cash outlay is the equipment.
+
+
+--DocBreak--
+Copyright (C) 2020 Catholic Information Service for Africa. All rights reserved. Distributed by AllAfrica Global Media (allAfrica.com).
+
+
+--DocBreak--
+Yeah. Josh, one of the kind of opportunities that I think that this company has is, as opposed to letting the tail wag the dog with regard to a technology and letting us define it or letting it define us. I think what’s been great about this is we get to define what technology we require based upon the procedures.
+
+
+--DocBreak--
+As a result, we are expecting a somewhat different revenue distribution in the second half of our year. Please also bear in mind that through the portfolio divestitures of our pharma MEMS microphone IC business and the Environmental sensor business, we have a lower quarterly revenue run rate of about USD 20 million in our financials unlike 2019.
+
+
+--DocBreak--
+He announced during his acceptance speech that he’ll appoint scientists and experts on Monday to begin work on addressing the ongoing pandemic to create a “plan built on the bedrock of science.”
+
+
+--DocBreak--
+In September 2020, the Board of Directors of Enel Américas announced the launch of a related party transaction for the merger of Enel Green Power assets in Latin America in Enel Américas. The company has also appointed the independent appraisers, which by mid-November will present the third-party assessment of the fair value of Enel Green Power assets. The merger, I recall you, is subject to the elimination of the 65% shareholding limit established by the bylaws, which will be voted together with the whole transaction, during the EGM expected to be held at the end of December.
+
+
+--DocBreak--
+Clients are dealing with increasing worker burnout, unanticipated attrition, and the needs of healthcare professionals to have time off, after months of stress and strain. Similarly, our clients' internal recruiting capabilities are being pushed to the max, and the labor demand pressure has challenged the ability of the healthcare staffing industry to respond. AMN then has been adding resources over the past few months, in response to these increased needs. This environment has further heightened interest for healthcare providers to have strong workforce partners, for which AMN has translated to the addition of many new clients, as well as the expansion and renewal of existing clients. This scarce labor environment also highlights the benefits of a staffing led managed services program, for which AMN is the nation's leading provider.
+
+
+--DocBreak--
+In the long run and given its priority and how the federal government is in modernizing these systems. This is going to be a growth driver for the next many years. And so, frankly, I don’t think it could have gone better and I don’t think we could be any happier about where we are with ITG and what the opportunities are there.
+
+
+--DocBreak--
+And just one last one. As we've seen broadband in the marketplace, the adoption of that accelerate through the pandemic. Are these lost opportunities for the customers that you're going after just because of the delay in the Jupiter satellite? Or does the product and the value that your product provides once the new satellite gets up in the air, does that create the same type of opportunity to gain share and grow your base over time?
+
+
+--DocBreak--
+Now moving on retail on Slide #14. As you can see from numbers, despite the challenging environment, retail operation continued to work properly, adding 400,000 new customers in the liberalized market over the last 12 months. EBITDA declined by 4% year-on-year due to a sudden decline into volumes, particularly into the B2B segment. If we look closely at the free and regulated markets, free market EBITDA decline of around €120 million or 6%, and this is mainly attributable to a temporary long position driven by a sharp contraction in volume in Italy and Spain of 5% and 11%, respectively.
+
+
+--DocBreak--
+Women in Business 2019 - Sponsored Content
+
+
+--DocBreak--
+Kamala Harris sparked a buzz from Twitter tonight before she even uttered a word of her victory speech. The moment she stepped on stage in Delaware--to a Mary J. Blige song, no less--viewers were fixated on her vice presidential attire: a white pantsuit and silky, pussybow blouse. She also traded in her signature Converse sneakers for nude heels.
+ The ivory look, reportedly from Carolina Herrera, is being viewed as an homage to women suffragists in the early 20th century, who wore all-white attire while fighting for the right to vote. In recent years, women in politics have made similar sartorial references, like Democratic Congresswomen in 2018, who wore white to the State of the Union address, or Hillary Clinton, who wore a white pantsuit when she became the first female presidential nominee for a major political party in 2016.
+ Fashion historian and writer Shelby Ivey Christie also pointed out on Twitter that "monochromatic dressing is the mark of celebration in the Black community," noting another layer of significance in Senator Harris's ensemble.
+ Viewers applauded the wardrobe choice.
+
+
+--DocBreak--
+Farm Heroes Saga, the #4 Game on iTunes. Play it now!
+
+
+--DocBreak--
+Sure. And then sometimes -- on change of administration, I mean, I think, ICF has always kind of been seen more as kind of a social, more favorable under Democrats. Although, I don’t think the financial results really ever play out like that. But when you do have a change of administration, there are some transitions relative to initiatives and things, no matter what’s going on. Do you -- is there -- if there is a change in the White House, are there any things that we maybe want to look at or flag at this point as positives or negatives in terms of policy shifts that could maybe beneficial long-term but short-term could kind of put the brakes on work?
+
+
+--DocBreak--
+"Like I said all along, we've got two really good players," Frost said of Martinez and McCaffrey. "Those guys are going to compete and I thought we just needed a spark and gave Luke a shot. He deserves it."
+
+
+--DocBreak--
+The quickest way to ascend power under this regime is to utter the (not-very secret) password: "We thank the Head of State" or "Thanks to the Head of State," which falls without fail from the lips of party politicians all the time.
+
+
+--DocBreak--
+Simi Valley Businesses Given Green Light To Call Police On Customers Who Refuse To Wear Face Masks
+
+
+--DocBreak--
+Finally, the West Africa where the region as a whole continues to struggle, vessel revenues decreased 30% or $6.6 million compared to the previous quarter, the active vessel count was down by further 15 vessels from the previous quarter, which allowed us to increase active utilization from 55% during the second quarter of 2020 to 66% in the current quarter. Average day rates for the region were $9,643, an increase of 5% from where we were this time last year. Vessel operating loss for area was $10.2 million for the quarter compared to an operating profit for the same period last year of $678,000. The decrease is due mainly to the drop-off in revenue coupled with the cost to mobilize vessels at the layup positions. West Africa has been a struggle for everyone through 2020 as we come to terms with the pandemic. That's with the other regions in which we operate. We are starting to see some early green shoots as our clients start to look to open back up. Recovery will probably be a little slower than other areas, but we are fully committed and believe in the region going forward.
+
+
+--DocBreak--
+I think, I'm being tapped here under the table, I guess I am sure.
+
+
+--DocBreak--
+We believe the future for wind energy will continue to strengthen, given some of the recent initiatives and goals to promote the acceleration of an energy transition that I just noted. However, our current long-term goals that we have discussed publicly, including 18 gigawatts of capacity, 20% market share and $2 billion of wind revenue are based on older and more conservative industry forecasts that do not factor in these new initiatives and goals. Stay tuned as we will review and update our long-term goals in light of these new initiatives, including the optimization of our global footprint.
+
+
+--DocBreak--
+TAUNTON -- John-Paul and Peter Thomas had always wanted to own a restaurant in the Silver City.
+ Since opening Bar 88 & Grille in 2017, the Taunton brothers looked to create a place with a little flare in the city.
+ But when COVID-19 closed down their establishment at 88 Wales St. in March, the duo had to start again from scratch.
+ "It was up and down before the pandemic," John-Paul said. "But like everybody else when COVID-19 hit, it took the wind out of our sails. But since coming back it has been very positive."
+ Now, the best-kept secret in the city is back and better than ever.
+ The restaurant specializes in thin crust, flatbread brick oven pizzas made fresh daily with straight mozzarella in a wood-fired, all natural brick oven outdoors with a temperature set at over 500 degrees.
+ This unique, smoky-flavored pizza has many options on the menu, including classic cheese, Caprese, Greek, BBQ chicken, Hawaiian and Mediterranean. You can also build your toppings to satisfy your taste buds.
+ They also serve fresh seafood, sandwiches, burgers, appetizers and other tasty entrees. There are 10 beers on tap and they will soon feature a margarita tap.
+ John-Paul said he does offer fresh-made Lebanese food but had cut back on that option on their regular menu in July due to COVID-19.
+ "We get a lot of people coming in for the first time and they did not know about this place," he said. "We're here. Everybody said 'We did not realize you were here … I did not know it existed'."
+ Bar 88 & Grille, which used to be called Anthony's 88, the Red Whippet, Cape Verdean Club and Esprito-Santo, reopened in July and has gone all out to keep diners safe amid COVID.
+ Twelve tables on the inside are 6 feet or more apart. The bar area has partitions in place that seats two patrons only. John-Paul and his brother also built and designed one of the nicest outdoor patios in Taunton, with 14 tables set at six-feet apart or more.
+ The newly renovated building, which has seven staff members, also has a lot of custom work on the interior. There are two sets of bathrooms inside and 10 televisions, including two outdoors.
+ In the middle of the dining area, there is a sliding divider that allows for the creation of a function room.
+ John-Paul said they host political functions, weddings, bereavement functions, birthdays, engagements and graduation commencement events
+ The main sign on the front of the building was originally on the old Benjamin's on Bay Street. John-Paul had it restored and replaced it with his restaurant's name.
+ He re-skinned the walls, the ceilings, redid the bar and changed the floors, which used to be vinyl and rugs. All the floors are now brand new.
+ "Now I just need people to sit in the seats and enjoy the place," John-Paul said.
+ Maureen Higgins, a neighbor, has been a steady customer to Bar 88 & Grille since it opened. She often helps out when needed and said the restaurant is loved by everyone who comes in.
+ "I've seen it grow so much," she said "Now they just need that boost. As a neighbor, you want to support it in the worst of COVID-19. I used to be a restaurant business. I try and see the needs of the business since I was into it. [I] just try to be eyes and ears."
+ Bar 88 is currently working to promote and build a website for the restaurant as well as making sure online platforms Grubhub and Doordash are tied to the eatery.
+ John-Paul said he appreciates loyal customers like Higgins.
+ "We have a lot of great people like Maureen and her husband that ordered food weekly along with a handful of customers," he said. "But it wasn't enough to sustain anything. Maureen has been an awesome neighbor and a good customer."
+ Another feature of the restaurant is that there are one or two pieces of acoustic entertainment on Saturdays from 5 p.m.-8 p.m.
+ John-Paul said he would like to expand their demographics inside.
+ Although it is an adjustment sitting inside, Bar 88 has a beautiful layout to keep their customer's safe.
+ John-Paul advised, "I take every precaution necessary. I don't skip out on the guidelines. I like what we have. It's comfortable and cozy. Bar 88 & Grille is where family and friends gather."
+ Bar 88 & Grille will also be adding a new fall menu and will soon offer takeout and delivery.
+ Due to the new COVID-19 restrictions in place, the restaurant will open Tuesday through Sunday from 3 p.m to 9 p.m. They are closed on Mondays.
+ Reach Steve Sanchez at ssanchez@tauntongazette.com
+
+
+--DocBreak--
+Keys to the Match | Fight Fire with Fire
+ November 7, 2020
+
+
+--DocBreak--
+Well, so for the time being, so level of shareholding after the merger is not really relevant, because I think that - because of the way the deal is a merger, so the differences in valuation so will drive a very, very short range in the shareholding after the merge. I think that now the relevant part of the process is that - so the final valuation are expected in days. And the very point is that all the deal is based on the fact that this 65% of shareholding limitation will be removed by the EGM.
+
+
+--DocBreak--
+I think you have covered the key points. I mean, at the end of the day, I think, we have learned quite well how to work in this virtual environment and I think that will -- we will continue to do that to some degree as we move forward and that will drive savings in the areas that you talked about from a travel perspective, as well as from a facility perspective. So those are two key areas.
+
+
+--DocBreak--
+On Twitter, Thuker later reflected on his experience appearing on the game show.
+
+
+--DocBreak--
+Thanks, Harry. The RFP was - we received a robust response to our proposed - our RFP back in September, and it's a little too early to announce, exactly where that's going to head as we continue to conduct due diligence on some of the responses we received and negotiate agreements, but we do expect that it will result in some contracts that we execute for renewable natural gas. And in parallel with that we continue to evaluate investment opportunities through SB98 to invest directly in renewable natural gas projects. So we expect over time, we'll end up with a portfolio of some renewable gas purchase agreements and then some direct investments that we make into renewable natural gas. And I think your question around whether or not the hydrogen project was separate or related to our RNG, RFP, it is. They are two separate projects. They are related only in that, they both will have a meaningful impact on our carbon savings goal, but they are two separate projects and workstreams within the company.
+
+
+--DocBreak--
+Yes. So we've made a lot of really nice progress so far on securing arrangements with some of the OEMs that we build blades for as well as some third parties. We're not going to give specific dollars on it right now. We may give some - a little bit more specificity when we give 2021 guidance. But suffice it to say that we look at this business as fairly high-growth opportunity, higher-margin business than our traditional blade business. So we expect it to become a fairly significant part of the overall picture over time. We'll try to give you a little bit more specificity when we talk in 2021, but, at this point, just suffice it to say that we're really pleased with the progress we've made and what we've got from a backlog standpoint and pipeline moving into 2021.
+
+
+--DocBreak--
+Even when he's in Cameroon, Biya remains out of sight. He spurns the Etoudi Unity palace -- his official residence in the capital Yaounde -- preferring to spend months at a time as a recluse at his private residence in Mvomeka'a, the village of his birth.
+
+
+--DocBreak--
+Simon Pegg tries to keep a low profile in a face mask, shades and a beanie as he steps out in Venice (but is stopped by a few fans along the way!)
+
+
+--DocBreak--
+Actress Natalie Morales says Cuban Americans who voted for Trump are '10000% brainwashed'... as the country remains on edge about results
+
+
+--DocBreak--
+There are no changes to the Injury Report for this match. Once again, Ronny Deila and the Boys in Blue will be without Héber, Gedion Zelalem, Tayvon Gray, and James Sands.
+
+
+--DocBreak--
+Del Mar Thoroughbred Club's fall session is off and running sans fans and horse owners but nevertheless the trainers and jockeys are putting on happy, if covered, faces and the horses are spectacular, as always. (Benoit Photo)
+
+
+--DocBreak--
+To answer your question, Brian, November was - last year was negative 0.8% and December was flat. So as we said, Tony's comment was right on the money.
+
+
+--DocBreak--
+PS5 buyers should be able to play games written for PS4, but not earlier machines. — AFP
+
+
+--DocBreak--
+Women in Business 2018 - Sponsored Content
+
+
+--DocBreak--
+Florida upset Georgia in the SEC East Division rivalry game on Saturday afternoon. The Gators, led by star quarterback Kyle Trask, took down the Bulldogs on Saturday. Florida topped Georgia, 44-28, to improve to 4-1 on the season.
+
+
+--DocBreak--
+Thanks, Peter, and good morning everyone. As you update your models with our Q3 results, there are two factors I want to draw your attention to. First, in light of the recent unprecedented and steep runup in North American Benchmark OSB prices, I'll remind you of the inherent lag in our realized prices versus these benchmarks during periods of rapidly changing prices. This lag which cuts both ways of course occurs because of the timing impact of our order files for commodity and value-added products as well as the roughly 25% of our North American volume that goes into specialty end-users where negotiated prices don't move up or down with the commodity benchmarks. And second, while we are optimistic about current market indicators, we also recognize that we are now entering the winter construction period when demand typically slows down.
+
+
+--DocBreak--
+It's really a bit of everything. Certainly there are permanent nurses that have decided to convert into a travel position. Some of them are even, what we would call lapsed travelers, people who used to work with us. Maybe a few years ago, they went into a permanent role, and now we're recruiting back into the industry. Those numbers are up for us as well. Some are with competitors, but quite honestly, everyone is having difficulty recruiting. More so, we're recruiting from nurses who maybe were in a permanent position. Perhaps they were laid off, or were doing something else and then we're bringing them back into the workforce, but in a traveler or flexible assignment. Some might be in a permanent role today, and they are burned out and overloaded in their current environment, and they want a break. But they do want to and need to continue to work in, and love what they do as a nurse.
+
+
+--DocBreak--
+So I think at the end of the day, I do expect something like a mix, how we will use the €300 million. But definitely, we stand to what we told everybody before that when we will create or generate a gain out of the investment of Sunrise, we will let the shareholders participate in it.
+
+
+--DocBreak--
+Elizabeth Berkley channels the '80s with Saved By The Bell costars Mario Lopez, Tiffani Theissen and Mark-Paul Gosselaar ahead of reboot premiere
+
+
+--DocBreak--
+Where the thorny old issue of compatibility is concerned, Xbox Series X buyers will be able to play games written for all previous consoles.
+
+
+--DocBreak--
+In Q3, Android Central named our Floodlight among the Best Outdoor Security Cameras of 2020. And Techaeris called it the best wireless floodlight camera they've used yet. In summary, Arlo's Q3 results provide a window for where the business is heading, as we continue our transition to the new business model. The team continued to execute at a high level, as we answer to the challenges from the pandemic and drove innovation while still managing costs. This performance has provided a compelling set of data points that speak volumes about the long-term prospects and trajectory of the business.
+
+
+--DocBreak--
+Yes. So, yes indeed. So, we always communicate indeed that we would estimate around EUR 400 million. As you can imagine, likewise, with the work we're doing in the workstreams, et cetera. And we're now looking into next year at this point in time, we are already putting that together.
+
+
+--DocBreak--
+_New York City FC are back on the road as they get ready for their final match of the MLS regular season. The Boys in Blue are set to play the Chicago Fire FC on Sunday._
+
+
+--DocBreak--
+Women in Business 2020 - Sponsored Content
+
+
+--DocBreak--
+A message below that picture reads, "The crises facing the country are severe — from a pandemic to an economic recession, climate change to racial injustice — and the transition team will continue preparing at full speed so that the Biden-Harris Administration can hit the ground running on Day One."
+
+
+--DocBreak--
+Okay, that's helpful. And if I could, just back to the offshore discussion. I know you highlighted this earlier, and it's obviously down the road opportunity, but can you just maybe remind us a couple of the sort of the key parameters or benchmarks in that market you're going to be looking for as to when it might become incrementally more interesting for you and your customers in terms of capacity and more commitments to it?
+
+
+--DocBreak--
+In versions prior to Node.js 14.x, top-level await doesn't run out of the box. Instead, you have to use Google V8 engine's `--harmony` top-level await flag to run it. However, it is fully supported in 14.x and above (i.e., it runs without flags).
+
+
+--DocBreak--
+Addressing cheering supporters in a parking lot in his hometown of Wilmington, Delaware, Mr Biden said: "I pledge to be a president who seeks not to divide, but to unify; who doesn't see red states and blue states, only sees the United States."
+
+
+--DocBreak--
+"Our defense kept us in the battle in the first half, so I thought it was fitting they closed out the game," Napier says. "We used great technique. A lot of the corners played great today. You don't survive today if you don't have really great corner play. We limited the outside receivers impact on the game today."
+
+
+--DocBreak--
+_As Paul Biya marks 38 years in office, residents in the country's Anglophone region are struggling to come to grips with a series of brutal attacks on schools._
+
+
+--DocBreak--
+T. Rex, Houston, B.I.G. and the Doobie Brothers were inducted after being on the ballot for the first time. The Doobie Brothers' inclusion makes 2020 historic for the band -- it's also their 50th anniversary. The group known for hits like "Listen to the Music" and "Black Water" were supposed to celebrate this year with a tour featuring singer-songwriter Michael McDonald -- who sang with the band starting in 1975 before beginning his own solo career -- but it was postponed because of the pandemic.
+
+
+--DocBreak--
+And I will be honored to be serving with a fantastic vice president -- Kamala Harris -- who will make history as the first woman, first Black woman, first woman of South Asian descent, and first daughter of immigrants ever elected to national office in this country.
+
+
+--DocBreak--
+Tanisha Martin was the precinct inspector that supervised all the poll workers at W.D Hall Elementary School in El Cajon. She told News 8, there's doubt in every election process, she found many voters skeptical and cautious dropping off ballots, in-person voting on paper and electronically. Martin sees the how ballots are handled and picked up from polling sites.
+
+
+--DocBreak--
+The man was transported to a nearby hospital and then airlifted to a trauma center in Palm Springs, where he died.
+ The California Highway Patrol and CBP’s Office of Professional Responsibility are reviewing the incident. The Department of Homeland Security Office of Inspector General is also conducting an assessment.
+ No other information was immediately available.  
+
+
+--DocBreak--
+Well, I think there is sort of two things Heather and I would point to, first of all, we have enjoyed this incredibly strong pricing environment because demands really since May or maybe even earlier has been recovering significantly faster than we had anticipated, be it even bringing additional capacity on board in August, it didn't impact that significantly, the reality of OSB demand is that this impacted by seasonal factors, so we would fully expect demand to retreat in the winter months, and so we are at the beginning of that season and so certainly when I look at what we are experiencing, we are now back on time but our shipments no longer well behind like we were, unfortunately, earlier in the season.
+
+
+--DocBreak--
+"When our very democracy was on the ballot in this election, the very soul of America at stake and with the whole world watching, you ushered in a new day for America," she said.
+
+
+--DocBreak--
+Sosa'nın yokluğunda gerçek pozisyonuna dönen Pelkas'ın bence artık alternatif değil asıl oyuncu olması gerekiyor. Savunma anlamında zayıf kalsa da çabukluğu ve hızlı düşünmesiyle bu açığını hücumda kapatıyor. Thiam 1-2 maç ağzımıza bal çaldı. Sonrası ise kocaman bir hayalkırıklığı... Erol hocayı geçen haftalarda uyardım. Sadece kör ortalarla sonuca gidemezsin diye. Daha organize, daha çeşitli ve tabi ki merkezden hücumun planlarını yapması gerekiyor. Rakibin tandem uzunlarının hava hakimiyeti iyiyse yandan yapılan ortaların tehlikesi kalmıyor. Hakem kafasına göre iptal ettiği Fenerbahçe golüyle puan kaybının 1 numaralı sorumlusuydu. Ama kimse kusura bakmasın 2 numaraya da Fenerbahçe teknik heyetini koyarım. Şimdi uzun bir ara ve her takımdan daha fazla süresi var Fenerbahçe'nin... Bu ara uyum dönemi için son şans. Umarım iyi değerlendirilir.
+
+
+--DocBreak--
+And is DTC something you would roll out immediately versus maybe waiting for some PDMs to come on board? And then an additional question on Neurotrophic Keratitis, can you just describe the rationale here for us and maybe characterize the market opportunity in this indication as well? Thanks.
+
+
+--DocBreak--
+However, City will be working to ensure they can capitalize if Columbus should fail to gather maximum points from their match vs. Atlanta United. A win for the Boys in Blue coupled with a draw or defeat for the Crew would mean that NYC opens up their Playoffs campaign at Yankee Stadium.
+
+
+--DocBreak--
+Ice Cube complains people are 'mad' at him for working with Trump and claims he got the president to 'commit to investing $500BN in the black community' - but fans say he 'got played'
+
+
+--DocBreak--
+New York City FC hit the road for their final match before the playoffs against Chicago Fire FC on Sunday.
+
+
+--DocBreak--
+Clearly, we have years of hard work to do and that’s I think what makes us so bullish is this becomes the long walk of value creation and so I think that the PTP procedure provides us that entree into a technique that potentially obviates the need for one of the most popular procedure.
+
+
+--DocBreak--
+“We make everything from scratch like it’s supposed to be done,” Booker said. “It definitely makes a difference.”
+ Booker said the buffet will be open from 11 a.m. to 7 p.m., but after that point guests will order from a menu. The restaurant will have several televisions, and later in the evening he expects the restaurant to be a popular destination for sports fans. Booker would also like to have live music.
+
+
+--DocBreak--
+Turning to our dividend, you will have seen that our Board increased the dividend to $0.60 Canadian per share this quarter on the back of record financial results and continued optimism about end-market demand. This is entirely consistent with our variable dividend policy that gives us the flexibility to adjust the payout level up and down as our operating results outlook and balance sheet permit as well as being consistent with our historically balanced approach to capital allocation. It also recognizes the need for resilience and balance sheet flexibility given the significant uncertainty hanging over our positive outlook, which Peter will outline in a moment. In recognition of our strong Q3 financial results and our positive outlook, we have returned our 2020 capital expenditures back to the original target of $100 million. And looking ahead to next year, we have a preliminary 2021 CapEx budget of $150 million. We will focus this higher budget on reducing manufacturing costs, enhancing process safety across our mills, further investments to support the company's industrial sales growth strategy hence continuation of the Chambord ribald and with that, I'll pass the call back to Peter.
+
+
+--DocBreak--
+Demi Rose strips down to a thong to undergo non-surgical cellulite removal before delightedly boasting of her 'glow-up' after a facial  
+
+
+--DocBreak--
+page-title': 'Keys to the Match | Fight Fire with Fire',
+
+
+--DocBreak--
+Turning to Slide 7. I'll now give you a quick update of our global operations as well as a market update before turning it over to Bryan for a financial update. During the third quarter, we operated at or above capacity in all of our facilities for most of the quarter. As you may recall, our plants in Mexico were still ramping to full capacity at the end of the second quarter and, since the end of, July have been operating near or above our normal capacity. In China, we still expect to deliver more volume than our original 2020 plan as production continues uninterrupted. In India, we are moving full speed ahead with the ramp of the facility, and we are preparing to start-up two lines for Nordex in early 2021. In Turkey, production is at a full pace with, the exception of the transition of lines for Vestas to their state-of- the-art V162 blade as part of the extension of that contract.
+
+
+--DocBreak--
+SAN DIEGO — Poll workers are feeling the pressure post-Election Day and as the presidential election dragged on, vote counting was under the microscope.
+
+
+--DocBreak--
+Looking into the figures of Media Broadcast. You see that, yes, we saw the RGU slightly decreasing during the last quarter, but we do also see on the back of the price increase that it was possible to increase our EBITDA and our gross profit further. So it is a very successful story here on the B2C business. And in the B2B business, the optimization comes together with the start of the digital radio, the next multiplex, which could be started at the beginning of October. But also in the third quarter, we were more successful with our digital radio here.
+
+
+--DocBreak--
+Who doesn’t see red and blue states, but a United States.
+
+
+--DocBreak--
+This time, it was a win. He was congratulated by his assistant coaches.
+ The 56-year-old Dorrell took over in Boulder last February when Mel Tucker left for Michigan State after one season on campus. Dorrell didn’t have much time to get his team ready with no spring practice due to the pandemic.
+ His offense was operating on all cylinders as the Pac-12 finally kicked off an abbreviated season. The Buffaloes finished 7 of 7 in the red zone.
+ It was a frightful first half for the Bruins in Year 3 under coach Chip Kelly. They fumbled a punt return, had two more fumbles on offense and saw Thompson- Robinson throw an interception to Carson Wells.
+

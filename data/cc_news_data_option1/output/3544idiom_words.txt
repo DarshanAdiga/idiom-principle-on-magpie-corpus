@@ -1,0 +1,9 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-138200361083373852-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-138200361083373852-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-138200361083373852-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+A través del 911, médicas zacatecanas atienden a miles durante la pandemia
+

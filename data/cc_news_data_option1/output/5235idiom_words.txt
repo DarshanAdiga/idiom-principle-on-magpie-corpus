@@ -1,0 +1,43 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-138200361083373852-3')})
+
+
+  googletag.cmd.push(function(){googletag.display('div-gpt- ad-138200361083373852-4')})
+
+
+  googletag.cmd.push(function(){googletag.display('div-gpt- ad-138200361083373852-5')})
+
+
+  jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Cobre y banano impulsan exportaciones panameñas; Apex apunta a fortalecer el sector en 2021
+
+
+--DocBreak--
+Miss you heaps’: Man goes missing in surf | CQ News
+
+
+--DocBreak--
+European medicines regulator to review Pfizer COVID-19 vaccine
+
+
+--DocBreak--
+Spinach and pistachio-stuffed chicken wrapped in prosciutto recipe - NZ Herald
+
+
+--DocBreak--
+Aussie TV feud nobody knew about | News Mail
+
+
+--DocBreak--
+Colts recover another late fumble, beat Texans 27-20
+
+
+--DocBreak--
+Congress reaches deal on $900 billion Covid-19 relief package
+
+
+--DocBreak--
+Aussie TV feud nobody knew about | Sunshine Coast Daily
+

@@ -1,0 +1,10 @@
+This response had setCookie as response header. So while using localStorage, we first update it then proceed.
+
+
+--DocBreak--
+A case of driving under the influence of alcohol and reckless and/or negligent driving was opened for investigation while the Constable was detained.
+
+
+--DocBreak--
+He is facing charges of driving under the influence of alcohol, reckless and / or negligent driving and use of motor vehicle without owner's consent.  
+

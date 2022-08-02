@@ -1,0 +1,319 @@
+COLLOUT CLICK "X" (close callout)
+
+
+--DocBreak--
+“I would say it’s an exception to see someone do the right thing," said Alexa Whaley, a junior from Albuquerque, New Mexico. She said she went home over spring break and returned because of her job at a local law firm.
+
+
+--DocBreak--
+The rising number of chronic diseases across the globe has further triggered the need for chronic disease management in on-site preventive care centres. The World Health Organization estimated that over 14 million new cases of cancer occurred across the globe in 2012 and out of these 7.4 million cases were among men and 6.7 million among women. This number is anticipated to rise to 24 million by the end of 2035. The growing incidences of cancer, infective diseases, and cardiovascular diseases is expected to boost the use of this particular service in the long run.
+
+
+--DocBreak--
+Luann de Lesseps admits she's drinking again on the Naughty But Nice podcast: 'I'm in the driver's seat, and I can decide for myself'
+
+
+--DocBreak--
+Ariana Grande wishes 'literal angel' Lady Gaga a happy birthday... sparking fan speculation a collaboration is in the works
+
+
+--DocBreak--
+"Right now I've just been taking the time to get better and better myself. Like they say the social distancing, working out getting my workouts in and also recovery too. So when this all does start back up I can hit the ground running."
+
+
+--DocBreak--
+This will AOT compile all the server code, compile ClojureScript in optimized mode, and package everything into an uberjar distributable in `target/uberjar/myapp.jar`. This is effectively a container for the application that can be run in any JVM. The Luminus docs walk you through some hosting options. The app should work on Heroku out of the box, I tend to host apps using Dokku on Digital Ocean, here's an example.
+
+
+--DocBreak--
+Per _The Wall Street Journa_ l, big spending bills often fill members of Congress with doubts, and this one may be no different. "My guess is that this bill won't wear well over time, and Congress isn't going to be inclined to do another big package," Andy Laperriere, a policy analyst for investor advisory firm Cornerstone Macro, told the _Journal_. "There will be fraud, companies getting money going into bankruptcy, things that people on the left and right won't like."
+
+
+--DocBreak--
+Brian Stokes Mitchel, who starred in “Ragtime,” said McNally's curiosity was ever-present. “He had a wit and he always was engaged in the conversation and always seemed to want to do the right thing,” he told The AP. "That curiosity, I think, is one of the hallmarks of great artist and Terrence certainly had that on top of his enormous, enormous heart.”
+
+
+--DocBreak--
+"What I do remember about them they were a very athletic team," Brotherton said. "They had a really good bunch of guys. They have a few really good offensive linemen on that team because they were a good rushing team. They had good running backs and good speed at wide receiver. I remember they caught like a screen pass on the first play and he went around the edge for about 60 yards. That was a wake-up call. They were a very good team."
+
+
+--DocBreak--
+The proposal fits into a trend in the U.S. toward dam demolition as these infrastructure projects age and become less economically viable. More than 1,700 dams have been dismantled nationwide since 2012.
+
+
+--DocBreak--
+"Morning sun greets many banner
+   
+ On its westward flight
+   
+ Fair to us above all others
+   
+ Wave the Blue and White."
+   
+ By Mike Tupa
+   
+ mtupa@examiner-enterprise.com
+   
+ Unfortunately for man mourners in the Bartlesville High School sports family the morning sun has been partially obscured by a glint of darkness since Nov. 4, 2019 -- when Spence Rigdon drew in his final breath on earth.
+   
+ But, there's also little doubt the Blue and White waves a little prouder due to an unseen gust of love sent from a region somewhere above.
+   
+ His legacy -- as both one of the supreme warriors ever to wear the school's colors, and as one of the longest-serving head coaches in any Bartlesville High sport -- likely makes him the most beloved Bruin of all time.
+   
+ One cannot separate the history of Bartlesville Bruin baseball from 30 years ago -- 1990 and 1991 -- from Rigdon's omnipresent silhouette.
+   
+ The '91 squad burst into the playoffs like a lightning flash, flogging all its opposition all the way to the state tournament. Bartlesville wouldn't make it back to baseball state until 2006 -- when Rigdon was the head coach.
+   
+ Aaron Bucher, a key player on the '91 crew, offers one explanation as to the Bruins' metamorphosis that year from mediocre to magnificent.
+   
+ "We had a guy named Spence Rigdon," he said.
+   
+ "Spence was one of the best competitors I ever coached," recalled Jerome Gibson, Bartlesville's head baseball coach in the early 1990's.
+   
+ The 1990 Bruins made it all the way to the regional championship game -- in which they lost to Owasso, 10-9.
+   
+ Even though he didn't a large chunk of the 1990 campaign, Rigdon still made an impression that lights Gibson's memory three decades later.
+   
+ It occurred during a regular season game, in which Rigdon and Bucher were both playing in the outfield.
+   
+ There was a pop fly falling into no man's land, with Bucher and Rigdon both in determined pursuit.
+   
+ "No one ever canned for it, because they weren't sure," Gibson said.
+   
+ Bucher dived for it and a collision ensued, in which three bones around Rigdon's ankle area were broken.
+   
+ "It (the crashing contact) kind of stunned Bucher," Gibson recalled. "Spence, despite that gain, got up, ran to the fence, got the ball and threw to the cut-off man -- and then fell down. He was lost for the rest of the season."
+   
+ That's only part of the story.
+   
+ Rigdon, a junior that year, was slated to be the football team's star tailback the next fall.
+   
+ The prognosis was that he might as well forget playing in the fall, Gibson recalled.
+   
+ "But, being who he was, Spence just went to work to rehab -- and he became the starting tailback on the football team."
+   
+ And, in the next spring, he would help pitch, bat and lift the Bruin baseball team higher than anyone could have expected.
+   
+ Of course, Rigdon didn't do it alone.
+   
+ But, he provided the emotional backbone.
+   
+ Speaking in the present tense in reference to 29 years ago, Bucher said that "Spence Rigdon finds ways to get things done."
+   
+ Following is a closer look at one of the best back-to-back year showings ever by Bruin baseball.
+   
+ 1990 team
+   
+ Welcome to the world of "Tippy the Turtle" and Stayton's Place.
+   
+ Bolstered by these two sticks of human dynamite, the senior-drenched Bruins -- Gibson would graduate 15 off this team -- Bartlesville bullied all the way to within two runs of making the state tournament.
+   
+ Carrying a 14-11 record into the postseason, the Bruins opened the regionals by grilling Jenks to a crispy afterthought, 10-0.
+   
+ Bruin pitcher Mike Alfred (4-1, 2.00 earned run average) unleashed the three- hit shutout while ringing up nine strikeouts.
+   
+ Jenks nearly broke up the shutout, but Lance Horne snapped off a throw to catcher Kylie Bradley, who tagged out a runner at home.
+   
+ Mark Bertus scored the Bruins' first run -- the only one they would need.
+   
+ But, Owasso then subdued the Bruins, 5-0 -- despite Bruin pitcher John Kilgallon carrying a one-hit shutout into the seventh inning. A blooper double and three Bruin errors resulted in a five-run seventh by Owasso.
+   
+ Bartlesville sprang back to life the next round -- sparked by Joel "Tippy the Turtle" Manley -- to crush Jenks in the consolation final, 12-2.
+   
+ Manley mashed a double and a triple to energize the offense. Horn and Wilson each added a home run.
+   
+ Jason Loveland, Scott Stayton and Jeff Shoaf all pitched for Bartlesville, with Shoaf picking up the win.
+   
+ Next up, the Bruins faced Owasso in the regional championship game -- with a state spot on the line.
+   
+ Owasso rocketed to a 10-1 lead -- but Bartlesville ended the game with eight unanswered runs to reach the doorstep of a potential seismic upset.
+   
+ Manley went 2-for-4 with four RBI's -- including a three-run homer, hit with Stayton and Kilgallon on base -- to spark the comeback.
+   
+ Stayton -- who smashed the ball in the regular season at a sizzling .435 clip -- also helped fire up the Bruins.
+   
+ Kilgallon added a two-run double.
+   
+ Gibson's squad was handicapped earlier in the game when regular MarK Bertus exited with an injured Sand Springs.
+   
+ Bartlesville finished the season at 16-13.
+   
+ 1991 team
+   
+ With 15 seniors off the 1990 team walking across the graduation platform and exiting into the tenebrous unknown of the future, Bartlesville's prospects for a prosperous 1991 baseball season appeared dim -- despite the return of Rigdon, Bradley and a battalion of other gritty grinders, including Bucher and Tommy DeSalme.
+   
+ For one thing, Bucher and DeSalme, and perhaps more, missed all of spring practice -- because they were busy leading the Bruin boys basketball team to a state title -- and didn't come on board on the diamond until after regular season play had started.
+   
+ "The guys who were out for basketball got late starts," Bucher noted. "We won the state championship for basketball on a Saturday and by then they had already played (multiple) baseball games by then."
+   
+ Bartlesville wrapped up the basketball Gold Ball on Saturday, March 9, with a 59-46 thumping of Norman. The Bruins nailed 31-of-36 from the free throw line -- including 14-of-17 in the final quarter -- and feasted on a 16-point output by team leader Michael Ellison to claim their second hoop state title in three seasons.
+   
+ The next Monday (March), the basketball players had changed into baseball uniforms and checked in for practice. Bartlesville dropped a painful doubleheader that day to Tulsa Union, 11-1 and 14-4, at Bartlesville Municipal Stadium.
+   
+ In fact, that result was not a-typical for most the campaign for the Bruins.
+   
+ Following the twinbill loss to Union, they would struggle to hit the .500 mark again.
+   
+ Pitching consistency seemed to be a sticking point for the Bruins. Multiple times they won, or at least competed closely, in the opening game of a doubleheader, but suffered a one-sided loss in the nightcap.
+   
+ They reached .500 at 6-6, after a sweep of Ponca City, and against at 14-14, after beating Enid, 4-3, and Moore, 10-2,on the same say in tournament play.
+   
+ The Bruins took heart late in the season with a win against Owasso, 5-4 -- but then finished seventh in the Frontier Valley Conference tournament.
+   
+ But, the Bruins had one other thing going for them attitude-wise heading into the playoffs.
+   
+ "In the summer of 1990, we (the Doenges Ford Injuns) made the American Legion state tournament … That might have been a springboard for us confidence-wise," Bucher said.
+   
+ In fact, the 1990 Legion squad -- coached by Stan Walton -- became the Injuns' first zone champion team since 1984.
+   
+ With that accomplishment -- and a full regular season high school season -- under their belts -- the Bruins chomped at the bit to begin the 1991 prep postseason.
+   
+ But, they definitely weren't the favorite team to win it all.
+   
+ Bartlesville carried a mediocre 18-21 mark into the regional playoffs.
+   
+ In the opening round, they humbled Tulsa Memorial, 6-1, with Matt Myers as the starter.
+   
+ Gibson followed a bit of a risk in that decision by saving his ace for the semifinals.
+   
+ Myers responded with a three-hitter, with four strikeouts, in six innings, before Matt Coutant relieved him for the seventh.
+   
+ "It's one of those deals where, being a head coach myself, are you playing to win the first game or the tournament?" Bucher explained about Gibson's decision to use Myers. "We knew out best change to win the whole thing was to have Spence available for Owasso (semifinals)."
+   
+ Rigdon -- who couldn't avoid another serious injury this season, pulling his groin, but refusing to dial back -- justified his coach's decision by beating Owasso, 4-2, with a complete game three-hitter, with three walks and seven strikeouts.
+   
+ Cody Galbreath was Bartlesville's offensive catalyst by slamming a leadoff homer in the second inning -- his fifth of the season and second in the Owasso ballpark. In the fourth inning, Scott McNeill scored on a wild pitch and Bucher plated Rigdon on a groundout.
+   
+ Bartlesville also scored on Galbreath singling home David Delahay, Bucher driving home Kylie Bradley, Bucher scoring Bradley on a sacrifice fly, and Doug Lane scoring on an error.
+   
+ Memorial then shocked Owasso in the regional semifinal, setting up a rematch against Bartlesville for the regional crown and a spot at state.
+   
+ Note: Part two of this feature is planned for Monday's E-E sports pages.
+
+
+--DocBreak--
+But governors suggested that view had little connection to the reality they're facing. California Democratic Gov. Gavin Newsom said he and Trump are “clearly operating under a different set of assumptions." California, home to 40 million people and the world’s fifth-largest economy, reported hundreds of new known cases of COVID 19 and now has more than 2,200, according to a tally by Johns Hopkins University.
+
+
+--DocBreak--
+Yes, you can. This is why officials urge you to not touch your face. A sneeze or cough can deposit droplets of infected saliva onto doorknobs, elevator buttons or your cellphone. Alternately, someone who's ill could touch these or other objects, depositing the infected saliva that's already on their hands onto a surface that others will touch. Then, all you have to do is lay a finger on one of these surfaces and touch your nose, your eye or your mouth.
+ Dreamstime/TNS
+
+
+--DocBreak--
+An employee opens the doors for the at-risk shoppers hour at the Crossroads Hy-Vee in Waterloo Wednesday.
+
+
+--DocBreak--
+The authorities in the capital also ordered the construction of a new hospital for coronavirus patients that is being built from scratch and should be ready in several weeks. In addition to three hospitals treating coronavirus patients in Moscow, several other clinics have been recently converted for the purpose.
+
+
+--DocBreak--
+CHULA VISTA, Calif. (CNS) -- A man wanted on suspicion of killing his wife Sunday is believed to be on the run in the San Diego area, police said.
+
+
+--DocBreak--
+Speaking during the latest Coronavirus Task Force press briefing at the White House on Sunday, the president said that measures such as social distancing were "the way you win", adding that the US "will be well on our way to recovery" by June.
+ Suggesting that the "peak" of recorded deaths in the US was likely to hit in two weeks, Mr Trump said that "nothing would be worse than declaring victory before victory is won".
+ "That would be the greatest loss of all," he said.
+ He had previously said that Easter - the weekend of 12 April - would be a "beautiful time" to be able to open at least some sections of the country.
+ ## What did Trump say about ventilators?
+ Earlier on Sunday, Mr Trump accused hospitals in some states of "hoarding" ventilators, face masks and other critical medical supplies.
+ "We do have a problem with hoarding... including ventilators. Hospitals need to release them - in some cases they have too many, they have to release medical supplies and equipment," he said.
+ Hospitals "can't hold them if they think there might be a problem weeks down the road", he said, alleging that some were "stocked up".
+ The availability of ventilators is a major concern among health professionals as demand has surged with the spread of the virus, A number of states have warned that they will soon run out.
+ President Trump has ordered a car manufacturer in Detroit to produce more ventilators to satisfy demand.
+
+
+--DocBreak--
+That's how he's appearing to the low-info and slow-info voter. Including his support of the bill.They're still trying to figure out about washing their vegetables and getting some plastic gloves and how they are going to rob peter to pay paul to pay the credit card minimums.
+
+
+--DocBreak--
+Every dog has its day.
+
+
+--DocBreak--
+SAN DIEGO -- Police were searching Saturday night for a person they said jumped over the counter at a CVS Pharmacy in Mira Mesa and demanded pills from an employee.
+
+
+--DocBreak--
+"You hear people from Los Angeles, the Bay Area, all over the place, and they keep asking, 'Well, what's going to happen to the dams?'"
+
+
+--DocBreak--
+Queen snaps up American PR hotshot Sara Latham who was cut loose by Harry and Meghan when they moved to Canada
+
+
+--DocBreak--
+"This is the hardest thing I've ever done in my 44 years in business," Sundling said of the closing of Delmar Bootery and the layoffs.
+
+
+--DocBreak--
+Tiger King star Joe Exotic is loving his newfound fame as the Netflix show has 'raised his spirits' from behind bars... as it's revealed he doesn't sing his own songs
+
+
+--DocBreak--
+Columbia University law professor Katherine Franke said that since “the overwhelming majority of at least Christian congregations are meeting online,” state officials may have issued the exemptions in the hopes the impact would be minimal, assuming “most people will do the right thing.”
+
+
+--DocBreak--
+What's your backend workflow? I think my knowledge in this regard is stuck at My Clojure Workflow, Reloaded. Is this still the way to go or is it outdated?
+
+
+--DocBreak--
+Getting sneezed at or coughed on by someone who's infected is probably the most common way, according to the CDC. If that virus-carrying saliva lands on a wet part of your face -- your eyes, nose or mouth -- you'll be infected. Droplets from a sneeze or cough can fly about 3 feet before they drop to the ground. If the cough or sneeze is "very forceful," they can go as far as 6 feet, said Dr. Aruna Subramanian, an infectious diseases specialist at Stanford University. The droplets could also be inhaled directly into the lungs of those nearby. "What we're really talking about is droplet spread," said Dr. George Rutherford, an epidemiologist and infectious disease expert at UC San Francisco. "Droplets fly out ... and you inhale them on the fly."
+ Dreamstime/TNS
+
+
+--DocBreak--
+Panama's Health Ministry announced Saturday that it would allow the Zaandam, which has been at sea since leaving Argentina March 7, to transit the canal, though no passengers or crew would be allowed to disembark. The independent Panama Canal Authority also issued a statement saying it was preparing to "facilitate the transit of the Zaandam through the waterway."
+
+
+--DocBreak--
+Trump's coronavirus response reignites federalism debate as critics brand the President 'entirely out of step with almost every predecessor in living memory'
+
+
+--DocBreak--
+NYC mayor Bill De Blasio warns the city's hospitals only have enough supplies to last A WEEK - as he comes under fire for initially urging New Yorkers to 'go about their lives' as recently as two weeks ago
+
+
+--DocBreak--
+Do the right thing!' Hugh Jackman urges fans to 'follow guidelines' set by the government and stay home to slow the global spread of coronavirus
+
+
+--DocBreak--
+Man suspected of killing his wife is on the run
+
+
+--DocBreak--
+"The real estate people are not anxious to take listings here because it's the rumors there all the time," said Tom Rickard, who had to take his home off the market last summer when it didn't sell.
+
+
+--DocBreak--
+When you are in the hole digging business, the only tool available is a shovel.
+
+
+--DocBreak--
+Your "cut the crap" and "sigh" stuff is such a sure winning sales pitch. Add the ranting about Republicans and racism and tribes, and I go: gosh what genius, just can't figure out why Joe Biden doesn't hire him to run his campaign and win over swing voters in swing states.
+
+
+--DocBreak--
+well then if that's the case, soon the fans will be getting real sick and some dying. M.A.G.A. my ass they might start to say, a few weeks down the road. places where they don't have a single ventilator.
+
+
+--DocBreak--
+Man suspected of killing his wife is on the run | fox5sandiego.com
+
+
+--DocBreak--
+Shoppers 60 and over file into the Cedar Falls Wal-Mart at 6 a.m. Tuesday, March 24, 2020, to get early bird shopping done in the middle of the coronavirus threat.
+
+
+--DocBreak--
+Cuomo's demeanor has been calm and appropriate. He has been clear and persuasive. He has been ahead of the curve on social distancing and medical preparations. He's played Trump like a flounder, cooperating in his insistence on drug trials then smacking him on medical preparations.
+
+
+--DocBreak--
+"We cannot thank our first responders, healthcare workers, and countless others on the front lines enough for putting their health and safety at risk to protect us," Bellone said. "This morning's Feed Our Heroes event was a chance for us to show our appreciation for all those working around the clock as we address this crisis. No matter how big or small the gesture, it is incredible to see our communities step up and do what they can to support our heroes."
+

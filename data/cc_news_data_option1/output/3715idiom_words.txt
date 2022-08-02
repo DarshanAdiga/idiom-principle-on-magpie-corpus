@@ -1,0 +1,2 @@
+Intel has debuted a new version of HAXM, its Hardware-Accelerated Execution Manager that serves as an accelerator for the Android Emulator and QEMU via Intel VT enabled CPUs.
+

@@ -1,0 +1,50 @@
+"Just in the nick of time," Magistrate Louise Shephard said.
+
+
+--DocBreak--
+When the user clicks on the button, scroll to the top of the document
+
+
+--DocBreak--
+For those who fortunately belonged to a time when television
+
+
+--DocBreak--
+Rojas strives for excellence on and off the field
+
+
+--DocBreak--
+Cut the mustard to barebones!
+
+
+--DocBreak--
+Interview
+ What's in the Bag?: An Interview with Harold Holscher, Director of _The Soul Collector_ (AKA _8_ )
+
+
+--DocBreak--
+CFC is an African economic and financial hub located at the crossroads of continents. Recognized as the leading financial center in Africa and a partner of the largest international financial centers, CFC has built a strong membership community of financial firms, regional headquarters of multinationals, service providers and holding companies. CFC offers its members an attractive value proposition including a "Doing Business" support that promotes the development of their activities in Africa. Driven by the ambition to cater to its community, CFC is committed to promoting the African expertise of its members while stimulating synergies and business opportunities within its network.
+
+
+--DocBreak--
+Managing team members who can be working from anywhere requires proven communication models to be redesigned, keeping in view the unique challenges that go with a 100 p.c. remote-working arrangement.
+ Any communication model that may be designed for work-from-home teams will reaffirm known features of effective team communication. Only that these best practices may have to be promoted more aggressively.
+ Naresh Purushotham, chief mentor and co-founder, CrestPoint Consultants India, says, “If leaders err in their communication strategies for remote-working teams, let it be that they err on the side of over-communication.” He explains that this will compensate for the lack of regular in-person interactions, where communication happens organically.
+ Advertising
+
+
+--DocBreak--
+TEHRAN, Iran (AP) — A misaligned missile battery, miscommunication between troops and their commanders and a decision to fire without authorization all led to Iran’s Revolutionary Guard shooting down a Ukrainian jetliner in January, killing all 176 people on board, a new report said.
+ The report released late Saturday by Iran’s Civil Aviation Organization came months after the Jan. 8 crash near Tehran. Authorities initially had denied responsibility, only changing course days later after Western nations presented extensive evidence that Iran had shot down the plane.
+ The report may signal a new phase in the investigation into the crash, as the aircraft’s black box flight recorder is due to be sent to Paris, where international investigators finally will be able to examine it. It also comes as public opinion remains low over Iran’s government as it faces both crushing U.S. sanctions and vast domestic economic problems.
+ The shootdown happened the same night Iran launched a ballistic missile attack targeting U.S. soldiers in Iraq, its response to the American drone strike that killed Guard Gen. Qassem Soleimani in Baghdad on Jan. 3.
+ At the time, Iranian troops were bracing for a U.S. counterstrike and appear to have mistaken the plane for a missile. The civil aviation report does not acknowledge that, only having said a change in the “alertness level of Iran’s air defense” allowed previously scheduled air traffic to resume.
+ The report detailed a series of moments where the shootdown of Ukraine International Airlines Flight 752 could have been avoided.
+ The report said the surface-to-air missile battery that targeted the Boeing 737-800 had been relocated and was not properly reoriented.
+ Those manning the missile battery could not communicate with their command center, they misidentified the civilian flight as a threat and opened fire twice without getting approval from ranking officials, the report said.
+ Western intelligence officials and analysts believe Iran shot down the aircraft with a Russian-made Tor system, known to NATO as the SA-15. In 2007, Iran took the delivery of 29 Tor M1 units from Russia under a contract worth an estimated $700 million. The system is mounted on a tracked vehicle and carries a radar and a pack of eight missiles.
+
+
+--DocBreak--
+contentWidth' : '1020px', // size of the regular content in pixel or Distance between the Left and Right Ad in pixel
+

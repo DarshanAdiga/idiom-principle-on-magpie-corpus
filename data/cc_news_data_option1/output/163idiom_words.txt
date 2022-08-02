@@ -1,0 +1,12 @@
+McDonald's is giving out free bacon rolls today – but you'll have to be quick - Daily Star
+   *[ASX]: Australian Stock Exchange
+
+
+--DocBreak--
+ASX]: Australian Stock Exchange
+
+
+--DocBreak--
+document.write(new Date().getFullYear())
+   *[ASX]: Australian Stock Exchange
+

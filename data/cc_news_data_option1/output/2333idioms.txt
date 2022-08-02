@@ -1,0 +1,634 @@
+Three months after we entered lockdown, as we tiptoe out to non-essential stores and meet a lonely relative, we can begin to benefit from something previously unavailable – experience. Instead of having to rely entirely on widely varying mathematical models and fight an unknown virus in a fog of uncertainty, governments can start to see what has actually worked in different places around the world.
+
+
+--DocBreak--
+This was a basic overview of how you can create RESTful APIs easily with Node and Express. If you want to dig deeper into Express be sure to check out their docs. If you want to add or ask something please feel free to comment.
+
+
+--DocBreak--
+Emails will be sent directly from Legacy.com. We respect your privacy and will not sell your information to a third party. You may opt out at any time. See privacy policy for details.
+
+
+--DocBreak--
+The Queen makes her first official public appearance since lockdown as she views a socially-distanced and scaled down version of Trooping the Color
+
+
+--DocBreak--
+Kylie Jenner and Travis Scott try to keep a low profile as they leave LA hot- spot and jump into the same car after 'working on getting back together'
+
+
+--DocBreak--
+A CERB extension is in the works for those in need: PM
+
+
+--DocBreak--
+Web typography has the advantage of drawing on the wealth of knowledge belonging to the centuries-old tradition of print typography. By the same token, that tradition carries with it standards of best practices and excellence that web typography is called on to live up to.
+
+
+--DocBreak--
+The minister spoke to Clement Manyathela on The Midday Report in light of World Elder Abuse Awareness Day.
+
+
+--DocBreak--
+Screenwriter John Ridley calls out Quentin Tarantino's 'painful' use of the n-word in films - after his op-ed caused HBO Max to pull Gone With the Wind
+
+
+--DocBreak--
+end functions for video ads moving left and right
+
+
+--DocBreak--
+She's a Julie eeked out a narrow win with a very thrilling finish in the Grade 1, $300,000 Ogden Phipps Stakes at Belmont Park on Saturday. Ridden by Ricardo Santana Jr., She's a Julie sat in the fourth position in the early going as Blamed cut out fast fractions of 22.84 for the first quarter-mile and hit the half-mile in 45.98.
+ Ollie's Candy and Golden Award tracked in second and third, while She's a Julie just sat back and watched the speedy madness unfold. Blamed drew clear by a length or so but understandably started to tire on the far turn.
+ Meanwhile, She's a Julie and Santana was in an all-out drive and launching a three-wide bid from the back of the pack. As Blamed started to backpedal, Ollie's Candy swept to the lead and got clear but She's a Julie and Point of Honor were advancing as a team and eating up the ground.
+ The trio battled down to the wire and it came down to a head-bobbing photo finish that revealed She's a Julie had prevailed by a nose. Point of Honor was a neck better than third-place finisher Ollie's Candy and it was another 8-1/4 lengths back to a tired Blamed in fourth.
+ Trained by Steve Asmussen, She's a Julie paid $31.40 for a $2 win ticket and covered the 1-1/16 miles in 1:40.27 on a track listed as fast. Santana rode this horse perfectly and has been aboard for Julie's last 14 starts.
+ "Everybody put a lot of effort into this filly," he said. "Steve (Asmussen) said he wanted me to go to N.Y. She's doing really well. I worked her and we were really happy with her. Steve knows what he's doing and I always listen to him. Today, she was feeling good. We got a great break. I sat in the spot I wanted. I knew she was going to give it to me and she kicked it in. She gave me a nice kick."
+ She's a Julie was saddled by Asmussen's assistant trainer, Toby Sheets, who handles the stable's N.Y. division and he wasn't sure if Julie got there first.
+ "I had to watch it one more time to be sure," Sheets said. "It was very close. I said to Ricardo (Santana) before the race that there was a lot of pace in there, and that's how the race unfolded. It was a very patient ride and the pace upfront helped. She ran super."
+ She's a Julie was a $160,000 purchase from the 2016 Keeneland Yearling Sale, where she was consigned by Blandford Stud.
+ With this win in the Ogden Phipps, Julie increased her earnings to $1,187,880 and owns 7 wins from 19 starts, with two of those wins being of Grade 1 caliber. The Ogden Phipps was also a Breeders' Cup Challange "Win and You're In" race and Julie just earned an all-expense-paid trip to Keeneland for the Breeders' Cup Distaff on November 7.
+ As for unlucky runner-up Point of Honor, this was the third time he's run second in a grade 1 stakes event.
+ "Sometimes, I think it's easier to lose by 4-lengths than a nose," Point of Honor's trainer George Weaver said. "You start thinking about all the things you could have done differently, but we're all very proud of her. She ran her eyeballs out once again. There was nothing shameful about this loss. She always gives 110 percent."
+ It's unclear at this time where and when She's a Julie might show up next but you'd think she'd have to run somewhere and get tightened up a bit before the Breeders' Cup.
+ <span
+
+
+--DocBreak--
+Yet there is a danger of thinking that that is all we have to do. We should observe that even the South Koreans have sometimes struggled to keep a lid on the virus. And this week’s renewed outbreak in Beijing shows it can easily return just when you think you’ve got rid of it. If it is true that a lockdown represents a massive failure of policy and the costs of it cannot be repeated, and also true that testing has always provided the key to avoiding such failure, then it is time for the British Government to be much more ambitious in its goals.
+
+
+--DocBreak--
+Lawmakers are passing the budget anyway because the state constitution says if they don't don't pass a spending plan by midnight they won't get paid -- part of voter-approved reforms in 2010 that were supposed to prevent the legendary battles in the past that have resulted in lengthy delays of the state's budget.
+
+
+--DocBreak--
+As a rule, cookies will make your browsing experience better. However, you may prefer to disable cookies on this site and on others. The most effective way to do this is to disable cookies in your browser. We suggest consulting the Help section of your browser or taking a look at the <a
+
+
+--DocBreak--
+A cynic might say it’s always jam tomorrow at TalkTalk. Charles Dunstone’s telecoms outfit has been challenging powerful rivals such as BT and Sky for nearly two decades.
+
+
+--DocBreak--
+Death rates are 12 times higher for coronavirus patients with chronic illnesses than for others who become infected, a new U.S. government report says. The Centers for Disease Control and Prevention report released Monday highlights the dangers posed by heart disease, diabetes and lung ailments. These are the top three health problems found in COVID-19 patients, the report suggests. The report is based on 1.3 million laboratory-confirmed coronavirus cases reported to the agency from January 22 through the end of May. Information on health conditions was available for just 22% of the patients. It shows that 32% had heart-related disease, 30% had diabetes and 18% had chronic lung disease, which includes asthma and emphysema. Among patients with a chronic illness, about 20% died compared with almost 2% of those who were otherwise healthy. Virus patients with a chronic condition were also six times more likely to be hospitalized — 46% versus almost 8%. People with chronic disease \"are much more likely to suffer severe effects of COVID-19, but we can’t lose sight of the fact that previously healthy people can also become very ill and even die as well,\" Dr. Leana Wen, an emergency physician and public health specialist at George Washington University, said in a statement. Race and ethnicity data, available for just under half of patients, show 36% were white, 33% Hispanic, 22% black, 4% Asian and about 1% American Indian. Though the numbers are incomplete, they echo other reports that found minorities have been disproportionately affected by the pandemic. Overall, 14 % of patients were hospitalized and 5% died based on available data. Among patients aged 80 and up who died, half had a chronic illness. Roughly equal numbers of men and women were infected, but men were...
+
+
+--DocBreak--
+"There is kind of a misconception there that there are only 16 cases — and I can guarantee you there are not" because the department is finding evidence that some of the cases are of community origin, which means they have been picked up somewhere locally, but where or how is unknown, he said.
+ "There are cases in places you go, places that we don't know about, places that are yet to be tested," which could cause more infections, Talken said.
+ The city health department has 73 people in quarantine. That means they have been exposed to an active case and must take precautions for the 14-day incubation period of the virus if they have contracted it. The health department checks in with those people each day to determine if any symptoms of infection have developed.
+ The Jasper County Health Department currently has 86 cases in isolation, and 349 contacts of those cases that have been exposed are being monitored. Talken said that is a "telling" number.
+ "Jasper County, Newton County and McDonald County, they're are all seeing an increase as well," he said. "We're all in this together. What happens there affects us. What happens here affects them. We are one region."
+ Hospital admissions for the illness also are increasing, Talken said, and community spread is happening because people are coming together and have gotten lax about taking precautions.
+ "Everybody is getting tired of this," he said. "But here is where I need your help. I need everybody to stay the course, do what is right, take care of each other and wear the masks. You go to other places, Kansas City or Northwest Arkansas, and everybody is wearing a mask. It's the norm. Not so much here. We need to change that.
+ "It's human behavior that's driving these case counts," Talken said. "So do your part. By taking care of yourself, you are taking care of everybody else."
+
+
+--DocBreak--
+What happens in black and white settings?
+
+
+--DocBreak--
+"At the end of the day, there are three factors involved in the decision- making. No. 1 is creating a plan that has health and safety at the forefront. No. 2 is whether conducting the U.S. Open is the right thing for the sport of tennis. And No. 3 is whether it can be done in a financially viable manner. We believe we can hit all three of the objectives," Widmaier said. "But we do need to approach this in a step-by-step manner, and when all of the steps are completed, that is when we can make an official announcement."
+
+
+--DocBreak--
+To ensure that the scientific instruments will work once they get into space, engineers sent the Sentinel-6 Michael Freilich to a testing facility near Munich and ran the satellite through a gauntlet starting in November 2019.
+
+
+--DocBreak--
+While we obtained a good result, our creation was mostly a static drawing without any real bells and whistles.
+
+
+--DocBreak--
+SACRAMENTO, Calif. (AP) — California Gov. Gavin Newsom has agreed not to cut funding for child care programs and health insurance for low-income older adults as part of his plan to cover the state's estimated $54.3 billion budget deficit. Newsom's budget proposal had recommended making fewer older adults eligible for Medicaid to save nearly $68 million. He had also proposed 10% cuts to all child care programs that help low-income adults go to work. After negotiations with the state Legislature, Newsom has agreed to drop those cuts. The move was confirmed by a senior Newsom administration official on Monday who spoke on condition of anonymity because they weren't authorized to discuss publicly ongoing negotiations with Legislative leaders. The news comes as state lawmakers are scheduled to approve an operating budget on Monday that rejects most of Newsom's proposed budget cuts. But the budget lawmakers approve likely will not become law. That's because legislative leaders still don't have an agreement with Newsom, who has the power to sign, veto or alter whatever the Legislature sends to him. Lawmakers are passing the budget anyway because the state constitution says if they don't don't pass a spending plan by midnight they won't get paid — part of voter-approved reforms in 2010 that were supposed to prevent the legendary battles in the past that have resulted in lengthy delays of the state's budget. Meanwhile, legislative leaders continue to negotiate with the Newsom administration to reach an agreement on the budget before the start of the new fiscal year on July 1. Newsom's concessions are a sign the budget talks are progressing, but there are still many more issues to resolve before the Legislature can pass an amended budget. “I'm very pleased at the conversations we've been having,” Newsom said during a...
+
+
+--DocBreak--
+The Centers for Disease Control and Prevention report released Monday highlights the dangers posed by heart disease, diabetes and lung ailments. These are the top three health problems found in COVID-19 patients, the report suggests.
+
+
+--DocBreak--
+Queers and punks don't want network channel acceptance, corporate sponsorship or police protection. The key principle of punk has always been Do-it- Yourself. Anyone can be a musician or artist. Everything is up for grabs, to be torn apart and redone, preferably with car paint. Venues could be anywhere, from the local club whose owner was amenable to squatted spaces, like storefronts, abandoned factories and beer vats. The Deaf Club, for instance, was a deaf school in San Francisco that let punk bands perform because the noise didn't bother them. Of course, there are always people aware of its marketability, but punk rock has a strange way of constantly changing, remaining ahead of the market or taking it back from the market and reusing it. And there are bands, including The B-52s out of Athens, Ga., that, although they became popular in the mainstream, still retained their queer edge and listenership.
+
+
+--DocBreak--
+"There's four unique courses and they range in ability from beginner to expert," said Klaman. "You can have your kids who are super athletic and want to run around…and you can have the parents who are more laid back and want to just kind of take it easy on the easy the courses."
+
+
+--DocBreak--
+While shoving button after button in people's faces is not the way to go, you don't want to miss out on placing a valuable CTA in an area that it needs to be. Remember that a CTA isn't just a button to get someone to download or buy a resource. It's an element that people can use to contact you , learn more or create something out of necessity. Finding middle ground of how many to use especially on one page is something that can be determined via testing and surveys.
+
+
+--DocBreak--
+Pierre Emerick-Aubameyang scores and Eddie Nketiah nets hat-trick as Arsenal thrash Charlton behind closed doors
+
+
+--DocBreak--
+Its latest offering has more suspense than a Hitchcock classic – a decision to pull the plug on a £1.8bn takeover of Canadian rival Cineplex. Covid-19 forced a drastic rethink about the wisdom of piling more borrowings on to a balance sheet that was already looking stretched.
+
+
+--DocBreak--
+"I was very heartbroken by the death of George Floyd, but this is the most encouraged I have been in this country," Warren said. "After we finally hit rock bottom publicly, the only way to go is up from here. When you saw that happen to George Floyd on TV, you could not deny we have a problem. Now, we need to pull together to make this a better place for our children and grandchildren."
+
+
+--DocBreak--
+The Oscars ceremony date was the big lingering unknown, however. The organization's leadership has acknowledged all along that the situation was fluid and that everything was on the table. Now, Oscars nominations will be announced on March 15 and the nominees luncheon will be on April 15.
+
+
+--DocBreak--
+Joshua Craig Koberger, 40, Watertown, passed away June 10th ,2020 in Watertown.WATERTOWN, N.Y. (WWNY) - Joshua Craig Koberger, 40, Watertown, passed away June 10th ,2020 in Watertown.The funeral for Joshua will be 6 pm Friday, June 19th, 2020 at the Reed &amp; Benoit Funeral Home, Watertown. Calling hours will be from 4 pm – 6 pm prior to the funeral.Joshua is survived by his mother Paulette Rafferty Koberger and step-father James Nevin, Watertown; his father and step mother Raymond and Julie Koberger, Jr., Conway, SC; his brothers Starsky Koberger (Heather Mantel), Manlius, NY, Brian Koberger, Little River, SC; a half brother Cory Weston, Adams and half sister Tasha Townsend, Watertown; several step brothers and sisters, aunts, uncles cousins, nieces and nephews.Josh was born in Watertown on May 19th, 1980. He attended Watertown High School. He was employed at Pondersa Restaurant for many years which he thourougly enjoyed, making many friends over those years. He later worked at Burger King and Seaway Lanes.Joshua lived with his life long friend and sister and her two children and was a very large part of his niece and nephew’s lives and upbringing on a daily basis.Josh’s favorite things were his Pug dog Duke, music, dancing, friends, socializing and of course, flip flops.Josh was outgoing, sarcastic, life of the party and had a genuine heart of gold. He was passionate about animals and helping the local ninjas against animal cruelty with fostering, vetting, food supplies, etc. He donated to any local benefits for family and friends.Any memorial donations may be made to Ninjas Against Animal Cruelty in Joshua’s name. Online condolences may be made at www.reedbenoit.com.Copyright 2020 WWNY. All rights reserved.
+
+
+--DocBreak--
+The Office for National Statistics will on Tuesday release the first official figures showing how much unemployment has risen since the start of the pandemic, which is expected to show a record monthly rise in jobless numbers.
+
+
+--DocBreak--
+We have never taken pictures of the sun from a closer distance than this,' said Daniel Muller, ESA's Solar Orbiter project scientist.
+ 'There have been higher resolution close-ups, e.g. taken by the four-metre Daniel K Inouye Solar Telescope in Hawaii earlier this year.
+ 'But from Earth, with the atmosphere between the telescope and the sun, you can only see a small part of the solar spectrum that you can see from space.'
+ The test is being carried out to prove that Solar Orbiter's telescopes are ready for future scientific observations.
+ Other instruments will also provide an insight into the environment around the spacecraft, such as the magnetic field and the particles making up the solar wind.
+ It comes as Solar Orbiter begins its cruise phase, which will last until November 2021.
+ After this, it will enter the main science phase, getting as close as 26 million miles to the sun's surface – beyond that of Mercury, the closest planet to orbit the sun.
+ 'We have a nine-hour download window every day but we are already very far from Earth so the data rate is much lower than it was in the early weeks of the mission when we were still very close to Earth,' Mr Muller continued.
+ 'In the later phases of the mission, it will occasionally take up to several months to download all the data because Solar Orbiter really is a deep space mission.
+ 'Unlike near-Earth missions, we can store a lot of data on board and downlink it when we are closer to home again and the data connection is much better.'
+ Space Orbiter was constructed by Airbus in Stevenage and blasted off from Nasa's Cape Canaveral site in Florida on February 10.
+
+
+--DocBreak--
+_Help_ Mother Jones _' reporters dig deep with a tax-deductible donation._
+
+
+--DocBreak--
+Warren, the first black commissioner of a Power Five conference, said the announcement Monday of the voting initiative finalizes plans that have been in the works since February.
+
+
+--DocBreak--
+Food for Thought Facebook group
+
+
+--DocBreak--
+But Esseks cautioned, “Our work is not done. There are still alarming gaps in federal civil rights laws that leave people — particularly black and brown LGBTQ people — open to discrimination in businesses open to the public and taxpayer-funded programs. Congress must affirm today’s decision and update our laws to ensure comprehensive and explicit protections for LGBTQ people and all people who face discrimination.”
+
+
+--DocBreak--
+Farm Heroes Saga, the #4 Game on iTunes. Play it now!
+
+
+--DocBreak--
+Watford transfer row rumbles on as they intend to register 21-year-old midfielder Pape Gueye as their player on July 1... despite Le Havre ace insisting he no longer wants to join the club after being 'advised badly'
+
+
+--DocBreak--
+Boxing is back in Vegas! Tyson Fury's promoter Bob Arum launches sport's comeback behind closed doors at the MGM Grand
+
+
+--DocBreak--
+With Susy, you specify a container element for your grid elements by using the `container()` mixin. The selector that includes that mixin will then be assigned the max-width from the `container` value in `$susy`, centered with left and right margins set to `auto`, and given a clearfix.
+
+
+--DocBreak--
+Right out of the box, one of the simplest things you can do with the Meteor JavaScript framework is to create a user accounts system. Just install a pair of packages -- `accounts-password` and `accounts-ui` -- and you'll end up with the following, fully-functional interface:
+
+
+--DocBreak--
+EARLY BIRD: Bluesfest 2021 tickets go on sale today
+ News
+
+
+--DocBreak--
+In this tutorial, we focused on the use of directives. In the next part of this tutorial, we will dig deeper into the two-way binding features of AngularJS, and incorporate them into our existing app. In the meantime, all of the code from this article is available on GitHub.
+
+
+--DocBreak--
+Happy retirement daddy!': Conor McGregor shares touching photo of cake from his children celebrating his shock decision to call it a day
+
+
+--DocBreak--
+Antone Tannehill Good Samaritan Free Clinic welcomes new director
+
+
+--DocBreak--
+Season ticket holders at EVERY Premier League club offered two free Now TV 'Day Passes' to watch matches at home with action set to return this week behind closed doors
+
+
+--DocBreak--
+However, that said, the world sale is still dwarfed by the immense amount of American notes to be offered — running the gamut from Colonial through all federal issues and more than 1,450 lots of obsolete currency, which is another category drawing new blood.
+
+
+--DocBreak--
+Jadon Sancho, Thorgan Hazard and four other Dortmund stars 'in hot water after breaking coronavirus protocols'
+
+
+--DocBreak--
+I think generally across the board, we don't have specialist investigative skills in South Africa. I don't think that - from the minister of police to everybody else in our policing - they have a clue of how to deal with gender- based violence.
+
+
+--DocBreak--
+Today's Eva's Corner is to remind you that right now no one can be 100% so take it easy on your partner. Even though Teddy Pendergrass may have said love is 50/50, that doesn't exist. You may have to show up for your partner because today might not be their day and vice versa. This is just a reminder that no one is perfect but your relationship should be worth it.
+
+
+--DocBreak--
+Mayor Jacob Frey begged for peace; President Trump threatened violence. A consensus held fast among liberals and conservatives that peaceful protest was one thing but property damage was beyond the pale—that the rioting could be separated from more acceptable and articulate expressions of grievance.
+
+
+--DocBreak--
+Deputy chairperson Sifiso Mahlangu says the government needs to come on board with the relief fund or prices will be increased.
+
+
+--DocBreak--
+"I have a really good relationship with him and we can discuss face to face a lot of things and I think he's very happy at the club.
+
+
+--DocBreak--
+Wade will have hopes of making the Bills' final 53-man roster, but it's likely he's put on that exempt spot once again this offseason because the team has that option to do so once more. In Buffalo's running back room, Devin Singletary and Zack Moss are established. To make the roster, Wade would have to beat out TJ Yeldon, Taiwan Jones and Antonio Williams, who was a UDFA signing of the Bills.
+
+
+--DocBreak--
+1. The `bin/www.js` is used to bootstrap our app.
+
+
+--DocBreak--
+Marriott, Hilton and other big hotel companies are used to competing on price or perks. Now they are competing on cleanliness.
+ From masked clerks at the front desk to shuttered buffets, hotels are making visible changes in the wake of the pandemic. Signs will tout new cleaning regimens: Red Roof Inns promise "RediClean," while Hilton boasts of "CleanStay with Lysol."
+ Hotels are still mostly empty; in the United States, occupancy stood at 37% the week ending May 30, down 43% from the same period a year ago, according to STR, a data and consulting firm. But leisure travel is starting to pick up, and hotels see cleaning standards as a way to soothe jittery guests -- and possibly win back business from rivals like home-sharing companies like Airbnb.
+ "I think, more than ever, customers are going to be looking for that seal of approval," said Phil Cordell, Hilton's head of global new brand development, who is leading the group developing the company's new cleaning standards.
+ Some hotel brands are more stringent than others, says Larry Yu, a professor of hospitality management at George Washington University. He notes that Accor Hotels, a French company, has developed accreditation standards that its hotels must meet in order to reopen.
+ But Yu said enhanced cleaning is happening everywhere.
+ "Everybody is doing it, because it is now expected by consumers," he said.
+ Guests are already seeing differences. David Whitesock, the chief innovation officer for Face It Together, an addiction counseling company, moved from Denver to upstate New York over Memorial Day weekend. He stayed at Marriott hotels in Iowa and Ohio along the way.
+ There were some oddities. Police tape separated him from the front desk in Iowa, and the hotel gave him a key card even though he would have preferred to unlock his room door using Marriott's app. Whitesock brought his own food, but noticed prepackaged breakfasts laid out where buffets used to be.
+ But he said his rooms looked, felt and smelled cleaner than they used to. All the guests wore masks and respectfully kept their distance, he said.
+ "I felt like it was a safe place to be, that they had done the best that they possibly could given the circumstances," Whitesock said. "A lot of it comes down to, do you trust the hotels and the people who you are going to come into contact with there?"
+ Despite hotels' precautions, however, visiting them is still risky, said Dr. Albert Ko, a professor of epidemiology and medicine at the Yale School of Public Health. Hotels can bring together travelers from states or countries where transmission rates are higher, for example, and many carriers may not be showing symptoms.
+ "That's the kind of thing we're worried about in terms of public health," he said. "Those settings can be the cause of outbreaks."
+ Hilton and other companies have called in experts to develop new standards. Marriott and IHG -- the parent company of Holiday Inn -- are working with EcoLab, which makes industrial cleaning products. IHG is also getting advice from the Cleveland Clinic. Hilton has partnered with the Mayo Clinic. Hyatt is working with ISSA, a global cleaning industry association.
+ Hotels walked through the guest experience and made changes at every touch point. Hilton's hotel shuttles will be disinfected hourly and passengers will have access to wipes. MGM Resorts, which is reopening four Las Vegas hotels on June 4, will ask restaurant guests to view digital menus on their own phones.
+ Changes vary by hotel. Guests may find lobby furniture moved further apart or hand sanitizer stations next to elevator keys. Shared coffee stations are gone. DoubleTree still offers warm chocolate chip cookies, but only upon request.
+ Inside the rooms, surfaces like TV remotes and light switches will get an extra cleaning. Best Western is getting rid of decorative pillows, pens and other unnecessary items. Red Roof is telling staff to bag up dirty sheets inside its rooms, to limit spread of disease. Once a room is cleaned and disinfected, Hilton will put a sticker on the door so guests know no one has been inside.
+ Ko said in addition to disinfecting surfaces, hotels might want to consider moving dining outside, where the risk of transmission is lower, or limiting capacity in tight spaces like elevators. Marriott's plan includes limiting capacity in restaurants and gyms and ensuring people are distanced in elevator lines.
+ Cordell said Hilton plans to keep pools and fitness centers open and clean them regularly.
+ "Fitness and wellness is so fundamental to the guests getting back in their routine," he said.
+ Hotels are experimenting with new technology. Marriott and others are using electrostatic sprayers to spritz lobbies with disinfectant. Many hotel brands are also encouraging guests to access their rooms using their mobile phones. Hilton says 4,800 of its 6,100 hotels have that capability so far. Marriott offers keyless check-in in 3,200 hotels.
+ Airbnb CEO Brian Chesky thinks guests will prefer separate homes to hotels filled with people. Airbnb -- which is also working with EcoLab and former U.S. Surgeon General Dr. Vivek Murthy -- will continue to upgrade its cleaning protocols, he said.
+ "Health and cleanliness are going to be one of our biggest focuses," he said.
+ But Yu said hotel chains can ensure franchisees are complying through their normal auditing process. That will be a challenge for Airbnb, he said, which has developed its own cleaning standards but may have more trouble ensuring that hosts comply.
+
+
+--DocBreak--
+Prompting with creative and motivating language lets people know that you mean business. Getting rid of mundane and lackluster words like "SUBMIT" and "DOWNLOAD" generates better appeal and interest.
+
+
+--DocBreak--
+Sacramento Kings owner Vivek Ranadive said his organization is experimenting with a breathalyzer device to detect Covid-19. “You’ll be able to blow into a tube and test whether somebody has the virus by looking through a spectroscope,” Ranadive told CNBC’s “Power Lunch” on Monday. Ranadive said the Kings are exploring numerous “elimination of friction efforts” to avoid spreading the virus throughout the more than $500 million Golden 1 Center, including access to temperate gauges.
+
+
+--DocBreak--
+Venezuela exigió el sábado la liberación de un empresario con contactos con el gobierno, que fue detenido en Cabo Verde por acusaciones de corrupción presentadas por Estados Unidos. Caracas tachó la detención de acto ilegal de agresión por parte del gobierno del presidente Donald Trump y afirmó que pretende agravar las penurias del país.
+ La detención de Alex Saab cuando viajaba el viernes a Irán fue un duro golpe para el gobierno del presidente Nicolás Maduro. Las autoridades estadounidenses creen que el empresario conoce muchos secretos sobre el líder socialista, su familia y asesores cercanos que supuestamente desviaron millones de dólares en contratos del gobierno, mientras muchos pasan hambre en la nación petrolera.
+ No estaba claro cómo las autoridades estadounidenses, que llevaban años investigando al empresario colombiano, lograron por fin atraparlo. El Departamento de Justicia declinó hacer comentarios, al igual que la abogada estadounidense de Saab, Maria Dominguez.
+ Una persona familiarizada con la situación dijo que Saab, de 48 años, fue detenido en el archipiélago del océano Atlántico, cuando el jet en que viajaba, registrado en San Marino, hizo una escala para repostar cuando viajaba de Caracas a Teherán, donde se cree que negociaba acuerdos para canjear oro venezolano por gasolina iraní. La persona no estaba autorizada para hablar públicamente del asunto y lo hizo bajo condición de anonimato.
+ Los datos de seguimiento del vuelo muestran que la aeronave, ya utilizada anteriormente por el empresario, partió el viernes de la capital venezolana.
+ Para aumentar el misterio en torno a la operación, un avión privado de Presidential Aviation, un contratista del gobierno estadounidense, esperaba en la nación insular para un vuelo arrendado el domingo de Cabo Verde al aeropuerto privado de Opa Locka, en Miami.
+ El gobierno venezolano protestó de forma enérgica por la detención de Saab, indicando que viajaba con un pasaporte venezolano en una “misión humanitaria” para comprar comida y suministros médicos. En un comunicado el sábado por la noche, el gobierno señaló que el aviso de Interpol pidiendo el arresto de Saab no se emitió hasta el día siguiente a su detención, violando las normas internacionales e ignorando su inmunidad diplomática como “agente” de un gobierno soberano.
+ Caracas dijo que iniciaría todas las acciones legales y diplomáticas a su alcance para conseguir su liberación. Pero las restricciones impuestas por la pandemia del coronavirus impidieron un intento del embajador más cercano de Maduro, en Senegal, de viajar a Cabo Verde.
+ El gobierno de Estados Unidos trata de reactivar su vacilante campaña por derrocar a Maduro e instaurar al líder opositor Juan Guaidó como presidente en Venezuela, y ha dirigido su atención a altos funcionarios y empresarios relacionados con el asediado mandatario. En marzo acusó a Maduro y a más de una docena de personas de delitos de narcoterrorismo, corrupción y otros cargos penales.
+ Saab se convirtió en una persona de interés para las autoridades estadounidenses hace unos pocos años, tras conseguir un gran número de contratos con el gobierno de Maduro.
+ Fiscales federales en Miami presentaron cargos el año pasado contra Saab y un socio comercial por lavado de dinero en relación con un supuesto plan de sobornos que les habría supuesto más de 350 millones de dólares, desviados de una promoción de viviendas para familias pobres financiadas por el gobierno venezolano, y que nunca se construyó.
+ El gobierno del presidente Trump también sancionó a Saab por supuestamente utilizar una red de compañías fantasma por todo el mundo —con presencia en Panamá, Colombia, México, Emiratos Árabes Unidos, Turquía y Hong Kong— para ocultar enormes ganancias de los contratos sin licitación obtenidos a través de sobornos para la compra de alimentos a precios exagerados.
+ “Saab se relacionó con los allegados de Maduro para dirigir una red de corrupción a gran escala que ellos utilizaron cruelmente para explotar a la población hambrienta de Venezuela”, declaró el secretario del Tesoro de Estados Unidos, Steven Mnuchin, al anunciar las sanciones. “Utilizaron los alimentos como una forma de control social, para recompensar a sus partidarios políticos y castigar a sus oponentes, mientras se embolsaban cientos de millones de dólares a través de una serie de maniobras fraudulentas”.
+ En privado, funcionarios estadounidenses han descrito desde hace tiempo a Saab como el testaferro de Maduro, aunque no aparezca como tal en documentos judiciales.
+ Algunos de los contratos de Saab se obtuvieron supuestamente pagando sobornos a Yoswal, Yosser y Walter Flores, los hijos —de una relación anterior— de la primera dama Cilia Flores, según el Departamento del Tesoro de Estados Unidos. Los tres hombres, comúnmente conocidos como “Los Chamos” —argot venezolano para “los niños”— también están siendo investigados por los fiscales en Miami por supuestamente formar parte de un esquema para desviar 1.200 millones de dólares de la compañía petrolera estatal de Venezuela, dijeron a The Associated Press dos personas familiarizadas con la investigación de Estados Unidos.
+ La noticia del posible arresto de Saab se conoció el viernes por la noche, pero inicialmente los funcionarios en Estados Unidos y en Colombia, donde nació Saab, fueron poco claros sobre el asunto. Cabo Verde no tiene un tratado de extradición con Estados Unidos y en los funcionarios están frescos los recuerdos de un incidente en 2014, que involucró a otro objetivo de alta prioridad, el antiguo jefe de espías del ya fallecido Hugo Chávez, el general retirado Hugo Carvajal.
+ Carvajal fue arrestado en 2014 en la isla caribeña de Aruba, donde había sido nombrado cónsul de Maduro, pero logró evadir una orden de arresto de Estados Unidos por narcotráfico después de una intensa presión diplomática de Caracas. Carvajal permanece en libertad tras haber sido detenido y posteriormente liberado en España.
+ Se cree que Saab ha ampliado sus negocios en la vital industria petrolera de Venezuela a medida que crecía la crisis económica de la nación miembro de la OPEP. Irán envió a Venezuela varios buques cisterna de gasolina el mes pasado, que los opositores del gobierno dicen que fueron comprados con oro y por compañías fantasma controladas por Saab.
+ La semana pasada, fiscales en Colombia congelaron ocho propiedades supuestamente pertenecientes a Saab, entre ellas una mansión en su ciudad natal de Barranquilla valorada en más de siete millones de dólares, como parte de su propia investigación de lavado de dinero.
+ ___
+ El periodista de The Associated Press Michael Balsamo en Washington contribuyó a este despacho.
+ ___
+ Joshua Goodman está en Twitter como @APJoshGoodman
+
+
+--DocBreak--
+Game on for fuboTV on Xbox
+
+
+--DocBreak--
+On Monday’s Get Up! Smith addressed the discussion surrounding what Brooklyn Nets guard Kyrie Irving and Los Angeles Lakers center Dwight Howard have said. Irving was among the players on a Friday call that voiced concerns that headlines will start to focus on the games played and not on the fight to defeat systemic racism. Howard agreed with him: “Basketball, or entertainment period, isn’t needed at this moment, and will only be a distraction.” Here’s Smith, who said they sound “foolish.” “Racial oppression has existed (and) it’s going to exist after this summer, it’s going to exist next year, it’s going to exist the year after, a year from now, ten years from now, 20 years from now. Anybody in our society that thinks this thing is going to be completely eradicated is fooling themselves. You’re always going to have to deal with these things, so that is not an excuse not to show up to work to do your job. You can fight the fight while still showing up to work.”
+
+
+--DocBreak--
+Spurs Give, in partnership with Whataburger, today announced the release of a free digital children’s book, “The Coyote Family Stays Home!”. The new illustrated book, created to help children understand and come to terms with changes resulting from COVID-19, is available now at spursgive.org/reading in both English and Spanish. The book will serve as a resource for all family members as they continue to cope with difficult emotions like anxiety. With the help of The Coyote and his family, “The Coyote Family Stays Home!” highlights the power of togetherness during emotional times while teaching young children preventive measures to help them stay safe and informed.
+
+
+--DocBreak--
+One prominent agent told me that many of his clients don’t support the bubble concept. When I asked which issue led to the most hesitation – social justice, the novel coronavirus, injury fears or being sequestered, the agent replied, “All of the above.” This wasn’t some Hail Mary attempt by Irving to destroy a plan that has been in the works for a long time. The parameters of the NBA’s strategy to execute the bubble are being written daily in pencil, with adjustments made according to the information at hand. The NBPA wants to ensure the safety of its constituents while also limiting the financial losses of one of the more draining campaigns, both economically and emotionally. In voicing his disapproval in the relative infancy of the planning, Irving has given the league and the union time to address the myriad concerns of those asked to execute an unprecedented effort to keep basketball fans engaged.
+
+
+--DocBreak--
+When it comes to AngularJS it's all about architecting the app first and then using the appropriate markup/design. Since we want our slider to be self contained and easily plugged into an existing AngularJS app, creating a directive is the correct way to go. So, let's get started with an empty directive named `slider`:
+
+
+--DocBreak--
+To follow the tutorial, download the starter project which we'll use instead of starting from scratch. The project is a simple app for a hypothetical social network where the user can look at user profiles. On selecting a profile, you will be taken to a view that shows the user details which include name, biography, profile rating and photo. If you run the app, you'll notice that the user's image hasn't been included in the Profile view. Instead, there is an empty view where we plan to have the image. (Images used in the app are downloaded from uifaces)
+
+
+--DocBreak--
+Who is Jessica Mulroney? A timeline of the media personality's fall from grace
+
+
+--DocBreak--
+Celebrity Family Feud: Katie Stevens leads The Bold Type to win, but RuPaul and team steal the show
+
+
+--DocBreak--
+Social media casts doubt over Conor McGregor's retirement plans after shock announcement to call it a day for the THIRD time
+
+
+--DocBreak--
+The 25-year-old nurse shared pictures of her wounds on Instagram in a post saying "God. Please protect our Black queens. These are strange times right now and we need you more than ever" in light of the Black Lives Matter movement sweeping the US and around the world.
+
+
+--DocBreak--
+Buffalo Bills running back Devin Singletary is welcoming rookie Zack Moss with open arms to the team's backfield in 2020.
+
+
+--DocBreak--
+Jose Mourinho's men getting up to speed
+
+
+--DocBreak--
+Teams would play each other twice in the abbreviated 22-game schedule, which the league said would be released later. The IMG facility has four courts, but the WNBA is still exploring options to play games at other sites in the area just south of Tampa/St. Petersburg that might be better for broadcasts.
+
+
+--DocBreak--
+My mind is a beehive of activity these mornings. On my early morning walks, I look for wild black raspberries that ripen every June along our southern woods. In a nearby row of sweet gum tupelo trees, a red-winged blackbird emits a crack of alarm like a rifle shot, annoyed that I'm about to harvest this noisy bird's breakfast.
+   
+ Passing a stretch of meadow lush in clover, my thoughts segue to honeybees that pollinate the ingredients that go into every "bee friendly" pint of Giofre honey ice cream made by Nancy and Dominic Giofre near their apiary in Millersburg.
+   
+ A decade ago, bee colonies were reportedly collapsing and honeybee pollinators disappearing at an alarming rate. Three-fourths of the world's flowering plants and about a third of the world's food crops depend on animal pollinators to reproduce. It goes without saying that planting bee-friendly gardens filled with native plants that bloom from early spring to fall would be a good thing for bees and the health of our planet.
+   
+ Honeybees collect pollen and nectar from milkweed and a variety of flowering plants in our wildflower beds, as well as from wild dandelions, clover, goldenrod and the fruit trees in our small orchard. Bees are attracted by scent and color -- in particular to blue, purple, yellow and orange flowering plants rich in nectar and pollen. To help honey production, we plant cosmos, sunflowers, coriander, mint, lavender and coneflowers. At the edge of our shade garden, a ceramic water basin provides a cool drink for birds and squirrels, as well as bees in search of a water source to keep hives healthy and active.
+   
+ When Barack and Michelle Obama graced the White House, crystal pots of honey from an apiary near the First Lady's vegetable and herb garden were given as gifts to visiting dignitaries. Locally, workshops are available for those interested in becoming backyard beekeepers. Vegetables, fruits and nuts depend on bees for pollination. Bees have been disappearing at an alarming rate, along with thousands of other insects. The cover of the June 2020 National Geographic pictures endangered species of insects and warns, "You'll miss them when they're gone."
+   
+ Were fireflies to ever disappear, I would miss their summertime nocturnal light shows that have long been a part of my history. One late May while living at Breakfast Creek, our first home in Missouri, I stood in the yard at that hour when twilight fades into darkness. Suddenly, the blinking of tiny bioluminescent lights carried me back to my grandparents' backyard in San Antonio in the early 1950s. To a dreamy time when the flickering glow of fireflies lit up the night. To a time in my childhood when adults sat in the backyard after dinner while my sisters and I dashed around the yard capturing fireflies in peanut butter jars. To a time when I turned a glass jar into a magic lantern.
+   
+ A decade ago, National Geographic reported dramatic declines in fireflies in Asia, Europe and North America, most likely due to habitat loss and light pollution. Thailand was among places reported to be losing these bioluminescent beetles. According to the 2009 article, "for centuries fireflies blinked with such synchronicity along Thai rivers that locals fished solely by their flashes."
+   
+ That image transported me to a time in the late 1960s when I was a Peace Corps volunteer teaching at a school near Bangkok. From the back porch of my little house, I could see the burnt orange reflection of each sunset spread across a nearby canal, as intensely brilliant as the saffron colored robes worn by Thai Buddhist monks. In the hour that followed, fireflies lit up the darkness in that quiet world at the edge of Bangkok decades before development forever banished night.
+   
+ Early this month, June's full moon was a rare Strawberry, or Rose Moon. Following a week of outrage and Black Lives Matter protests spanning the nation and now the world, Kit and I walked out to our open meadow hoping to find the moon overhead. Awaiting its rise, we silently sent up a prayer for real and meaningful change. Tilting our heads back, constellations revealed themselves as they have for travelers throughout the ages. And then an unexpected light show began. The twinkling of fireflies suddenly transformed the meadow around us, as if stars had literally fallen from the sky.
+   
+ In that moment, the appearance of fireflies connected me to my childhood, my early 20s in Thailand, and long-ago summers at Breakfast Creek. At once, their luminescence lifted my spirits and filled me with hope. Like candles in the wind, the fireflies illuminate a promise too long deferred, one that can no longer be ignored.
+   
+ Cathy Salter is a geographer and columnist who lives with her husband, Kit, in southern Boone County at a place they call Boomerang Creek.
+
+
+--DocBreak--
+It was not, however, the safest for police. Forty-eight law enforcement officers were murdered on the job last year.
+ It is high time and positively right for us to question deadly police actions and to demand more accountability from law enforcement. It is also way past time for all people — especially minorities — to demand an end to gratuitous police brutality. Police work for us, and we all should be treated with respect.
+ By the same token, protestors must come to grips with some harsh realities. The biggest threat to people of color does not come from police; it comes from criminal elements within their own communities.
+ Crime is generally intraracial. White killers overwhelmingly slay other whites, and the same holds true in black societies. FBI statistics from 2018 concluded when a murder victim was black, 88% of the time, the culprit was also black.
+ "The truth is, there are some black folk who do bad things. The sad truth is that their victims are most often other black people," professor John Hudgins wrote recently in the Baltimore Sun. Hudgins, an African American professor of sociology at Coppin State University, urges other blacks to look within to help end the violence.
+ "We must realize that some black people are a much greater threat to other black people than the Ku Klux Klan or the White Citizens' Councils," he wrote.
+ The scab that hid this nation's racial tension has been torn off. We only heal if everyone accepts responsibility for their prejudices, admits their failures and marches forward in calm solidarity to bring this country together. Otherwise, welcome to the new normal.
+  _To find out more about Diane Dimond, visit her website atwww.dianedimond.com._
+
+
+--DocBreak--
+Given that the usual way central banks deal with unissued paper currency is by destroying it, the Bank of Lithuania was thinking far out of the box when it decided to sell it to collectors instead. The first sale of 500 sets of 1,000- and 500-litas notes of 1991 and 100-litas notes of 1994 took place on Dec. 4 in an online sale conducted by the bank. The starting price was €50 per set.
+
+
+--DocBreak--
+México, 15 jun (EFE).- Las irregularidades en la compra de medicamentos e insumos médicos durante la pandemia de coronavirus ha llevado a la Organización de las Naciones Unidas a crear en América Latina el Observatorio Regional de Precios de Medicamentos, una herramienta que busca transparencia en la adquisición de fármacos.
+ 'Las entidades que tienen que comprar medicamentos en estos momentos tienen una enorme presión', manifestó este lunes Fabrizio Feliciani, director para América Latina y el Caribe de la Oficina de las Naciones Unidas de Servicios para Proyectos (UNOPS).
+ En una conferencia de prensa virtual, Feliciani presentó la herramienta, la cual dijo permitirá a los compradores públicos identificar los mejores costos de medicamentos en el mercado y urgió a los países de la región a fomentar compras gubernamentales más equitativas y justas.
+ El tema de cuánto se paga por la adquisición de los fármacos, dijo, es una prueba más que tienen los Estados, en medio de una situación donde se atraviesa un delicado pasaje para la gobernabilidad por la percepción de corrupción y la desconfianza alta en las relaciones público-privadas que se vive en América Latina.
+ 'Es ahora donde se tiene que demostrar que efectivamente el sector público puede ser eficaz y eficiente y responder a las necesidades de las poblaciones más necesitadas', aseguró Feliciani.
+ COMPRAS MÁS JUSTAS Y EQUITATIVAS
+ De acuerdo con la secretaria ejecutiva de la Comisión Económica para América Latina y el Caribe (Cepal), Alicia Bárcena, fue el canciller mexicano, Marcelo Ebrard, quien propuso al organismo la creación de dicho observatorio.
+ Indicó que en Latinoamérica hay intereses creados en la adquisición de este tipo de productos porque 'no producimos medicamentos ni insumos, sino que los importamos' y eso ha dado pie a casos de corrupción en las compras de las instituciones.
+ Bárcena señaló que, en general, en la región previo a la emergencia sanitaria, había malestar social hacia los Gobiernos, 'y una falta de confianza de ciudadanos y eso es un tema de mucho fondo'.
+ El objetivo de esta herramienta, explicó Feliciani, es comparar precios entre distintas fuentes y establecer un rango de precios justos, además de que se fomente la transparencia y promover la rendición de cuentas en los 21 países de la región que aportan datos al observatorio.
+ Abundó que servirá para visibilizar la manera en la que se ejerce el gasto en medicamentos reactivos al coronavirus y en dónde se está invirtiendo el gasto público para garantizar el abasto de medicinas e insumos médicos.
+ Para ello, el observatorio da seguimiento a través de datos abiertos a 286 medicamentos, de los cuales 124 son críticos para afrontar la COVID-19 en toda la región, pudiendo monitorear más de 20.000 transacciones de mercado, a fin de asegurar precios justos.
+ Detalló que, debido a la pandemia, los Gobiernos muchas veces se apresuran por adquirir bienes y servicios y construir más infraestructuras para cubrir las necesidades sanitarias, desde la adquisición y entrega de suministros médicos de emergencia hasta la puesta en marcha de clínicas de salud temporales.
+ En este contexto, Feliciani aseguró que es necesario que los países recurran a la racionalidad de los precios, donde se observe si realmente se cumplen las condiciones de precio y calidad en la compra de los medicamentos.
+ EVITAR CORRUPCIÓN Y FOMENTAR TRANSPARENCIA
+ En marzo pasado durante la Cumbre Virtual de Líderes del G-20, el presidente de México, Andrés Manuel López Obrador, planteó que la Organización de las Naciones Unidas (ONU) tomara el control del comercio de medicamentos ante la pandemia del coronavirus.
+ Esto con la finalidad de que no se diera un manejo lucrativo y acaparamiento por parte de quienes tienen los recursos económicos para adquirirlos.
+ 'El presidente Andrés Manuel López Obrador, levantó esa preocupación y generó un mecanismo nuevo de compras públicas por parte de las instituciones del gobierno mexicano', puntualizó Zoé Robledo, director del Instituto Mexicano del Seguro Social (IMSS), en su turno de palabra.
+ Mientras que Víctor Zamora, ministro de Salud de Perú, señaló que la corrupción en el país cobró factura durante la actual crisis sanitaria.
+ Además de que el avance rápido de la pandemia obligó a que trabajaran más rápido para ampliar la capacidad de hospitales y dar una mayor atención primaria.
+ Indicó que la alianza con la UNOPS ha llevado a ingresar a los mercados de medicamentos e insumos de manera 'más rápida'.
+ A su vez, Carlos Contreras, presidente del Instituto Guatemalteco de Seguridad Social (IGSS), resaltó que en aquel país han adoptado un sistema de adquisiciones integral y política de datos abiertos que ha ayudado en las compras.
+ 'Esto ha implicado ahorros de alrededor de 270 a 300 millones de dólares', manifestó.
+ La semana pasada, la Organización Mundial de la Salud (OMS) advirtió que Latinoamérica se había convertido en el foco de la pandemia por coronavirus en el mundo. Hasta el momento se han superado los 1,6 millones de contagios y las 98.000 muertes a causa de la COVID-19. EFE
+
+
+--DocBreak--
+But this sort of thing is not unique to my article. Consider past CSS articles on other sites that have been hot in the community. Two that immediately come to mind are, not coincidentally, both by Heydon Pickering:
+
+
+--DocBreak--
+Mormon paper money highlights Kagin’s auction
+
+
+--DocBreak--
+And it should also be noted that there's a lot of important stuff that React doesn't handle well. So we have a long way to go before we hang up our `.css` files and move everything into our scripts.
+
+
+--DocBreak--
+Police clad in riot gear hold the line against protesters at Calumet Avenue and 17st Street on Saturday in Hammond.
+
+
+--DocBreak--
+The COVID-19 pandemic prompted changes to allow eateries to expand outdoor seating and for more social distancing in the stroll between Park and Union streets.
+ On June 17, State Street becomes a two-way street. On June 22, Front Street closes between Park and Union streets. Businesses will have three days to configure their space, and the walking street officially opens June 26, the release states.
+
+
+--DocBreak--
+Although Oladipo made the All-Star team in 2018 and 2019, the combination of him having only one truly great season, the injury and having just one year left on his contract has many scouts and executives skeptical about committing to him on a big deal. "The tricky thing for me with Oladipo is this guy has had a relatively long career and he had one year at an All-NBA level and that's really the only All-Star-level [year he's had]," an Eastern Conference executive said. "Last year, he wasn't as good before he got hurt. Previous [to Indiana], he wasn't playing unbelievably, either."
+
+
+--DocBreak--
+Netball NSW CEO thanks hard workers behind the scenes
+ Netball
+
+
+--DocBreak--
+Green lights, red planet: Glow similar to the Aurora Borealis is detected around Mars for the first time
+
+
+--DocBreak--
+The second text creates four strings: one for each letter from the word "love". The last line of code make the text to appear vertically by selecting each letter and giving it one and the same coordinates for `x`, and setting the `dy` attribute to "1.2em".
+
+
+--DocBreak--
+The murder did spark outrage across the board and helped catapult the Black Lives Matter movement, but it took George Floyd’s murder and word-for-word “I can’t breathe” statement for the powers that be to finally pay attention and try to enact some change.
+
+
+--DocBreak--
+functions for moving video ads to left and right
+
+
+--DocBreak--
+ED: Yeah, I’m about 99.9 percent sure that we’ll finish the season. I know a couple guys from the Jazz have concerns, but in our group chat when we talk, everybody’s on board and we’re ready to play. We’re hoping that we can start doing contact stuff soon, so the team I play on, we’re ready to go. I don’t know how it is for some of these other teams. But I’ve played with so many different guys in the NBA and I talk to so many different guys and, for the most part, guys want to play. Obviously, you got some guys that, for different reasons, might not want to play. For some guys, there’s a lot on the line. You got some guys who are in a contract year. If I’m Jordan Clarkson or Donovan , I might not want to play, just for the simple fact that I had a good year and I’m looking for a contract extension, so why would I risk getting hurt? But, at the same time, the reason why we’re in this situation is because we’re in a pandemic.
+
+
+--DocBreak--
+Players would receive their entire salaries for the year despite playing a schedule that’s only about two-thirds the length of the 36-game one that was supposed to start May 15.
+
+
+--DocBreak--
+Kern County Back In Business
+
+
+--DocBreak--
+It might not be a name familiar to the US market, but Naim is a legendary British brand hoping to make a splash with the American launch of its $1499 Mu:So speaker.
+
+
+--DocBreak--
+Daniele Silvestri in tour dopo il lockdown: concerto a Taormina
+
+
+--DocBreak--
+An ode to male hustling in mid-town Manhattan's Loop from one of the founding bands of punk, "53rd and 3rd" was written by Ramones bassist Dee Dee Ramone, allegedly from life experience "trying to turn a trick" in a notorious cruising area, but being "the one they never pick."
+
+
+--DocBreak--
+These almost instant point-of-use tests would provide warning of any outbreak and could be used to produce the data necessary to act quickly and avoid further lockdowns. They would be used in conjunction with lab-based tests to pinpoint new cases. This is not an alternative to a track and trace system, but could make that far more likely to be successful.
+
+
+--DocBreak--
+Ascena, which owns roughly 2,800 units across the country, shuttered almost its entire brick-and-mortar fleet in mid-March amid government-mandated lockdowns. It began reopening locations in May and currently has 450 outposts back in business, albeit at reduced hours. What's more, it noted in a recent filing with the Securities and Exchange Commission that foot traffic is "significantly reduced" compared with the same period last year.
+
+
+--DocBreak--
+Game was being held behind closed doors
+
+
+--DocBreak--
+The latest “Job Killer” legislation to see the light of
+ Read more »
+
+
+--DocBreak--
+Similarly, here at SitePoint, we're still pumping out lots of CSS content in the form of books and courses on SitePoint Premium (formerly Learnable). Some of the most popular titles available on SitePoint Premium are the CSS-based content. And there's more CSS content in the works. So the demand is not slowing down.
+
+
+--DocBreak--
+When officers arrived, they discovered there were two girls, ages 12 and 14, in a hammock tied to a tree and brick pillar. Police said it appears the pillar collapsed and fell on the girls.  
+
+
+--DocBreak--
+Northeast Tennessee and Southwest Virginia are home to a few drive-in theaters who have seen a boom in business since the summer months began. Some owners are attributing the uptick in business to those looking for a fun activity that still complies with social distancing guidelines.
+
+
+--DocBreak--
+First up: the vibration test, where the engineers subjected the Sentinel-6 Michael Freilich satellite to the kinds of shaking it will experience while attached to a SpaceX Falcon 9 rocket blasting into orbit. Then in December, engineers tested the spacecraft in a big vacuum chamber and exposed it to the extreme temperatures that it will encounter in space, ranging from 149 to minus 292 degrees Fahrenheit (65 to minus 180 degrees Celsius).
+
+
+--DocBreak--
+Chris Martin, girlfriend Dakota Johnson and his kids Apple and Moses look thrilled to be out and about as they enjoy a day on the beach
+
+
+--DocBreak--
+The Gudjohnsens have a fantastic story not many can rival. Because as father Arnor Gudjohnsen subbed off during his final national team game for Iceland in 1996, his substitute was his son! 17-year old Eidur Gudjohnsen took his place, and the rest is history pic.twitter.com/NdeD77QSsY
+
+
+--DocBreak--
+Man arrested for Sibongiseni Gabada's murder to remain behind bars
+
+
+--DocBreak--
+Nikola Corp to go public at over $3.3 billion valuation
+
+
+--DocBreak--
+EASTHAMPTON, MA (WGGB/WSHM) -- An Easthampton man, who is on the mend after a major surgery, was the recipient of an outpouring of love from the community on Monday.
+ It’s a project designed to help lift him up and lighten his load as he recovers from a brain tumor.
+ Sam Provo is a man who is considered a local legend by many.
+
+
+--DocBreak--
+In the starting template I need to include jQuery, jQuery mobile and Chart.js. I won't cover installing and creating a Cordova Application here, if you haven't done this before, read the getting started guide. Instructions to run and build the application are available on the same page.
+
+
+--DocBreak--
+"Bank officials blame technical glitches as teller machines go on the blink"
+
+
+--DocBreak--
+_New or seasoned collectors can enjoy finding coin designs on paper notes_
+
+
+--DocBreak--
+Behind the scenes of the Murajapam Festival at Sree Padmanabhaswamy Temple
+
+
+--DocBreak--
+The EP attempted to beg Rowland to take him for the last spot on her team by telling her "otherwise we'll be forced to tell him he's not through anymore," but she wouldn't budge.
+
+
+--DocBreak--
+Inside access. Unique perspectives on the daily sports topics that matter most. Right at your fingertips.
+
+
+--DocBreak--
+Con un Videomessaggio dell'Ambasciatore d’Italia in Croazia Pierfrancesco Sacco in occasione della Festa della Repubblica Italiana 2020, egli si è rivolto a tutti per...
+
+
+--DocBreak--
+Out of the Blue
+
+
+--DocBreak--
+Bank officials blame technical glitches as teller machines go on the blink
+
+
+--DocBreak--
+Un altro indagato finito ai domiciliari, si tratta di un maresciallo della finanza di 44 anni, ha deciso di rispondere alle domande del giudice e respingere le accuse. L'altro militare finito ai domiciliari, si tratta di un carabinieri, è invece rimasto a telefono.
+
+
+--DocBreak--
+Hundreds left homeless as dwellings catch fire in KwaMashu township
+
+
+--DocBreak--
+HBO Max plans to put Gone With The Wind back onto its streaming service - but a black scholar will introduce the movie to provide 'historical context'
+
+
+--DocBreak--
+Ritz Barbecue in Allentown closing its doors for good after more than 90 years in business
+
+
+--DocBreak--
+Tributes flow for league legend born and bred in Ipswich
+ News
+
+
+--DocBreak--
+INTERVIEW: PrivatBank under attack but on the mend
+
+
+--DocBreak--
+It’s been 87 days since Governor Andrew Cuomo issued social-distancing guidelines in New York. Eighty-seven days trying to read the books gathering dust on my shelves instead of staring at the wall. Eighty-seven days mindlessly scrolling through TikTok and dating apps for some form of reprieve from the lonesome dread occupying my daily life. And at least 87 days since I last went on a date. So when I saw a viral TikTok over the weekend from a girl who paid an Etsy psychic to draw her soulmate, I knew I needed to follow suit.
+
+
+--DocBreak--
+The `text-align` property has been around for some time. It controls how inline content like text and images are aligned inside a block container. The kewords `left` and `right` align inline content to the left and right respectively. Setting `text-align` to `center` aligns the content to the center of its container. Finally, the `justify` keyword justifies content so that each line is of the same length (except for the last line, if it's not sufficiently long to reach the edge of its container).
+
+
+--DocBreak--
+Earlier, the U.S. Federal Reserve announced it had opened registration for its Main Street Lending program to help businesses weather the storm of mandated lockdowns.
+
+
+--DocBreak--
+Game on the line, and you need a bucket. Who is that guy, once they get to the NBA and get acclimated, you think will thrive in that situation? NBA scout: I’d go with LaMelo. He’s ballsy. The thing with him, when he sees defenses are blitzing him, he’s going to find the open guy. He’s 6-foot-7, so he’s going to see over the top of defenses. Killian is a good passer, too, but I don’t think he’s LaMelo. Game on the line, long-term, if he becomes what I think he can be, it’s LaMelo. Again, that’s if the shot comes around like I think it will and he grows even more as a facilitator.
+

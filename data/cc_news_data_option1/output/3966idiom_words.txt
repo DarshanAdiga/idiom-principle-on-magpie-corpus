@@ -1,0 +1,2 @@
+wp-show-posts-columns#wpsp-731 .wp-show-posts-inner{margin:0 0 1em 1em;}
+

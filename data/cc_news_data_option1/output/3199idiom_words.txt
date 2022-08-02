@@ -1,0 +1,18 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+trb.privacy.processQ())};
+   *[ASX]: Australian Stock Exchange
+
+
+--DocBreak--
+About UsGet E!Contact UsAdvertiseAd ChoicesSitemapAppsPeople's ChoicePeople's Choice FAQRSS Feeds
+ Your source for entertainment news, celebrities, celeb news, and ​celebrity gossip. Check out the hottest fashion, photos, movies and TV shows!
+ Cookie SettingsPrivacy PolicyTerms of Service
+ © 2020 E! Entertainment Television, LLC A Division of NBCUniversal. All rights reserved.
+   *[ASX]: Australian Stock Exchange
+

@@ -1,0 +1,23 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+   *[ASX]: Australian Stock Exchange
+
+
+--DocBreak--
+Trump’s criticism adds to tough choices in Georgia reopening
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-668639045699725574-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-668639045699725574-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-668639045699725574-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+   *[ASX]: Australian Stock Exchange
+
+
+--DocBreak--
+Pakistan
+   *[ASX]: Australian Stock Exchange
+

@@ -1,0 +1,3 @@
+print  Отпечатай
+   *[ASX]: Australian Stock Exchange
+

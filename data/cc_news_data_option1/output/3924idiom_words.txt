@@ -1,0 +1,9 @@
+Meet The Enquirer's 2020 Women of the Year
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+

@@ -1,0 +1,49 @@
+Highspeed-Cloud-On-Ramps: Die FortiGate 2600F ermöglicht sehr sichere und extrem schnelle Cloud-On-Ramps, um Unternehmensrechenzentren mit mehreren Cloud-Umgebungen zu verbinden. Auf diese Weise können Unternehmen Cloud- basierte Anwendungen zur Analyse großer Datenmengen effektiv nutzen.  
+
+
+--DocBreak--
+Für große Unternehmen können damit folgende Anwendungsfälle umgesetzt werden:     
+
+
+--DocBreak--
+Vereinfachter Betrieb bei besserem ROI: Eine kürzlich von Fortinet durchgeführte Umfrage unter Führungskräften im Bereich Cyber-Security ergab, dass fast 70 Prozent der Unternehmen hinsichtlich Insider-Bedrohungen besorgt sind. Die FortiGate 2600F kombiniert Segmentierungs-, SD-WAN- und Netzwerk- Firewall-Funktionen in einer einzigen kompakten Plattform. Dadurch können große Unternehmen Komplexität reduzieren, den Betrieb vereinfachen und ROI- Vorteile nutzen. Die 2600F verkleinert außerdem die Angriffsfläche durch Segmentierung und schützt Unternehmensdaten und Geschäftsanwendungen mit AI/ML-gestützten FortiGuard Labs Services. Die Hardware-beschleunigte VXLAN- Segmentierung stellt eine sichere und schnelle Kommunikation innerhalb hybrider IT-Architekturen unter Nutzung von Virtual Extension LAN (VXLAN) sicher.     
+
+
+--DocBreak--
+München, 09. November 2020 – Fortinet (NASDAQ: FTNT), ein weltweit führender Anbieter von umfangreichen, integrierten und automatisierten Cyber-Security- Lösungen kündigt die FortiGate 2600F an. Fortinets neueste Netzwerk-Firewall verbindet Networking nahtlos mit Security, sowohl in hybriden Rechenzentren, Multi-Cloud-Umgebungen als auch bei einer großen Anzahl von Remote- Arbeitsplätzen. FortiGate 2600F basiert auf Fortinets speziell entwickelten Security Processing Units (SPUs) NP7 und CP9 und bietet eine der höchsten Leistungswerte der Branche mit Security Compute Ratings, die bis zu zehnmal höher sind als bei Lösungen von Mitbewerbern.  
+
+
+--DocBreak--
+YouTube Village’ goes viral | Prothom Alo
+
+
+--DocBreak--
+Sicherheitsorientiertes Networking und die Fortinet Security Fabric     
+
+
+--DocBreak--
+Brits stock up on booze and frozen food ahead of second lockdown : CityAM
+
+
+--DocBreak--
+Flexible Remote-Konzepte: Die FortiGate 2600F ist so flexibel ausgelegt, dass auch eine große Anzahl an Remote-Mitarbeitern schnell und produktiv online gehen kann. Die FortiGate 2600F gewährleistet Vertraulichkeit und Integrität bei der Übertragung sensibler Unternehmensdaten und passt sich an die bestehende Cyber-Security eines Unternehmens an. Durch ein durchschnittlich 9-fach schnelleres IPsec-VPN können Unternehmen bei laufendem Betrieb Geschäftskontinuität implementieren.     
+
+
+--DocBreak--
+Royal Navy nurse bombarded her superior with love messages and texts about threesomes and claims she was a lesbian
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Die Fortinet Security Processing Units (SPUs), einschließlich NP7 und CP9, wurden entwickelt, um Geschwindigkeit, Skalierbarkeit, Leistung und Effizienz der Fortinet-Lösungen zu erhöhen. Gleichzeitig wird die Nutzerfreundlichkeit verbessert, der Platzbedarf reduziert und der Energiebedarf gesenkt. Fortinet- Lösungen, einschließlich der FortiGate 2600F, bieten Networking, das auf Sicherheit ausgerichtet ist. Durch den Plattform-Ansatz stellt die Fortinet Security Fabric zudem die Konvergenz von Netzwerk und Security in der gesamten vernetzten Umgebung sicher und bietet Schutz, unabhängig der virtuellen, Cloud-basierten oder On-Premise-Umgebungen mit beliebigen Geräten oder Anwendungen.     
+
+
+--DocBreak--
+Edge Security jeder Größenordnung: Die FortiGate 2600F bietet volle Transparenz dank SSL-Inspektion (einschließlich TLS1.3), erkennt nicht autorisierteAnwendungen sowie Bedrohungen und schützt Nutzer und Daten, die von externen Risiken in hybriden Rechenzentrumsumgebungen betroffen sind. Die FortiGate 2600F bietet Hardware-beschleunigte Ausfallsicherheit durch IPv4- und IPv6-DDoS (Distributed Denial of Service)-Messung bei Flooding-Angriffen, um die Geschäftskontinuität für Services zu gewährleisten.     
+

@@ -1,0 +1,241 @@
+We reached out to infectious disease experts, aerosol scientists and microbiologists to answer reader questions about the risks of coming into contact with the virus during essential trips outside and from deliveries. While we still need to take precautions, their answers were reassuring.
+ Should i change my clothes and shower when I come home from the grocery store?
+ For most of us who are practicing social distancing and making only occasional trips to the grocery store or pharmacy, experts agree that it’s not necessary to change clothes or take a shower when you return home. You should, however, always wash your hands. While it’s true that a sneeze or cough from an infected person can propel viral droplets and smaller particles through the air, most of them will drop to the ground.
+ Studies show that some small viral particles could float in the air for about half an hour, but they don’t swarm like gnats and are unlikely to collide with your clothes. “A droplet that is small enough to float in air for a while also is unlikely to deposit on clothing because of aerodynamics,” said Linsey Marr, an aerosol scientist at Virginia Tech. “The droplets are small enough that they’ll move in the air around your body and clothing.”
+ Why is it that small droplets and viral particles don’t typically land on our clothing?
+ I asked Marr to explain further, since we’re all getting a mini lesson in aerodynamics.
+ “The best way to describe it is that they follow the streamlines, or air flow, around a person, because we move relatively slowly. It’s kind of like small insects and dust particles flowing in the streamlines around a car at slow speed but potentially slamming into the windshield if the car is going fast enough,” said Marr.
+ “Humans don’t usually move fast enough for this to happen,” Marr continued. “As we move, we push air out of the way, and most of the droplets and particles get pushed out of the way, too. Someone would have to spray large droplets through talking — a spit talker — coughing or sneezing for them to land on our clothes. The droplets have to be large enough that they don’t follow the streamlines.”
+ So, if you’re out shopping and somebody sneezes on you, you probably do want to go home, change and shower. But the rest of the time, take comfort that your slow-moving body is pushing air and viral particles away from your clothes, a result of simple physics.
+ Is there a risk that the virus could be in my hair or beard?
+ For all the reasons outlined above, you should not be worried about viral contamination of your hair or beard if you are practicing social distancing. Even if someone sneezed on the back of your head, any droplets that landed on your hair would be an unlikely source of infection.
+ “You have to think through the process of what would have to happen for someone to become infected,” said Dr Andrew Janowski, instructor of paediatric infectious diseases at Washington University School of Medicine St Louis Children’s Hospital. “You have someone who sneezes, and they have to have X amount of virus in the sneeze. Then there has to be so many drops that land on you.”
+ “Then you have to touch that part of your hair or clothing that has those droplets, which already have a significant reduction in viral particles,” Janowski said. “Then you have to touch that, and then touch whatever part of your face, to come into contact with it. When you go through the string of events that must occur, such an extended number of things have to happen just right. That makes it a very low risk.”
+ Should I worry about doing laundry and sorting clothes? Can I shake viral particles loose from my clothes and send them into the air?
+ The answer depends on whether you’re doing routine laundry or cleaning up after a sick person.
+ Routine laundry should not cause worry. Wash it as you normally would. While some types of viruses, like the norovirus, can be tough to clean, the new coronavirus, like the flu virus, is surrounded by a fatty membrane that is vulnerable to soap. Washing your clothes in regular laundry detergent, following the fabric instructions, followed by a stint in the dryer is more than enough to remove the virus — if it was even there in the first place.
+ “We do know that viruses can deposit on clothing (from droplets) and then be shaken loose into the air with movement, but you would need a lot of viruses for this to be a concern, far more than a typical person would encounter while going for a walk outdoors or going to a grocery store,” Marr said.
+ The exception is if you are in close contact with a sick person. The Centres for Disease Control and Prevention recommends that you wear gloves when cleaning up after someone who is sick, and take care not to shake laundry and bedding. Use the warmest water setting possible and dry completely. You can mix laundry from an ill person with the rest of the household load. But just leaving laundry to sit for a while also reduces risk, because the virus will dry out and decay. “We know these types of viruses tend to decay faster on fabric than on hard, solid surfaces like steel or plastic,” said Marr.
+ So how long can the virus remain viable on fabric and other surfaces?
+ Most of what we know about how long this novel coronavirus lives on surfaces comes from an important study published in the New England Journal of Medicine in March. The study found that the virus can survive, under ideal conditions, up to three days on hard metal surfaces and plastic and up to 24 hours on cardboard.
+ But the study did not look at fabric. Still, most virus experts believe that the cardboard research offers clues about how the virus probably behaves on fabric. The absorbent, natural fibers in the cardboard appeared to cause the virus to dry up more quickly than it does on hard surfaces. The fibers in fabric would be likely to produce a similar effect.
+ A 2005 study of the virus that causes SARS, another form of coronavirus, provides further reassurance. In that study, researchers tested increasingly large amounts of viral samples on paper and on a cotton gown. Depending on the concentration of the virus, it took five minutes, three hours or 24 hours for it to become inactive. “Even with a relatively high virus load in the droplet, rapid loss of infectivity was observed for paper and cotton material,” the researchers concluded.
+ Should I be concerned about the mail, packages or the newspaper?
+ The risk of getting sick from handling mail or packages is extremely low and, at this point, only theoretical. There are no documented cases of someone getting sick from opening a package or reading a newspaper.
+ But that doesn’t mean you shouldn’t take precautions. After handling mail or packages or reading the newspaper, dispose of the packaging and wash your hands. If you still feel especially anxious about it, take guidance from the New England Journal study and just let mail and packages sit for 24 hours before handling them.
+ How much should I worry about contamination if I go outside to walk the dog or exercise?
+ Your chances of catching the virus when you go outdoors is extremely low, provided you’re keeping a safe distance from others.
+ “Outdoors is safe, and there is certainly no cloud of virus-laden droplets hanging around,” said Lidia Morawska, professor and director of the International Laboratory for Air Quality and Health at Queensland University of Technology in Brisbane, Australia.
+ “Firstly, any infectious droplets exhaled outside would be quickly diluted in outdoor air, so their concentrations would quickly become insignificant,” Morawska said. “In addition, the stability of the virus outside is significantly shorter than inside. So outside is not really a problem, unless if we are in a very crowded place — which is not allowed now anyway. It is safe to go for a walk and jog and not to worry about the virus in the air, and there is no need for an immediate washing of the clothes.”
+ I’ve read that when I get home from a trip outside I should remove my shoes and wipe them down. Should I waste my precious disinfectant wipes on my shoes?
+ Shoes can harbour bacteria and viruses, but that doesn’t mean they are a common source of infection. A 2008 study commissioned by Rockport Shoes found a lot of gross stuff, including fecal bacteria, on the soles of our shoes. A recent study from China found that among health care workers, half had coronavirus detected on their shoes, which is not unexpected since they worked in hospitals with infected patients.
+ So what should we do about our shoes? If your shoes are washable, you can launder them. Some readers asked about cleaning the soles of their shoes with a wipe. That is not recommended. Not only does it waste a good wipe (they are still in short supply), but it brings germs that would stay on the sole of your shoe or on the ground directly to your hands.
+ You can try not to think about what’s lurking on your shoes — or you can have a conversation with your family about becoming a shoe-free household. We covered the pros and cons of shoeless living in our article, “Should You Take Your Shoes Off at Home?” If you have a child who crawls or plays on the floor, a family member with allergies, or someone with a compromised immune system, a shoe-free home might be a good idea for general hygiene.
+ Janowski said shoes are not a big worry for contracting coronavirus, but it might make you squeamish if you think about where your shoes have been. “If you want to talk about bacteria, we know bacteria love to live on shoes,” Janowski said. “You never know what you stepped in.”
+ © 2020 New York Times News Service
+
+
+--DocBreak--
+Dining & RecipesEntertainmentTravelReviews & ProfilesReligionHeart to HeartFashion & Beauty
+
+
+--DocBreak--
+Disney on Ice Presents Worlds of Enchantment
+
+
+--DocBreak--
+Texas Gentlemen get into spacey Seventies-rock mode in the new song "Ain't Nothin' New," the first offering from the group's upcoming second album. Titled _Floor It!!!_ -- with three exclamation points! -- the project will be released July 17th.
+
+
+--DocBreak--
+Rick Steves finds unexpected joy amid travel standstill, and vows to keep his staff working — even if he pays out of pocket
+
+
+--DocBreak--
+Goldie Hawn, Kate Hudson and baby make history with People cover
+
+
+--DocBreak--
+X-Backend-State: Backend up and running
+
+
+--DocBreak--
+When the user clicks on the button, scroll to the top of the document
+
+
+--DocBreak--
+Mike Patton's Advice for Life in Quarantine: 'Hang Tough, Watch Epic Films'
+
+
+--DocBreak--
+Season 3 opens on a surprisingly peaceful note. ( _Vida_ doesn't exactly rely on plot twists, but if you haven't watched the first two seasons and want to avoid any spoilers, you might want to stop reading here.) The sisters have long since decided to leave their old lives behind, keep the building and save the bar; despite protests from Mari and her friends, it's become a hotspot for young, hip Angelenos of color. Emma--whose lingering ire toward her late mother is rooted in Vida's evidently hypocritical decision to send a pubescent Emma away to her grandmother's after catching her in bed with a girl--is in the throes of a new romance with the kind, devastatingly cool mixologist- writer Nico (Roberta Colindrez, a brilliant second-season addition to the cast). Lyn's new boyfriend Rudy (Adrian Gonzalez), a telenovela-handsome local politician from a prosperous family, seems to be her most promising match to date.
+
+
+--DocBreak--
+By PHILIP WAFULA
+ In light of the presidential directive grounding public transport and regulating private vehicles to stem the spread of Covid-19, GOGP+, a telemedicine App has been designed to do away with physically visiting a hospital.   Telemedicine involves the use of electronic communications and software to provide clinical services to patients remotely without making a physical visit to the hospital, and GOGP+ is one of them.   The service can be accessed from home, refugee camps and other remote locations, 24 hours a day.
+ "GOGP+ enables video-to-video chat by remotely connecting those in need of medical assistance with qualified doctors in a trusted, reliable and secure environment," said Mr Paul Mwebesa, the Chief Operations Officer.   The application, he adds, has the ability to upload documents and photos, enables doctors review historic consultations, prescriptions and laboratory tests to maintain consistency of patients’ diagnosis and treatment.”
+ According to him, GOGP+’s mission is to provide healthcare for the masses by providing accessible and affordable health services to every phone owner and is available in play store, app store and can be downloaded from https://bit.ly/2K9UZT2   The GoGP+ App will provide remote healthcare and combat the spread of coronavirus.   “Patients with symptoms consistent with Covid- 19 can access a doctor by video consultation and be advised on what to do.
+ “In addition, patients with other ailments will have fast video access to a doctor while avoiding the need to visit the hospital, and in that way, they avoid the risk of interacting with suspected Covid-19 patients as well as decongest the hospitals,” Mr Mwebesa said.
+  _pwafula@ug.nationmedia.com_
+
+
+--DocBreak--
+Lockdown effect: Bajaj Chetak Electric scooter deliveries to take a back seat
+
+
+--DocBreak--
+Delivered bright and early weekday mornings, this email provides a quick overview of top stories and need-to-know news
+
+
+--DocBreak--
+It sort of worked.
+ The new, virtual, House of Commons opened an unprecedented day with the first- ever remote Welsh Questions - with Secretary of State Simon Hart answering from home.
+ Sound quality was occasionally ropey, questions had occasionally to be guessed at, with Mr Hart revealing previously unsuspected lip-reading skills.
+ The pace was deliberately leisurely, with Commons Speaker Sir Lindsay Hoyle spinning out the way he called MPs to speak, to allow the technical crews behind the scenes to get the right face up on the screens.
+ And the close-ups from the home cameras gave a new dimension.
+
+
+--DocBreak--
+"Because we don't know how many people have been exposed, you should err on the side of caution," Cotton said.
+
+
+--DocBreak--
+Blomberg was charged with driving while under the influence of drugs, driving during suspension, possession of a controlled substance (methamphetamine) with intent to deliver, possession of marijuana and drug paraphernalia and prohibited acts for being under the influence of illegal drugs.
+
+
+--DocBreak--
+We could see the play of emotions across Mr Hart's face, full screen. Every twitch or semi-grimace was there. You don't normally see the tensions and emotions of parliamentary questions displayed so raw.
+ By the time PMQs began, the routine was established…but it was an unfamiliar cast of characters, with First Secretary Dominic Raab deputising for his convalescing boss, and Sir Keir Starmer making his debut as the Leader of the Opposition.
+ Oh to have seen their faces so close - but both were appearing in the old- fashioned way - in the flesh, in the chamber.
+ In normal times, the Leader of the Opposition does not deign to debate anyone other than the prime minister, but Sir Keir, wisely, was not standing on ceremony, and so he made his debut in his new role in circumstances he could hardly have imagined when he began his leadership bid.
+ In a ritual as time honoured as the Speaker's daily procession with the Mace, he promised "constructive opposition" although, mercifully, he didn't deploy the usual soundbite about "an end to Punch and Judy politics".
+ ## Not politics as usual
+ Instead, he dropped into prosecuting counsel mode, putting Dominic Raab through a gruelling inquisition which ran through the numbers being tested, the supply of PPE and the death rate among NHS staff and care workers.
+ Woundingly, when the first secretary could not supply a figure for the care workers, Sir Keir promised he would ask every week, until he could. All this with only the barest flash of partisan steel.
+ This was clearly not the moment for a full-on party political slugfest. It was all too horribly serious for politics as usual, and Mr Raab responded with detailed answers where he could, highlighting progress and pointing out that the government was following the advice of the chief medical officer - did Sir Keir know better?
+ On and on the extended 45 minutes PMQs rolled.
+ Former Scottish Secretary David Mundell was unable to connect, the Speaker announced, moving on to the SNP's Westminster leader, Ian Blackford, with signed footballs positioned in shot behind him, asking about moving to a universal basic income system.
+
+
+--DocBreak--
+Navneeth plans to compete in the SpellPundit bee to see if he can add to a trophy collection that includes the North South Foundation bee, the South Asian Spelling Bee and the North America Spelling Champion Challenge.
+
+
+--DocBreak--
+No sábado, foram testados por infeção pelo novo coronavírus, no âmbito de um rastreio feito a todos os ex-reclusos libertados recentemente e tiveram resultado positivo.
+
+
+--DocBreak--
+MG Motor India on Wednesday announced plans to put 100 of its Hector SUVs on the roads to provide hassle-free and convenient travel options to workers in the frontline of the fight against Covid-19 disease in the country. This is on the lines of 100 ZS EVs provided by MG Motor UK to the country's National Health Service (NHS).
+ In India, MG has said that the Hector SUVs will be provided to address the transportation needs of doctors, medical staff, police and local government officials currently in the midst of the battle against Covid-19. The vehicles, the company says, will be provided free of cost and with fuel and drivers.
+ MG says that the vehicles will be supplied via its dealerships across the country and that the recently introduced ‘MG Disinfect and Deliver’ process will be followed before the cars hit the roads. The end objective of this is to ensure that essential workers are able to provide their crucial support at a time when the country remains in lockdown to check the spread of the disease.
+ (Also read: MG Motor India ties up with Medklinn for vehicle cabin sterilisation)
+ MG says it has also distributed essential items like PPE kits, masks, sanitisers, food and ration kits in the past several weeks.
+ In the UK and Ireland, MG has been playing a similar role and apart from supplying ZS EV cars for transportation needs of NHS workers, has also donated 30,000 face masks to hospitals.
+ MG is one of several car makers who have jumped in to provide assistance of varying kinds in India as well as in many other countries.
+
+
+--DocBreak--
+“Actually for me, I kind of feel like I’m cheating a little bit, because I’ve got a wonderful coronavirus partner and I’m learning how to cook,” Steves said of his girlfriend, Shelley Bryan Wee, a bishop with the Evangelical Lutheran Church in America. “She’s got dogs. I never thought I’d have dogs in my life and I’ve been loving having dogs. I never would ever let a dog in my house. I’ve never turned on my oven. I’ve used the stove, but I haven’t turned on my oven in the 10 years I’ve lived in this house. I’ve never cut into an onion. People give me olive oil all the time, but I didn’t know what to do with it. So, there’s more to life than selling tours and writing great guidebooks, and I’m enjoying that other half.”
+ Wee even has a picture of Steves lying on the floor curled up with her Labradoodles, Gracie and Jackson — something his friends might once have thought impossible.
+ “I was gearing up for a summer of missing him because he was going to be gone for several weeks,” Wee said. “He’s gone almost three months of the year. And so I was geared up for that and then suddenly he’s here, which is great.
+ “And it’s surprising because really his whole being is about travel, so that he’s made this adjustment is pretty amazing,” she said. “I think it’s the idea that he’s traveling at home, kind of exploring new things at home.”
+ Their relationship is fairly new. Steves and Wee began dating last August, but the coronavirus pandemic has sped up the pace at which they’re learning about each other. Wee, for instance, got to see exactly what Steves is made of as he dealt with the fallout from the travel restrictions over the last two months.
+ Steves is one of the most well-known tour-industry figures in the U.S., with an annual company revenue of $100 million. Most folks who daydream about traveling the world have seen an episode or two of his PBS series “Rick Steves’ Europe.” On the show, he shares his love of exploring the continent he fell in love with as a teenager. He founded his company in 1976 and it has grown steadily, weathering the 9/11 terrorist attacks and the 2008 recession.
+ Not long ago, Steves hosted more than 100 European guides at his house. There was a lot to celebrate: It would have been, without question, his company’s biggest year. He expected to host more than 30,000 tourists on more than 1,000 bus tours through October.
+ Since, he’s returned millions of dollars to his customers and is determined to keep his staff of more than 100 at work while many tourism-related businesses are withholding refunds and furloughing or laying off employees. If there’s no revenue this year, his staff’s salary will cost him $14 million out of pocket.
+ “When I first met him and was interested in him, he was Rick Steves, and I knew him from that,” Wee said. “But one of the things that attracted me to him was his ethics and his moral grounding. And I think that that comes through in this, in his decision-making in this, and I have to admire him for it because it’s not easy. He does make it sound like it’s easy and it’s not. He has anxiety about it, but in every conversation that we have about it, he says this is the right thing to do.”
+
+
+--DocBreak--
+Dal 24 al 27 aprile torna la Sagra del Fritto Misto a Torre San Giorgio (VIDEO)
+
+
+--DocBreak--
+The tranquility can't last, of course. Soon enough, the long-suffering Eddy--a working-class butch with a tender heart who's mourning Vida more than anyone-- surfaces with news about the sisters' father, whom their mother had led them to believe was dead. Once allergic to both labels and commitment, Emma experiences a setback on her path to embracing her queerness when she learns Nico isn't being entirely transparent with her. As impressive as he may look on paper, Rudy has mama's-boy tendencies that start to turn toxic. Mari, for her part, is beginning to question the value of protesting the Hernandez sisters when there are so many more genuinely predatory forces targeting her community.
+
+
+--DocBreak--
+In this image taken from video provided by iRacing IndyCar, Pato O'Ward, foreground, heads into a turn during the opening lap of the American Red Cross Grand Prix virtual IndyCar auto race at Watkins Glen International.
+
+
+--DocBreak--
+Once credit cards are paid off, there is more money each month to dedicate to a house fund and, because that debt is gone, it will be easier to qualify for a mortgage. Also, since paying off credit cards will increase your credit score in the long run, you're likely to be offered a lower interest rate on your new mortgage.
+
+
+--DocBreak--
+With rugby league likely to play multiple games each week when the season eventually returns, officials will see their workload doubled, plus there is added mental pressure. “They run around six or seven miles a game on average, but they will have hundreds of rucks and plays to rule over too, plus the abuse and pressure which comes with the territory,” Ganson says.
+
+
+--DocBreak--
+District In-charge Minister V Somanna had assured of handing over houses to the flood victims, by the end of April. But, the work on the houses being built in Jamboor got delayed as the supply of sand, iron and cement was affected due to the lockdown.
+
+
+--DocBreak--
+Henschel tells TIME that the years she spent keeping the relationship a secret was "just second nature," but telling the world the truth allowed them both to feel like they'd opened up.
+
+
+--DocBreak--
+The artwork dates to a time when the artist had moved back to his family in a rural area of the Netherlands and painted the life he saw there, including his famous work “The Potato Eaters,” in mostly somber tones.
+
+
+--DocBreak--
+Campbell was supposed to be on the road right now supporting Wreckless Abandon, the debut LP by his band the Dirty Knobs. Health problems forced him to delay the tour and push the album back to September 18th. He's supposed to hit the road around that time for an extensive American club tour, presuming mass gatherings are legally permitted by that point.
+
+
+--DocBreak--
+"We have a strong cash position, a strong balance sheet, and our core businesses are solid and continue to generate good free cash flow -- even in today's environment. In light of the pandemic's economic impact, we've already adjusted our capital allocation plans and suspended all share retirements," Stephenson said. "As a result, we're able to continue investing in critical growth areas like 5G, broadband and HBO Max, while maintaining our dividend commitment and paying down debt."
+
+
+--DocBreak--
+Trump acknowledged the incident in a tweet Wednesday, saying: “I have instructed the United States Navy to shoot down and destroy any and all Iranian gunboats if they harass our ships at sea.” The U.S. Navy’s Bahrain- based 5th Fleet referred questions on the tweet to the Pentagon, which did not immediately respond to a request for comment.
+
+
+--DocBreak--
+Lippi: "Il campionato va portato a termine, ma senza playoff"
+
+
+--DocBreak--
+The project made its way to Blumhouse Productions, best known for horror and social thriller films like _Get Out_ , by way of producer Alexa Fogel's longstanding relationship with Jeremy Gold, co-president of Blumhouse Television. "Ryan and I collaborated on _The Normal Heart_ , and we share a passion in championing important, untold stories," executive producer Jason Blum told TIME in an email. "I knew he would be the right partner to bring on board this project. The love story between Terry and Pat is an inspiration and example to us all especially during this time where we are all looking to be uplifted."
+
+
+--DocBreak--
+Steves hopes to have a little bit of a fall season, but has resigned himself to a complete cancellation of tours in 2020. He’s refunding customers two months out, which means July is next — including a trip scheduled for his own extended family that he said would have been “the joy of my lifetime.”
+ “Every time I try to get ahead of the curve, I wake up the next morning and I’m behind the curve,” Steves said. “Things just change. And I don’t think even, quote, experts know how long this is going to go.”
+ One thing he is sure of is that things won’t get back to a semblance of normal quickly.
+ “It’s wishful thinking to think we can just raise the curtain and we can rekindle all the tourism,” Steves said. “I think it’s going to be an incremental thing and it’ll take months for normal tourism to get up and running. It’s complex.”
+ Steves sees tourism as a multilayered entity, and all parts must be functioning for the business ecosystem to work. That means before anything can happen, both the U.S. and Europe have to be past the curve and open again. And transportation and lodging have to be functioning normally, after furloughing or laying off much of those industries’ workforces.
+ “There’s independent travel and then there’s organized travel,” Steves said. “I think independent travelers will be a little more adventurous at first. But organized tourism is a complicated thing, and you don’t want to have a bus with 25 people deep in the middle of a European itinerary and all sorts of reservations and all sorts of promises and expectations. That could be wishful thinking and overly confident. Then you have to consider the bailout.”
+ Steves has built his company on the idea of person-to-person travel that emphasizes small businesses and the local economies. He’s not sure how many of his partners overseas will survive the pandemic.
+ “What breaks my heart is all these broken dreams from hardworking entrepreneurs that have worked hard to put their businesses together,” Steves said. “And how many of them would be able to survive this shutdown? I don’t know. So if we lose that, we lose a lot of the fabric of our community. And it just scares me. I have a friend who runs a museum and he thinks that a third of the museums in the United States that have closed down will not reopen. And I think the same may be true with small shops and cafes and restaurants.
+ “On the other hand, we don’t know,” he said. “The demand is pent up, it doesn’t dissipate. The demand will come back and what was viable in the past, we can only hope will be viable in the future.”
+ That sense of pragmatic optimism will drive his decisions no matter how long the pandemic keeps him off the road.
+ “I’m a privately held corporation,” he said. “Publicly held corporations are legally obligated to protect the financial interests and maximize the financial gains of their stockholders. And we’ve only got one stockholder, and that’s me. And I’ve got different priorities. I have a staff that is mission- driven and the mission is not to maximize the return for your investors. Our mission is to inspire Americans to venture beyond Orlando. We owe it to our mission to still be around after this is done, so America can be less fearful and open to the world with a mindset of building bridges instead of building walls.”
+
+
+--DocBreak--
+It is unclear whether hydroxychloroquine will work for everyone, or even in a small group of patients. While the medical community awaits clinical trials to tell us once and for all if hydroxychloroquine works in COVID-19, the interesting thing to me is that this debate may have brought us a possible hypothesis as to why high blood sugar may make the disease worse, and possibly what to do about it.
+
+
+--DocBreak--
+Campbell was supposed to be on the road right now supporting _Wreckless Abandon_ , the debut LP by his band the Dirty Knobs. Health problems forced him to delay the tour and push the album back to September 18th. He's supposed to hit the road around that time for an extensive American club tour, presuming mass gatherings are legally permitted by that point.
+
+
+--DocBreak--
+Lippi: "Il campionato va portato a termine, ma senza playoff" »
+
+
+--DocBreak--
+By IBRAHIM MANZIL
+ Many Ugandans have been asking a very legitimate question; why does Parliament continue to sit despite the Covid-19 lockdown?   First, it should be stated that Parliament stands shoulder to shoulder with the citizens of Uganda during these difficult times, and will continue to play its part unwaveringly, in supporting national efforts to fight Covid-19.   Parliament takes the concerns raised in good faith, and appreciates the public’s genuine interest in the safety and wellbeing of its members and staff.
+ However, in the midst of this crisis, there are important legal and constitutional requirements that Parliament needs to fulfil to ensure first, that the economy doesn’t experience a total shutdown and, secondly, that government   gets the resources required to implement measures against the pandemic.   Something that couldn’t be postponed, for instance, is the recently enacted Shs304b Supplementary Appropriation Act 2020, funds required to kick-start the critical healthcare and logistical interventions to fortify the war against Covid-19.   It is important to note that responsibility to appropriate funds to run all activities of government rests with Parliament.
+ Secondly, is the Budget process, which has critical timelines as dictated in the Constitution and the Public Finance Management Act (as amended in 2015).   Section 13(3) the Act requires the Minister of Finance, on behalf of the president, to lay before Parliament Proposed Budget for FY2020/2021 by April 1. The Budget Estimates opens door to an elaborate legal process that includes transmitting the Estimates to the Committee on Budget, where all Sectoral Committees share their input on the necessary adjustments required to ensure it fits within the resource envelope.
+ Section 14 of the Act requires Parliament to pass the Budget by May 31, in time for the start of the new Financial Year.   In keeping with the public safety measures undertaken by government, Speaker Rebecca Kadaga, announced several interventions to ensure that members and staff of Parliament are safe. The measures include scaling down staff’s   physical presence at Parliament to only about 5 per cent. These work in shifts to deliver critical services.   Most critically and in keeping with the plan to pass the Budget in time, the Speaker has reduced the number of MPs sitting on the Budget Committee to a maximum of five, These will have to fulfil their duties fast but thoroughly, so that by end of this week, the Budget is passed.
+ This will give way for Parliament to go on Recess.   In the process of considering the Appropriations Bill, the House has a right to suspend some rules to speed up the process. In expediting the consideration of the Bill, the House will use Rule 152(h), which grants the presiding officer the right to effect the adjustments.   Parliament has also escalated social distancing and all recommended safety measures to guard against Covid-19.   There are also untruths on social media that Parliament intends to financially facilitate MPs to fight the pandemic. No such idea has been entertained by Parliament.
+ Covid-19 is a unique threat to Uganda and to humanity as a whole and we should, therefore, fight through all fronts to ensure human progress is not torpedoed as we continue with our assault against the pandemic.   We should ensure that our economy and government doesn’t grind to a halt, and that we keep our heads afloat as we swim to the shores of healing and revival.
+
+
+--DocBreak--
+For many other TV dramas, these plot points would serve solely as obstacles scattered in the characters' way to keep the show going for another season. But _Vida_ has always been deliberate; if the first few episodes of the series lack the lived-in subtlety of what follows, it's because creator Tanya Saracho (a theater artist who has written for HBO's _Looking_ and ABC's _How to Get Away With Murder_) was so purposeful in fleshing out her characters and the world of Boyle Heights. With that scaffolding in place, Saracho has constructed storylines whose remarkable depth comes from viewers' understanding of not just who these people are, but also how they see themselves and what they project onto one another. Mexican-American identity doesn't mean the same thing to Lyn (whom the activists nickname "Coconut Barbie") as it does to Mari--and for Mari's best friend Yoli (Elizabeth De Razzo), a DACA recipient, it's something very different. Emma and Nico and Eddy and Lyn's pal Marcos (Tonatiuh), a gender non-conforming academic, each have their own way of being queer. _Vida_ feels fueled by the awareness that people tend to judge or shut out others because they're uneasy with their own identities and choices.
+

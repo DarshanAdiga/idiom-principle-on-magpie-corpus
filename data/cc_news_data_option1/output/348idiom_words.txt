@@ -1,0 +1,52 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Okla. man wakes up in middle of night, shoots girlfriend, believing she’s a home intruder
+
+
+--DocBreak--
+Home __Business __ 9mobile Launches AI Personal Digital Customer Assistant
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Drug deals, vomit, crime: Retail strop's sad decline | Sunshine Coast Daily
+
+
+--DocBreak--
+2020: The up and coming destinations to escape those winter blues - Wales Online
+
+
+--DocBreak--
+Fancy driving a steam train for a living? Here are the latest vacancies at Beamish Museum - Chronicle Live
+
+
+--DocBreak--
+Kobe Bryant helicopter 'hovered over LA circling 10 times before crashing' - Birmingham Live
+
+
+--DocBreak--
+Underworld figure in custody over hotel trashing charges | Daily Examiner
+
+
+--DocBreak--
+Ozzy Osbourne steps out at Grammys with cane after Parkinson's diagnosis - Birmingham Live
+
+
+--DocBreak--
+Rangers icon McCoist on Celtic star Griffiths’ taunts at Boyd and Nicholas’ criticism – The Scottish Sun
+
+
+--DocBreak--
+Newcastle writer's book to be given to Hollywood stars in swag bags at the Oscars - Chronicle Live
+

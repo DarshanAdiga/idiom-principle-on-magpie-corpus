@@ -1,0 +1,12 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-544546022759004170-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-544546022759004170-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-544546022759004170-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+

@@ -1,0 +1,2 @@
+masthead-section-label, #masthead-bar-one { display: none }
+

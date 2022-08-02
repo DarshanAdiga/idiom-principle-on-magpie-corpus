@@ -1,0 +1,39 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-567703301425362861-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-567703301425362861-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-567703301425362861-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+   *[FT]: Financial Times
+
+
+--DocBreak--
+Chinese researchers described the incident in a paper that is to be published in the July issue of the Emerging Infectious Diseases, a journal published by the Centers for Disease Control and Prevention. The field study has limitations. The researchers, for example, did not perform experiments to simulate the airborne transmission.
+ That outbreak illustrates some of the challenges that restaurants will face when they try to reopen. Ventilation systems can create complex patterns of air flow and keep viruses aloft, so simply spacing tables 6 feet apart — the minimum distance that the CDC advises you keep from other people — may not be sufficient to safeguard restaurant patrons.
+
+
+--DocBreak--
+UEFA discussing 'variety of options' as fresh statement is released on plans for the rest of season - Teesside Live
+   *[FT]: Financial Times
+
+
+--DocBreak--
+In March, De Sena furloughed 75% of his staff of about 400 and cut the pay of those who remained, to help ease the pain of losing $9 million a month in event revenues. Now, he and other race organizers are starting to imagine life on the other side of COVID-19, becoming some of the first people in sports to actively plan for the next normal.
+
+
+--DocBreak--
+Is Michael Jordan playing defense in ‘The Last Dance’? - South Florida Sun Sentinel - South Florida Sun-Sentinel
+
+
+--DocBreak--
+Home __Business News __ Local Group Supports Our Small Businesses and Those Fighting COVID-19 Firsthand
+   *[FT]: Financial Times
+
+
+--DocBreak--
+How coronavirus infected some, but not all, in a restaurant - South Florida Sun Sentinel - South Florida Sun-Sentinel
+
+
+--DocBreak--
+Consider the most contentious debate in the NBA, which the show is now recharging, intentionally or not:
+ _Jordan or James?_ _Who is the best of all time? Six rings, or three?_ _Oh, but Jordan couldn’t do it without Scottie Pippen and played in a watered down league. Yeah, but LeBron couldn’t do it without Wade and Bosh. And the league is soft now. No, the league is better now! Jordan never beat a team as good as the 2016 Golden State Warriors! Yeah, but Jordan didn’t lose to the 2011 Dallas Mavericks!_
+ Jordan hears these conversations loud and clear, even though he won’t publicly partake in them.
+

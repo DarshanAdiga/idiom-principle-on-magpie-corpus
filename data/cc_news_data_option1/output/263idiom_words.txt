@@ -1,0 +1,42 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+MINIFYHTMLbf45bfd5d7d46b451d28a39d7f99c4ba12%
+  __
+ Share
+  __
+ Facebook
+ __
+ Twitter
+ __
+ Pinterest
+ __
+ WhatsApp
+ __
+ Bradley Lamb
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-466720361213805758-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-466720361213805758-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-466720361213805758-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-189502719741738018-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-189502719741738018-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-189502719741738018-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+

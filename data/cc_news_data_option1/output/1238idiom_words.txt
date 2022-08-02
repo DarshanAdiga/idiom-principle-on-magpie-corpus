@@ -1,0 +1,32 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-544546022759004170-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-544546022759004170-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-544546022759004170-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+   *[FT]: Financial Times
+
+
+--DocBreak--
+Inside Kaiser Chiefs frontman's Ricky Wilson's £1.5m mansion up for sale - Leeds Live
+   *[FT]: Financial Times
+
+
+--DocBreak--
+Lightbox link
+   *[FT]: Financial Times
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+   *[FT]: Financial Times
+
+
+--DocBreak--
+Editorial: Virus forces tough choices on higher ed - The Virginian-Pilot - The Virginian-Pilot
+
+
+--DocBreak--
+Covid 19 coronavirus: Light relief? Truckies say they can use public toilets; service stations say 'no' - NZ Herald
+

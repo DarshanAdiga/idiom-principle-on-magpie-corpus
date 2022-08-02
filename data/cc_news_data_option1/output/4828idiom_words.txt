@@ -1,0 +1,21 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Shops, cinemas and gyms to reopen next week with restaurants back later under three-step Level 5 exit plans
+
+
+--DocBreak--
+Mike Tyson clash with Roy Jones Jr betting AXED by bookmakers over fears on fight rules and if there will be a winner
+
+
+--DocBreak--
+These are the must-have items in your home if you want to look rich - from a walk-in-wardrobe to Louis Vuitton luggage
+
+
+--DocBreak--
+Purple Tulare County braces for 'food cliff' ahead of holidays, COVID surge
+

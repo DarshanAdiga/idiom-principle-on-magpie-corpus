@@ -1,0 +1,21 @@
+How would that have helped Thomas Cook? “I imagine that the executives and auditors of Thomas Cook had an inkling that their finances went into the wrong direction,” concludes Professor Cleland. “With Triple Entry Accounting and following better real time metrics everybody would have seen the iceberg when there was still time for somebody to hit the alarm and change course.”
+
+
+--DocBreak--
+“All insights usually happen on an ex post facto basis,” explains Professor Keith Cleland. “Today’s business data methods cannot deliver real-time insights. The necessary metrics are usually not even collected. Executives are always at least a quarter and more often years behind.” This explains why, according to AccountingWEB, Thomas Cook tried to “secure a further £200m in funding” in “Eleventh-hour talks.” They just didn’t know until it hit them.
+
+
+--DocBreak--
+There has been no working TEA system in use until today. “We are now scaling the last mile: to have secure immutability and be able to handle the enormous volume of 500 billion global invoices per year with real time data available,” explains Hartley.
+
+
+--DocBreak--
+“The idea of TEA has been around for about 20 years,” says David Hartley, CEO of TEA-maker Pacio. “But only now does the technology exist to create a decentralised, secure, transparent and immutable ledger.” The technology in question started with Blockchain but has now moved on to more scalable, cheaper and faster protocols.
+
+
+--DocBreak--
+Immutability as the technology of the decade
+
+
+  However, there is a burgeoning new standard on the horizon in the form of Triple Entry Accounting (TEA). In regular accounting, an invoice exists in ACME Ltd’s book as a credit and in Widget Corp’s as a debit. Both books are private until audited which makes it difficult to check. Triple Entry Accounting adds a third book which is controlled by an independent third party. ACME adds her invoice to the third ledger and puts a timestamp on it that cannot be changed anymore. Widget acknowledges the invoice. The data is now immutable and thus very difficult to manipulate.
+
