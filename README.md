@@ -24,28 +24,7 @@ The MAGPIE dataset contains `idiom` column but the sentences can contain differe
 
 * Option-2: Use the `offsets` column and extract the actual MWE from the sentence. This will capture all possible MWEs in the data, but the number of unique tokens would be very high
 
-
-### Experiment Tracker
-
-| Experiment | Notebook | Single Token Rep | Dataset  | Model | Context | Status |
-|:-----------|:---------|:-----------------|:---------|:------|:--------|:-------|
-| exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
-| exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
-| exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
-| **exp3A_1**| [exp3A_1](./notebooks/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
-| **exp3A_2**| [exp3A_2](./notebooks/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
-| **exp3B_1**| [exp3B_1](./notebooks/exp3B_1) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
-| **exp3B_2**| [exp3B_2](./notebooks/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
-| exp4 | [exp4](./notebooks/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
-| exp5 | [exp5](./notebooks/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
-
-*> exp2 and onwards should have used XLNet architecture, used BERT because it was faster
-
-**TODO:**
-- Conduct single-token-representations experiment with XLNet base model.
-- The *AStitchInLanguageModels* paper does Idiom-includ/exclude experiment as well in Task-1. Try that as well, if required.
-
-**Variations of exp3:**
+### Variations of exp3:
 In both of the below experiments (exp3A and exp3B), the MWEs are replaced by their corresponding single tokens in the training data. 
 The single-token-representations experiment has following variations:
 
@@ -72,6 +51,25 @@ The single-token-representations experiment has following variations:
 
     iii. Use this fine-tuned model with a *SequenceClassification* objective on the MAGPIE dataset as done by previous experiments. This leads to two experiments: `exp3B_1` and `exp3B_2`.  
 
+## Experiment Tracker
+
+| Experiment | Code | Single Token Rep | Dataset  | Model | Context | Status |
+|:-----------|:---------|:-----------------|:---------|:------|:--------|:-------|
+| exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
+| exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
+| exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
+| **exp3A_1**| [exp3A_1](./notebooks/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
+| **exp3A_2**| [exp3A_2](./notebooks/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
+| **exp3B_1**| [exp3B_1](./notebooks/exp3B_1) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
+| **exp3B_2**| [exp3B_2](./notebooks/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
+| exp4 | [exp4](./notebooks/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
+| exp5 | [exp5](./notebooks/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
+
+*> exp2 and onwards should have used XLNet architecture, used BERT because it was faster
+
+**TODO:**
+- Conduct single-token-representations experiment with XLNet base model.
+- The *AStitchInLanguageModels* paper does Idiom-includ/exclude experiment as well in Task-1. Try that as well, if required.
 
 ## Results
 

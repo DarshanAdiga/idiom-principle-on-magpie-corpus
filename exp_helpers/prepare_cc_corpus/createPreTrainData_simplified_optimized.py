@@ -222,11 +222,10 @@ def _preprocess_dataset_sents(dataset_sents):
         preprocessed_sents.append( dataset_sent )
     return preprocessed_sents
 
-def sent_in_dataset( dataset_sents, sent ) :
+def sent_in_dataset( pre_processed_dataset_sents, sent ) :
 
     sent = ''.join( sent.lower().split() )
-    for dataset_sent in dataset_sents :
-        dataset_sent = ''.join( dataset_sent.lower().split() )
+    for dataset_sent in pre_processed_dataset_sents :
         if  dataset_sent in sent or sent in dataset_sent :
             return True
     return False
@@ -235,6 +234,7 @@ def filter(cc_data_location, out_location, dataset_sents_info, idioms=None, idio
 
     dataset_sents = _load_dataset_sents( dataset_sents_info )
     preprocessed_dataset_sents = _preprocess_dataset_sents( dataset_sents )
+    
 
     if idioms is None : 
         print('Error: idioms is None')
@@ -289,22 +289,12 @@ def filter(cc_data_location, out_location, dataset_sents_info, idioms=None, idio
                     continue
 
                 actual_idioms, matched_idiom_spans = match_idioms(idioms, idiom_re_compiled, sorted_idiom_tokens, sent)
-                matched_idioms = list()
-                for st,en in matched_idiom_spans:
-                    matched_idiom = sent[st:en+1].lower()
-                    matched_idioms.append(matched_idiom)
-                no_new_idiom = True
-                if not limit_count is None : 
-                    for matched_idiom in matched_idioms :
-                        if not limit_count is None and included_counts[ matched_idiom ] != limit_count :
-                            no_new_idiom = False
-                            included_counts[ matched_idiom ] += 1
-                else :
-                    no_new_idiom = False
-                if no_new_idiom :
-                    break
 
-                if len( matched_idioms ) > 0 :
+                if len( matched_idiom_spans ) > 0 :
+                    matched_idioms = list()
+                    for st,en in matched_idiom_spans:
+                        matched_idiom = sent[st:en+1].lower()
+                        matched_idioms.append(matched_idiom)
                     replaced = True
                     for matched_idiom in matched_idioms :
                         classification_sents.append( [ line_number + this_line, sent, matched_idiom, 1 ] )
@@ -317,6 +307,7 @@ def filter(cc_data_location, out_location, dataset_sents_info, idioms=None, idio
                     sent = fast_replace(actual_idioms, matched_idiom_spans, idiom_token_dict, sent)
 
                 replaced_doc.append( sent )
+                    
                 all_doc.append( original_sent )
                     
                 this_line += 1
@@ -325,14 +316,6 @@ def filter(cc_data_location, out_location, dataset_sents_info, idioms=None, idio
                 documents_all_replace.append( replaced_doc )
                 line_number += this_line + 1
             assert len( replaced_doc ) == len( all_doc )
-
-            got_all_data = True
-            for idiom in idioms :
-                if not limit_count is None and included_counts[ idiom.lower() ] < limit_count :
-                    got_all_data = False
-                    break
-            if not limit_count is None and got_all_data :
-                break
 
 
     for outfile_name, data in [
