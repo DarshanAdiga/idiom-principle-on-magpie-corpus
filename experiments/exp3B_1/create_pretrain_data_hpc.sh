@@ -15,4 +15,6 @@ module load apps/python/conda
 module load libs/cudnn/7.3.1.20/binary-cuda-9.0.176
 source activate dis_venv_1
 
-python ../../exp_helpers/prepare_cc_corpus/createPreTrainData_simplified.py -c ../../data/cc_news_data_option1/output -o ./pretrain_data -d ../../experiments/exp0/tmp -i ../../data/token_files/option1_idioms.csv
+#python ../../exp_helpers/prepare_cc_corpus/createPreTrainData_simplified.py -c ../../data/cc_news_data_option1/output -o ./pretrain_data -d ../../experiments/exp0/tmp -i ../../data/token_files/option1_idioms.csv
+
+python ../../exp_helpers/prepare_cc_corpus/createPreTrainData_simplified_optimized.py -c ../../data/cc_news_data_option1/output -o ./pretrain_data -d ../../experiments/exp0/tmp -i ../../data/token_files/option1_idioms.csv

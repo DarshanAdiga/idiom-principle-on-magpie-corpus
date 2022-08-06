@@ -42,10 +42,12 @@ The single-token-representations experiment has following variations:
     **CC News Data Preparation:**  
     The pre-processed CC-News data for this purpose had to be generated with slight modifications. The original steps are described [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#generating-pre-training-data). The modified preprocessing scripts are available [here](./exp_helpers/prepare_cc_corpus/).  
 
-    First, download and preprocess the CC News Corpus using `experiments/exp3B_1/process_cc_hpc.sh` script. Then, prepare the training data for pretraining with single-tokens using `experiments/exp3B_1/create_pretrain_data_hpc.sh` script.  
+    First, download and preprocess the CC News Corpus using `experiments/exp3B_1/process_cc_hpc.sh` script.  
+    Then, prepare the training data for pretraining with single-tokens using `experiments/exp3B_1/create_pretrain_data_hpc.sh` script.  
+    And then, split the `all_replace_data.txt` file into train & eval sets using `experiments/exp3B_1/split_pretrain_data_hpc.sh` script.  
     
     **Pre Training:**
-    Then, train the model with a *Masked-LM* objective on this data. The training scripts are available [exp3B_1/pretraining - TODO Update this](experiments/exp3B_1/).  
+    Finally, train the model with a *Masked-LM* objective on this data. The training scripts are available [exp3B_1/pretraining - TODO Update this](experiments/exp3B_1/).  
 
     Follow these steps of `option-2` as well using the idioms of Option-2.  
 
