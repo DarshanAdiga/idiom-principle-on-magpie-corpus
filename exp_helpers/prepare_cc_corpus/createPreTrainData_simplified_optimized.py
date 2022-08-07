@@ -111,9 +111,27 @@ def match_idioms(idiom_list, idiom_re_compiled, sorted_idiom_tokens, sentence):
                 continue
             already_seen_starts.add(match_span[0])
 
+            # Check if there are overlapping idioms
+            handled_overlap = False
+            for i,other_match_span in enumerate(matched_idiom_spans):
+                # If the max of starts is less than the min of ends, then there is an overlap
+                if max(other_match_span[0], match_span[0]) < min(other_match_span[1], match_span[1]):
+                    print(f'Warning: Overlapping idioms! {match}')
+                    # Then just blindly take the shorted match among the two
+                    # NOTE: The better way of handling this is to keep the one with highest score & length
+                    handled_overlap = True
+                    if other_match_span[1] - other_match_span[0] > match_span[1] - match_span[0]:
+                        # Replace the old match with the new one
+                        matched_idiom_spans[i] = match_span
+                        actual_idioms[i] = idiom
+                    break
+            if handled_overlap:
+                continue
+
             matched_idiom_spans.append(match_span)
             actual_idioms.append(idiom)
             # print(':' + idiom + ':' + str(match) + ': Updated span:' + str(match_span) + ': Score:' + str(match_score))
+
     return actual_idioms,matched_idiom_spans
 
 def fast_replace(actual_idioms, matched_idiom_spans, idiom_token_dict, sentence):
@@ -154,6 +172,7 @@ def __test_regex_idiom_matching(idiom_list, idiom_token_dict):
     import time
     start = time.time()
     test_cases = [
+	("leaders have been working around the clock to ensure", "leaders have been working IDaroundtheclockID to ensure"),
         ("board and attack next season with", "board and attack next season with"),
         ("proposed five-person board would include", "proposed five-person board would include"),
         ("skill that the end of the day we", "skill that the end of the day we"),
@@ -197,7 +216,7 @@ def __test_regex_idiom_matching(idiom_list, idiom_token_dict):
 def _load_single_dataset_sents( location ) :
 
     sents = list()
-    with open( location ) as csvfile :
+    with open( location, encoding='utf-8') as csvfile :
         reader = csv.reader( csvfile )
         next(reader, None) # Skip the header <sentence_0,label>
         for row in reader :
@@ -254,7 +273,6 @@ def filter(cc_data_location, out_location, dataset_sents_info, idioms=None, idio
     line_number           = 0
     documents_no_replace  = list()
     documents_all_replace = list()
-    classification_sents  = list() # Contains only those sentences where we found matching idioms
     included_counts       = defaultdict( int ) 
     act_idiom_counts       = defaultdict( int )
     for data_file in tqdm( data_files ) :
@@ -291,13 +309,7 @@ def filter(cc_data_location, out_location, dataset_sents_info, idioms=None, idio
                 actual_idioms, matched_idiom_spans = match_idioms(idioms, idiom_re_compiled, sorted_idiom_tokens, sent)
 
                 if len( matched_idiom_spans ) > 0 :
-                    matched_idioms = list()
-                    for st,en in matched_idiom_spans:
-                        matched_idiom = sent[st:en+1].lower()
-                        matched_idioms.append(matched_idiom)
                     replaced = True
-                    for matched_idiom in matched_idioms :
-                        classification_sents.append( [ line_number + this_line, sent, matched_idiom, 1 ] )
 
                     # Stats
                     for act_idiom in actual_idioms:
@@ -329,12 +341,6 @@ def filter(cc_data_location, out_location, dataset_sents_info, idioms=None, idio
                 for sent in doc :
                     outfile.write( sent + "\n" )
                 outfile.write( "\n" )
-        print( "Wrote: ", outfile_name )
-
-    outfile_name = os.path.join( out_location, 'classification_sents.csv' )
-    with open( outfile_name, 'w' ) as csvfile :
-        writer = csv.writer(csvfile)
-        writer.writerows( [ [ 'sent_id', 'sentence1', 'sentence2', 'label' ] ] + classification_sents )
         print( "Wrote: ", outfile_name )
 
     # Save some stats

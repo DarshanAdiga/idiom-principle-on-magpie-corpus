@@ -384,6 +384,9 @@ def load_idiom_token_dict_and_idioms(idioms_csv):
     
 if __name__ == '__main__' :
 
+    print("#####\nThis script is DEPRECATED!!")
+    sys.exit(1)
+
     arg_parser = argparse.ArgumentParser()
     arg_parser.add_argument('-c', '--cc_data_location', help='Directory containing preprocessed cc-news files', required=True)
     arg_parser.add_argument('-o', '--out_location', help='Dir to write output files', required=True)
