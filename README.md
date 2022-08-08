@@ -47,7 +47,7 @@ The single-token-representations experiment has following variations:
     And then, split the `all_replace_data.txt` file into train & eval sets using `experiments/exp3B_1/split_pretrain_data_hpc.sh` script.  
     
     **Pre Training:**
-    Finally, train the model with a *Masked-LM* objective on this data. The training scripts are available [exp3B_1/pretraining - TODO Update this](experiments/exp3B_1/).  
+    Finally, train the model (with updated tokens in step i.) with a *Masked-LM* objective on this data. The original pretraining-script is refered from [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/SubtaskA-Pre_Train/preTrain.py). The customized training scripts are available [exp3B_1/train_and_save_hpc](experiments/exp3B_1/train_and_save_hpc.sh).  
 
     Follow these steps of `option-2` as well using the idioms of Option-2.  
 
@@ -58,14 +58,14 @@ The single-token-representations experiment has following variations:
 | Experiment | Code | Single Token Rep | Dataset  | Model | Context | Status |
 |:-----------|:---------|:-----------------|:---------|:------|:--------|:-------|
 | exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
-| exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
-| exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
-| **exp3A_1**| [exp3A_1](./notebooks/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
-| **exp3A_2**| [exp3A_2](./notebooks/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
-| **exp3B_1**| [exp3B_1](./notebooks/exp3B_1) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
-| **exp3B_2**| [exp3B_2](./notebooks/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
-| exp4 | [exp4](./notebooks/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
-| exp5 | [exp5](./notebooks/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
+| exp1 | [exp1](./experiments/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
+| exp2 | [exp2](./experiments/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
+| **exp3A_1**| [exp3A_1](./experiments/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
+| **exp3A_2**| [exp3A_2](./experiments/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
+| **exp3B_1**| [exp3B_1](./experiments/exp3B_1) | Yes | Zero-shot | **bert-base-uncased** | No Context | OnGoing |
+| **exp3B_2**| [exp3B_2](./experiments/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
+| exp4 | [exp4](./experiments/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
+| exp5 | [exp5](./experiments/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
 
 *> exp2 and onwards should have used XLNet architecture, used BERT because it was faster
 
