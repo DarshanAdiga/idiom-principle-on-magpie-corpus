@@ -49,9 +49,11 @@ The single-token-representations experiment has following variations:
     **Pre Training:**
     Finally, train the model (with updated tokens in step i.) with a *Masked-LM* objective on this data. The original pretraining-script is refered from [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/SubtaskA-Pre_Train/preTrain.py). The customized training scripts are available [exp3B_1/train_and_save_hpc](experiments/exp3B_1/train_and_save_hpc.sh).  
 
-    Follow these steps of `option-2` as well using the idioms of Option-2.  
+    iii. Use this fine-tuned model with a *SequenceClassification* objective on the MAGPIE dataset:
+        - First convert the MaskedLM model to a SequenceClassification model using `exp3B_1/MLM_to_SeqClass_model_converter.ipynb`  
+        - Then fine-tune on MAGPIE dataset as done by previous experiments(that is, using `exp3B_1/hpc.sh`).  
 
-    iii. Use this fine-tuned model with a *SequenceClassification* objective on the MAGPIE dataset as done by previous experiments. This leads to two experiments: `exp3B_1` and `exp3B_2`.  
+    iv. Follow these steps of `option-2` as well using the idioms of Option-2.  This leads to two experiments: `exp3B_1` and `exp3B_2`.  
 
 ## Experiment Tracker
 
@@ -62,7 +64,7 @@ The single-token-representations experiment has following variations:
 | exp2 | [exp2](./experiments/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
 | **exp3A_1**| [exp3A_1](./experiments/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
 | **exp3A_2**| [exp3A_2](./experiments/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
-| **exp3B_1**| [exp3B_1](./experiments/exp3B_1) | Yes | Zero-shot | **bert-base-uncased** | No Context | OnGoing |
+| **exp3B_1**| [exp3B_1](./experiments/exp3B_1) | Yes | Zero-shot | **bert-base-uncased** | No Context | Done (5GPUs) |
 | **exp3B_2**| [exp3B_2](./experiments/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
 | exp4 | [exp4](./experiments/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
 | exp5 | [exp5](./experiments/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
@@ -82,11 +84,13 @@ The single-token-representations experiment has following variations:
 | exp2 | 84.91 | 81.50 | 0.0 | 0.0 |
 | exp3A_1| 78.26 | 67.54 | 0.0 | 0.0 |
 | exp3A_2| 80.39 | 74.21 | 0.0 | 0.0 |
+| exp3B_1| 85.14 | 79.29 | 0.0 | 0.0 |
 
 Approximate Training (Wallclock) time per experiment:
 - BERT base-cased (3 GPUs): ~1.5 hours
 - BERT base-cased (4 GPUs): ~1.2 hours
 - XLNet base-cased (4 GPUs): ~1.76 hours
+- Pretraining BERT base-uncased on MLM task (5 GPUs): ~23 hours
 
 
 # TODO
