@@ -17,7 +17,7 @@ def process_and_filter_line(line, random_reduce_ratio=0.3):
     # Remove the trailing newline
     line = line.strip()
     
-    if line and len(line) > 20:
+    if line and len(line) > 20 and len(line) < 1536 and ' ' in line:
         # check if IDIOM_PATTERN matches the line
         if IDIOM_PATTERN.match(line):
             # Go ahead and return the line
