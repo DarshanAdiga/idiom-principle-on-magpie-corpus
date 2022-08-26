@@ -5,6 +5,7 @@
 runs/
 */*/checkpoints
 */*/checkpoints_*
+*/*/checkpoints.tar.gz
 local_models/*
 data/cc_news_data_option1/output_xaa
 experiments/exp3B_1/pretrain_data_split
