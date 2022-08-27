@@ -64,7 +64,7 @@ The single-token-representations experiment has following variations:
 | exp2 | [exp2](./experiments/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
 | **exp3A_1**| [exp3A_1](./experiments/exp3A_1) | Yes | Zero-shot | **bert-base-uncased** | No Context | Done (RTX5000 x 1) |
 | **exp3A_2**| [exp3A_2](./experiments/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
-| **exp3B_1**| [exp3B_1](./experiments/exp3B_1) | Yes | Zero-shot | **bert-base-uncased** | No Context | OnGoing (RTX5000 x 1) |
+| **exp3B_1**| [exp3B_1](./experiments/exp3B_1) | Yes | Zero-shot | **bert-base-uncased** | No Context | Done (RTX5000 x 1) |
 | **exp3B_2**| [exp3B_2](./experiments/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
 | exp4 | [exp4](./experiments/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
 | exp5 | [exp5](./experiments/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
@@ -85,10 +85,10 @@ The single-token-representations experiment has following variations:
 | *exp3A_1 | 78.32 | 71.57 | 0.0 | 0.0 |
 | exp3A_2 | 80.39 | 74.21 | 0.0 | 0.0 |
 | exp3B_1(*deprecated*) | 85.14 | 79.29 | 0.0 | 0.0 |
-| **exp3B_1 | 0.0 | 0.0 | 0.0 | 0.0 |
+| **exp3B_1 | 81.81 | 76.55 | 0.0 | 0.0 |
 
 - *exp3A_1 metrics are from the latest run on (RTX5000 x 1)
-- **exp3B_1 is currently On Going on (RTX5000 x 1)
+- **exp3B_1 metrics are from the latest run on (RTX5000 x 1)
 
 Approximate Training (Wallclock) time per experiment:
 - BERT base-cased (3 GPUs): ~1.5 hours
