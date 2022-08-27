@@ -107,7 +107,7 @@ def train_and_save(in_model_path, training_data_dir, checkpoint_path, out_model_
     # Tokenize the datasets
     def tokenize_function(examples):
         return tokenizer(examples["text"], truncation=True)
-    tokenized_datasets = raw_datasets.map(tokenize_function, batched=True, batch_size=50000, num_proc=16, remove_columns=["text"] )
+    tokenized_datasets = raw_datasets.map(tokenize_function, batched=True, batch_size=50000, num_proc=28, remove_columns=["text"] )
 
     # Prepare the data collator
     data_collator = DataCollatorForLanguageModeling(tokenizer=tokenizer, mlm_probability=0.15)
@@ -127,9 +127,9 @@ def train_and_save(in_model_path, training_data_dir, checkpoint_path, out_model_
         per_device_eval_batch_size = 8,
         gradient_accumulation_steps=32,
         evaluation_strategy = "steps",
-        eval_steps = 1810, # These many steps should mean 1 epoch (considering grad accumulation)
+        eval_steps = 905, # These many steps should mean 1 epoch (considering grad accumulation)
         logging_strategy = "steps",
-        logging_steps = 1810, # These many steps should mean 1 epoch (considering grad accumulation)
+        logging_steps = 905, # These many steps should mean 1 epoch (considering grad accumulation)
         learning_rate=2e-5,
         weight_decay=0.01,
         num_train_epochs=float(epoch),
