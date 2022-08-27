@@ -1,0 +1,16 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Totally unnatural way to fall’ – Liverpool legend Souness believes Salah dived for West Ham United penalty | Goal.com
+

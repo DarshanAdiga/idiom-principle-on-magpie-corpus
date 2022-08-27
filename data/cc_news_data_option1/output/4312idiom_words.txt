@@ -1,0 +1,19 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+US House Speaker Pelosi says she's not giving up on virus relief
+   *[FT]: Financial Times
+
+
+--DocBreak--
+Broadway Veteran Marian Seldes Dies At 86 | WFAE 90.7 - Charlotte's NPR News Source
+
+
+--DocBreak--
+Piketty’s warning
+   *[FT]: Financial Times
+

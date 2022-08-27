@@ -1,0 +1,21 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Benchmarks
+ Nifty11,265.0562.2
+ NSE Gainer-Large Cap
+ IDBI Bank42.002.0
+ FEATURED FUNDS
+ ★★★★★
+ HDFC Mid-Cap Opportunities Direct Plan-Growth
+ 5Y Return
+ 6.09 %
+
+
+--DocBreak--
+US House Speaker Pelosi announces mask-wearing requirement for lawmakers and staff | coronavirus outbreak News,The Indian Express
+

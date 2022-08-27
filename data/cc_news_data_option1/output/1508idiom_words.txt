@@ -1,0 +1,10 @@
+standfirst, .standfirst-text, .promo-inner .caption, .network-most-popular .most-pop-major li, #content-fixedmenu a, #nav-level1 a, .story-block .section a, .story-block .kicker, .network-most-popular a {font-family: Arial, Helvetica, sans-serif !important }
+
+
+--DocBreak--
+Home __Business __ Princeton Area Community Foundation awards nearly $700K to area nonprofits
+
+
+--DocBreak--
+ASX]: Australian Stock Exchange
+

@@ -1,0 +1,47 @@
+Little Richard dead at age 87 - Chicago Tribune
+
+
+--DocBreak--
+On the kernel side, that Rocket Lake graphics support is likely to be merged this summer for Linux 5.8.
+   *[CET]: Central European Time
+
+
+--DocBreak--
+Rocket Lake as the successor to Comet Lake is rumored to be releasing in Q4, in which case the open-source Linux driver support should be ready in time for ensuring pleasant launch-day support.
+   *[CET]: Central European Time
+
+
+--DocBreak--
+With the graphics driver enablement heavy lifting being done in kernel space and Mesa already having Gen12 support from the Tiger Lake enablement, this Rocket Lake platform support addition is rather trivial. At this stage at least on the Mesa side Rocket Lake is re-using all of the existing Gen12 graphics code paths.
+   *[CET]: Central European Time
+
+
+--DocBreak--
+That Rocket Lake "RKL" adds GT1 PCI IDs of 0x4c8a, 0x4c8b, 0x4c90, and 0x4c9a. There is also a RKL GT 0.5 part with a PCI ID of 0x4c8c. No IDs for any Rocket Lake GT2 parts are yet to be added to Mesa.
+   *[CET]: Central European Time
+
+
+--DocBreak--
+Man hit and killed by Southwest plane as it landed on runway at Austin airport – The Sun
+
+
+--DocBreak--
+Last week Intel open-source developers sent out their initial kernel driver patches for Rocket Lake graphics support and now the Rocket Lake platform support has been merged for Mesa 20.2 on the OpenGL/Vulkan driver side.
+   *[CET]: Central European Time
+
+
+--DocBreak--
+Mesa 20.2 will be the Q3'2020 feature release and should be out in August. This roughly correlates to Linux 5.8 with it seeing its merge window likely opening in early June and should debut as stable in August as well. If this Rocket Lake support is squared away for Linux 5.8 + Mesa 20.2, it should ensure nice out-of-the-box Rocket Lake support for the autumn 2020 Linux distributions like Ubuntu 20.10 and Fedora Workstation 33.
+   *[CET]: Central European Time
+
+
+--DocBreak--
+Landing overnight into Mesa 20.2-devel was the MR adding Rocket Lake platform support for the Iris OpenGL driver and ANV Vulkan driver via the common Intel device code.
+   *[CET]: Central European Time
+
+
+--DocBreak--
+The 30-year-old described two authentic swings as one which involves the top hand and helps in driving the ball straight down the ground and the other one which involves bottom hand, enabling the batsman to "smack the ball".
+ In the video, the former Australian skipper spoke about the importance of pointing the front foot in the direction where a batsman wants to hit the ball as it felicitates bending of front knee and get the head over the ball and play the shot in straight line.
+   *[CET]: Central European Time
+

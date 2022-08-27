@@ -1,0 +1,43 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Trump declines to concede election, future TBD
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+SEE IT: Man leads police on car chase at Los Angeles airport
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-72548754985795592-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Trevor Donovan, Mario Rodriguez Jr., Austin Mahone, and more Insta Snaps
+
+
+--DocBreak--
+Tropical Depression Eta headed toward Florida, with threat of heavy rainfall, flooding
+
+
+--DocBreak--
+Clean Sweep to Neck & Neck: What Each Exit Poll Say for Bihar
+
+
+--DocBreak--
+Veterans Eat Free at These Restaurants on Veterans Day 2020
+

@@ -1,0 +1,13 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-567703301425362861-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-567703301425362861-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-567703301425362861-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Jail staff, Knight said, had identified 10 people who had been arrested 109 times by Sarasota police and 78 times by his deputies. Once they had gone through the special programs in the jail, eight of those individuals have not been re-arrested.
+ “That’s a pretty good recidivism rate reduction,” Knight said.
+ The cost of the 200-bed treatment facility is not known, Health and Human Services Director Chuck Henry told commissioners, nor has a funding source been identified.
+ Previously, commissioners had planned to place a referendum on next week’s general election ballot to create a Mental Health District for the county. Some of the funding resulting from that district would have been used for the 200-bed facility, but commissioners decided during the summer to put off the referendum due to the pandemic.
+ The new facility will be located in downtown Sarasota next to the jail and be operated by the sheriff.
+

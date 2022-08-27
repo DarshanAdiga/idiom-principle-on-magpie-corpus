@@ -1,0 +1,25 @@
+#!/bin/bash
+#$ -l h_rt=24:00:00  #time needed
+#$ -pe smp 6 #number of cores
+#$ -l rmem=5G #Maximum amount (xx) of real memory to be requested per CPU core
+#$ -l gpu=1 # Number of GPUs per every CPU core
+#$ -o ./output_pretrain.txt  #This is where your output and errors are logged.
+#$ -j y # normal and error outputs into a single file (the file above)
+#$ -M dahaniyanarayana1@sheffield.ac.uk #Notify you by email, remove this line if you don't like
+#$ -m ea #Email you when it finished or aborted
+#$ -cwd # Run job from current directory
+
+
+module load apps/python/conda
+# Only needed if we're using GPU* Load the CUDA and cuDNN module
+module load libs/cudnn/7.3.1.20/binary-cuda-9.0.176
+source activate dis_venv_1
+
+# Train & save the model
+# Use only 1 GPU, even though we have 6 total! This is to fix the "KeyError: Embedding()" problem.
+CUDA_VISIBLE_DEVICES=0 python ../../exp_helpers/pretrain.py \
+    --in_model_path ../../local_models/bert-base-uncased_MaskedLM_STR_option1_3B1 \
+    --training_data_dir ./pretrain_data_split \
+    --checkpoint_path ./checkpoints_pretrained \
+    --out_model_path ../../local_models/bert-base-uncased_MaskedLM_STR_option1_3B1_pretrained \
+    --epoch 5

@@ -1,0 +1,28 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+On The International Day For Elimination Of Violence Against Women: Al- Othaimeen Urges For Measures To Protect Women - UrduPoint
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Trump May Pardon Former National Security Advisor Flynn Before Leaving Post - Reports - UrduPoint
+
+
+--DocBreak--
+Robeson County man accused of shooting cousin while out on bond for murder charge
+
+
+--DocBreak--
+G4S plc: G4S to resume dividend for 2021 with clear potential for significant further cash returns to shareholders
+

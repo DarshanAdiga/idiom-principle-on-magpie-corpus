@@ -1,0 +1,280 @@
+of yet another problem. This time, it was not the code being the issue but rather the unique
+
+
+--DocBreak--
+4. Software development contract pitfalls to watch 
+
+
+--DocBreak--
+alternative and authoritative version of the blockchain.
+ And this lets him spend the same
+
+
+--DocBreak--
+measures in place to prevent a 51% attack,' writes Ajay Chandhok in his blog post , coming up
+
+
+--DocBreak--
+with the technology itself, of course, but still quite common since many lines of code deployed
+
+
+--DocBreak--
+and have everyone agree that from now on we're gonna live in the new one. Not that easy to
+
+
+--DocBreak--
+place after a major software upgrade earlier this year).
+
+
+--DocBreak--
+endpoints where they're accessed by the humans. The latter use for this purpose various keys and
+
+
+--DocBreak--
+transaction on a blockchain cannot be undone.
+ You can only 'upgrade' some contracts with
+
+
+--DocBreak--
+it only have to make sure that their smart contracts are well-designed and that they stay up-to-
+
+
+--DocBreak--
+replace.
+ Companies, governments and institutions willing to use this technology and benefit from
+
+
+--DocBreak--
+cryptocurrencies exchange platforms are running on, which makes them susceptible to famous
+
+
+--DocBreak--
+much time to prove both sides wrong. Now it's quite clear that blockchain is about to
+
+
+--DocBreak--
+detection. But once the money is lost, it's lost forever, unless you get back to the point before the
+
+
+--DocBreak--
+2. Types of outsourcing engagement models 
+
+
+--DocBreak--
+become not only a foundation of so called New Internet, but also a massive game
+
+
+--DocBreak--
+In a statement, an Apple spokesperson said that Apple's upcoming machines will offer support for Intel's Thunderbolt USB-C standard.
+
+
+--DocBreak--
+that is 'the good guys' who got payed for it much less than they could 'earn' by using their powers
+
+
+--DocBreak--
+you can fix a bug with a patch but as far as the smart-contract code is concerned, you can't. A
+
+
+--DocBreak--
+manage and even more controversial. But again, this was the Ethereum case after the DAO thing.
+ Except a part of the network did not 'agree' and stuck with the original chain, called now
+
+
+--DocBreak--
+industry means limited experience identifying and responding to problems. As with every technology, from airplanes
+
+
+--DocBreak--
+NIA takes up investigation of Kerala gold smuggling case
+
+
+--DocBreak--
+exchganging platforms being more picky about which cryptocurrencies they support. And 'if your
+
+
+--DocBreak--
+hashrate marketplaces' where one can rent enough computing power. This calls for the
+
+
+--DocBreak--
+on live blockchains are insufficiently tested.
+
+
+--DocBreak--
+Kamil Górski from Blockhunters points out to two main reasons why the service his team
+
+
+--DocBreak--
+again, shortly after, by being attacked by a hacker who found out that the code allowed to transfer
+
+
+--DocBreak--
+additional contracts that interact with them or use a kill switch that stops all activity after a hack
+
+
+--DocBreak--
+_[…] we are approaching unknown territory with every gigabyte of expansion. The limited experience of the [...]
+
+
+--DocBreak--
+5. Structuring your offshore team 
+
+
+--DocBreak--
+would be in the 'old world'.
+ Only between February 13 th and March 13 th over 40 bugs have been
+
+
+--DocBreak--
+to autonomous cars, experience comes at a price. The price for a blockchain security failure has not yet been high
+
+
+--DocBreak--
+changer for the economy and banking systems as well as vast majority of businesses,
+
+
+--DocBreak--
+Probably the most (in)famous case of this threat is the DAO case. DAO first made history by
+
+
+--DocBreak--
+structure of blockchain itself. As Mike Orcutt neatly put it in his article in MIT Technical Review,
+
+
+--DocBreak--
+gaining control of a majority of the network's mining power, which allows the hacker to create a
+
+
+--DocBreak--
+And some answers as well.
+
+
+--DocBreak--
+with some piece of advice: 'Being vigilant of mining pools, implementing merged mining on a blockchain with a higher hashrate, or switching to a different consensus mechanism are all viable
+
+
+--DocBreak--
+Per quanto riguarda Forza Italia, il presidente del Consiglio ha chiarito che "è una forza d’opposizione, che ha un ruolo ben distinto da quella che è la responsabilità di governo. Quando dico che, dal punto di vista concreto dei fatti, Forza Italia ha un atteggiamento, pur di opposizione, di dialogo più costruttivo, non sto dicendo - ha aggiunto Conte - 'voglio Forza Italia nel governo' e non sto dicendo che la prospettiva deve essere di unità nazionale o un amalgama indistinta; sto dando un giudizio di merito del comportamento concreto che è più costruttivo e più dialogante, tutto qui".
+
+
+--DocBreak--
+The 51% attacks are said to become soon both more common and severe, partly because of the
+
+
+--DocBreak--
+Organize and Protect Your Online Data | Hacker Noon
+
+
+--DocBreak--
+If your organizational transition to Agile is like most others, painfully. Changing organizational culture is incredibly hard, no matter which direction that change takes, and a transition from traditional project management to Agile is arguably among the toughest. It is easy, and dismayingly common, for organizations to slide back into old ways of working when the going gets tough.
+
+
+--DocBreak--
+denial of service attack against a particular blockchain or whatever is using it. And many more,
+
+
+--DocBreak--
+blockchain utilizes a Proof-of-Work [...] consensus mechanism, you need to have security
+
+
+--DocBreak--
+cryptocurrencies being successfully attacked. The attacker got away with more than $1,1 million
+
+
+--DocBreak--
+for example, one would have to spend over $260,000 per hour for renting enough mining power
+
+
+--DocBreak--
+remains the most secure technology ever invented, far more secure than what it's about to
+
+
+--DocBreak--
+issue itself. As Rick Martin wrote in his blog post:
+
+
+--DocBreak--
+3. Things to keep in mind when hiring an outsourcing partner 
+
+
+--DocBreak--
+provides might be extremely useful. First: the source code is usually visible on the blockchain due
+
+
+--DocBreak--
+malware, phishing). There are also many Web 3.0 scammers ready to empty crypto wallets of the
+
+
+--DocBreak--
+in the code. The more a blockchain is complex, the harder it is to set it up correctly, without any
+
+
+--DocBreak--
+deciding to abort his mission, but surely this story brought up some serious security questions.
+
+
+--DocBreak--
+mentioned above fork after sending other users payments that never happen in the new,
+
+
+--DocBreak--
+yet to be known, will surely emerge as the technology evolves. In fact, its growth can become an
+
+
+--DocBreak--
+bubble. Their opponents claimed it was a hack-proof technology that would solve all
+
+
+--DocBreak--
+contract code not only to heavy peer review before deployment but also to audits conducted by
+
+
+--DocBreak--
+generator that creates keys and thus weakening the encryption, or even performing a creative
+
+
+--DocBreak--
+knows why the hacker enriched himself with 'only' $55 million in cryptocurrency this way before
+
+
+--DocBreak--
+the process called mining. This Proof-of-Work protocol is utilized in most blockchains that
+
+
+--DocBreak--
+cryptocurrency more than once (so called double-spend).
+
+
+--DocBreak--
+known to have prevented attacks similar to the one described above (e.g. Petar Tsankov's ChainSecurity saved Ethereum from the DAO-like catastrophe that would probably have taken
+
+
+--DocBreak--
+Let’s clear up the difference between training and education:
+
+
+--DocBreak--
+The smaller the blockchain is, the less computing power you need, so the whole process is easier and cheaper. That's why it's usually smaller coins falling prey to such practices. To attack Bitcoin,
+
+
+--DocBreak--
+6. Handling knowledge transfer in outsourcing software development 
+
+
+--DocBreak--
+out of over $20 million taken altogether in the last year alone due to this blockchain security
+
+
+--DocBreak--
+One could come up with other possible security threats, such as hacking the random number
+
+
+--DocBreak--
+tokens from the same account for, like, 40 times before updating the account’s balance.
+ Nobody
+
+
+--DocBreak--
+methods have been well known for decades and haven't changed that much whatsoever (e.g.
+

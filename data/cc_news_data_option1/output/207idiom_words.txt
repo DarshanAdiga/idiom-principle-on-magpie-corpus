@@ -1,0 +1,17 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Devin Nunes now says he talked to key Ukraine figure, after suggesting he hadn't - CNNPolitics
+
+
+--DocBreak--
+Wall Street Journal: Best (and worst airlines) for 2019
+
+
+--DocBreak--
+Heartwarming reason this Rainbow Beach tradition rides on | Ipswich Advertiser
+

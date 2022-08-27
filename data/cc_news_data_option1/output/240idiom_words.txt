@@ -1,0 +1,24 @@
+Tweet
+   *[ASX]: Australian Stock Exchange
+
+
+--DocBreak--
+document.write(new Date().getFullYear())
+   *[ASX]: Australian Stock Exchange
+
+
+--DocBreak--
+How a simple helping hand is improving the lives of struggling families in Coventry - CoventryLive
+   *[ASX]: Australian Stock Exchange
+
+
+--DocBreak--
+Sursa articol si foto: business24.ro
+
+
+--DocBreak--
+That same reek of corruption won't be lost on Democrats either, because it's been a key part of the party's discussion about how to do deal trade deals going forward. Senator Elizabeth Warren (D-MA) has been most vocal about allowing a variety of Americans interests at the trade negotiating table -- small business people, climate activists, labor unions. That lack of variety, she and others argue, is part of what hollowed out American manufacturing and sent jobs overseas. It's part of why we're in this mess in the first place.
+ Others agree. At the Democratic debate Tuesday night, Tom Steyer, the billionaire businessman, said the US should never sign a trade deal without considering the climate (a word that does not appear in this deal). And in a statement following the deal's signing, House Speaker Nancy Pelosi pointed out that this deal does nothing for human rights in China.
+ So if the Chinese don't blow this deal up, it's very likely the Democrats will. It won't be hard. You could knock it over with a feather.
+   *[ASX]: Australian Stock Exchange
+

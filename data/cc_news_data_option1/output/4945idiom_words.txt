@@ -1,0 +1,28 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Wednesday’s Weather: Cloudy, cool and rainy today
+
+
+--DocBreak--
+Pacific Mercantile Bank Provides $8.0 Million Credit Facility to Upstrēm, Inc.
+
+
+--DocBreak--
+New Regina city council focuses on COVID-19, new community wellness committee in 1st meeting
+
+
+--DocBreak--
+“Please take me off your list as I am the people’s champion and have no need for verification or any awards.
+ “I know who I am and what I’ve done in sports and the love of the people is worth more to me than all the awards in the world.
+ “So to all my supporters please don’t vote on this, take me off the list.
+   *[CET]: Central European Time
+
+
+--DocBreak--
+Norwegian Cruise Line Holdings Ltd. Announces Extension of Suspension of Voyages
+

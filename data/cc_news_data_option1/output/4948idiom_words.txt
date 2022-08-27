@@ -1,0 +1,17 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+WWE Hall of Famer Pat Patterson dies at 79
+
+
+--DocBreak--
+Recall of Crabtree comes up short - The Sun-Gazette Newspaper
+
+
+--DocBreak--
+Claire Trevett: Sex, drugs and taxes as Labour 'cracks on' without NZ First - NZ Herald
+

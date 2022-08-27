@@ -1,0 +1,26 @@
+end functions for video ads moving left and right
+
+
+--DocBreak--
+Chirico: 'Scudetto a tavolino alla Juve? No grazie. Ma sarebbe un risarcimento per Calciopoli'
+
+
+--DocBreak--
+The report cited 40-year-old Palestinian prisoner Fekri Mansour, who is behind bars in Shata Prison, as saying that Palestinian detainees are denied access to basic hygiene supplies and vital health care services.
+
+
+--DocBreak--
+Emails will be sent directly from Legacy.com. We respect your privacy and will not sell your information to a third party. You may opt out at any time. See privacy policy for details.
+
+
+--DocBreak--
+The investigation is ongoing, and no arrests have been made. Police have released no details on the make and model of the vehicle driven by the shooter.
+
+
+--DocBreak--
+functions for moving video ads to left and right
+
+
+--DocBreak--
+When the user clicks on the button,
+

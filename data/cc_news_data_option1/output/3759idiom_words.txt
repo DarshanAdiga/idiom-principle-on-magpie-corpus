@@ -1,0 +1,14 @@
+This 38th spin to the patches fixes two issues and also incorporates v37 patches that didn't get successfully sent out in full. That prior revision has many more fixes to the SGX kernel code.
+
+
+--DocBreak--
+African All Stars Transfer News and Rumours: Watford close in on Troost-Ekong move | Goal.com
+
+
+--DocBreak--
+For years now Intel Linux developers have been working on getting their Software Guard Extensions (SGX) support and new SGX Enclave driver upstreamed into the kernel. SGX has been around since Skylake but security concerns and other technical reasons have held up this "SGX Foundations" support from being mainlined. There has also been an apparent lack of enthusiasm by non-Intel upstream kernel developers in SGX. This past week saw the 38th revision to the patches in their quest to upstreaming this support for handling the Memory Encryption Engine (MEE) and relates SGX infrastructure.
+
+
+--DocBreak--
+It's still not clear when Intel SGX support will be accepted for the mainline Linux kernel.
+

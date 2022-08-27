@@ -1,0 +1,32 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Gemma Bowker Wright | Guest writer  
+
+
+--DocBreak--
+Home __Business __ USMC orders more BAE Systems’ Amphibious Combat Vehicles
+
+
+--DocBreak--
+Watch live: Trump gives coronavirus update after 1st U.S. death reported in Washington state
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-853165650524520677-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-853165650524520677-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-853165650524520677-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+He Built A Million-Dollar, One-Man Fitness Business. Now...
+
+
+--DocBreak--
+Jamie Lomas confirms he will be staying in Hollyoaks
+

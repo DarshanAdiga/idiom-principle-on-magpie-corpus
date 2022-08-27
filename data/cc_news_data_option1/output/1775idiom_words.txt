@@ -1,0 +1,10 @@
+SUPERYACHTS.COM Ltd 2020. All rights reserved.
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-346225279753022399-2')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-346225279753022399-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-346225279753022399-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-346225279753022399-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+

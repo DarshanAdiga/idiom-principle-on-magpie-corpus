@@ -1,0 +1,10 @@
+functions for moving video ads to left and right
+
+
+--DocBreak--
+"How is it possible that women disappear even during lockdown in such high numbers? It is shocking," says Boesten. "How can women still disappear if we're all behind closed doors?"
+
+
+--DocBreak--
+end functions for video ads moving left and right
+

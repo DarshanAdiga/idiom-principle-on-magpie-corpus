@@ -1,0 +1,19 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+

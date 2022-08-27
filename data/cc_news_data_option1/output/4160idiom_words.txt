@@ -1,0 +1,24 @@
+WATCH LIVE 12PM: Keppel candidates debate key issues | Chinchilla News
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+WATCH LIVE 12PM: Keppel candidates debate key issues | Warwick Daily News
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+wpb_animate_when_almost_visible { opacity: 1; }
+

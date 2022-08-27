@@ -1,0 +1,31 @@
+Share Via
+
+
+  Read Full Story
+   *[ASX]: Australian Stock Exchange
+
+
+--DocBreak--
+Reuben Morais of Mozilla provided some guidance today on the state of DeepSpeech following the recent Mozilla changes... But the state right now is basically more uncertainty. There is no clear guidance right now if DeepSpeech "will have a new home" or not at the restructured Mozilla or what changes may be involved.
+
+
+--DocBreak--
+Those wishing to learn more or experiment with DeepSpeech can find it over on GitHub. The releases page does have DeepSpeech binaries for all major platforms.
+
+
+--DocBreak--
+Share Via
+   *[ASX]: Australian Stock Exchange
+
+
+--DocBreak--
+For a while now a Mozilla software project that's been an "unsung hero" has been DeepSpeech as their speech-to-text engine. Sadly, following the recent major layoffs at Mozilla and restructuring along with a shift to focusing more on their profitable activities, DeepSpeech for now has an uncertain future.
+
+
+--DocBreak--
+That's quite a pity as Mozilla DeepSpeech is among the best speech-to-text engines (if not the best, certainly the best among open-source options) that supports real-time translation on a wide range of hardware. DeepSpeech utilizes deep learning based on Baidu's research and leverages Google's TensorFlow. DeepSpeech is quite a quality piece of software and has delivered excellent speech-to-text results for translating audio into accurate text. I've personally experimented with it a lot as part of DeepSpeech benchmarking in evaluating its CPU performance.
+
+
+--DocBreak--
+But following the 1.0 release, there is no certain future for this speech-to- text engine at least under the Mozilla umbrella. The developers though do encourage continuing to submit bug reports, pull requests, etc. The brief statements were made today on the Mozilla Discourse. If Mozilla does away with DeepSpeech, at least hopefully some other organization will decide to batch this STT engine under its open-source license (MPL 2.0).
+

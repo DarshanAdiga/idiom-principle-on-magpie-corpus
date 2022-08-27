@@ -1,0 +1,23 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Trillions Earned Under Table As More Work Off Radar | WFAE 90.7 - Charlotte's NPR News Source
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-937806454556984783-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-937806454556984783-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-937806454556984783-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-681040515914899306-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-681040515914899306-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-681040515914899306-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+

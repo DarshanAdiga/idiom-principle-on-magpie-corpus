@@ -1,0 +1,31 @@
+The release notes:• Added support for restoring firmware on the 2019 Mac Pro
+
+
+--DocBreak--
+Zoom states on its website and in its security white paper that the app supports end-to-end encryption, a term that refers to a way of protecting user content so that the company has no access to it whatsoever.
+
+
+--DocBreak--
+VPN: Configure Provider Designated Requirement for Custom SSL connection type
+
+
+--DocBreak--
+Our goal has always been to provide the world with the best weather information possible, to help as many people as we can stay dry and safe, and to do so in a way that respects your privacy.
+
+
+--DocBreak--
+Allow access to websites using TLS 1.0 and 1.1
+
+
+--DocBreak--
+BREAKING: A record 6.6 million Americans filed for unemployment last week
+
+
+--DocBreak--
+National Express said that all journeys for before Monday April 6 will be completed and it will "ensure customers are not stranded".
+ Passengers will be able to retain their tickets and amend for future travel within the next 12 months, free of charge, or can be issued with a full refund.
+ Mr Hardy added: "Our drivers, customer service teams, customer contact centre and the wider National Express team have been working incredibly hard to keep our services running safely and we thank them for their efforts.
+ "We are speaking to them about what this means and will continue to do all we can to support everyone who works in our business at this challenging time.
+ "We know this is a worrying time. We take the welfare of our customers and employees extremely seriously and will continue to take guidance from the Government to ensure we do everything we sensibly can to keep them safe."
+ Shares in the company were down 6.2% at 191.4p on Thursday.
+

@@ -1,0 +1,9 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1475768298517-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1475768298517-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1475768298517-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+No. 14 Coastal Carolina wins thriller over No. 8 BYU, 22-17
+

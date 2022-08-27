@@ -7,6 +7,7 @@ import pickle
 import html2text    
 import subprocess
 import multiprocessing
+import time
 
 from tqdm          import tqdm
 from collections   import defaultdict
@@ -18,11 +19,11 @@ sys.stderr.flush()
 sys.stdout.flush()
 
 CC_NEWS_BASE_URL = 'https://data.commoncrawl.org/'
-# NEWS_FILES_SEED_LIST = '2020-news-files.txt'
-NEWS_FILES_SEED_LIST = 'top_3_2020-news-files.txt'
+NEWS_FILES_SEED_LIST = '2020-news-files.txt'
+# NEWS_FILES_SEED_LIST = 'top_3_2020-news-files.txt'
 
 ## Outside class to speed up multithreading
-def process_single_file( file_name, file_index, output_path, idioms, return_dict ) :
+def process_single_file( file_name, file_index, output_path, idioms, tmp_idiom_file, return_dict ) :
 
     this_scratch = os.path.join( output_path, 'scratch', str( file_index ) )
     try : 
@@ -30,7 +31,10 @@ def process_single_file( file_name, file_index, output_path, idioms, return_dict
     except FileExistsError :
         pass
 
-    print (f'Processing file {file_name} with index {file_index}')
+    start_time = time.time()
+    original_starttime = start_time
+    print (f'Processing file {file_name} with index {file_index}', file=sys.stderr); sys.stderr.flush()
+
     file_name.split( ' ' )[-1]
     get_url = CC_NEWS_BASE_URL + file_name.split( ' ' )[-1]
 
@@ -43,14 +47,22 @@ def process_single_file( file_name, file_index, output_path, idioms, return_dict
         os.system( get_command )
         print( str( file_index ) +  "--> Done.", file=sys.stderr ); sys.stderr.flush()
     
-        
+    time_taken = time.time() - start_time
+    print( f'Time taken to download file with index {file_index} is {time_taken}', file=sys.stderr ); sys.stderr.flush()
+    start_time = time.time()
+
     grep_file = os.path.join( this_scratch, 'output.txt' ) 
-    grep_command = 'zgrep -i "' + '\|'.join( idioms ) + '" ' + file_path + ' > ' + grep_file
+    #OLD:> grep_command = 'zgrep -i "' + '\|'.join( idioms ) + '" ' + file_path + ' > ' + grep_file
+    grep_command = 'zgrep -i -f ' + tmp_idiom_file + ' ' + file_path + ' > ' + grep_file
 
     if not os.path.isfile( grep_file ) : 
         print( str( file_index ) +  "--> Starting Grep ... ", end="", file=sys.stderr ); sys.stderr.flush()
         os.system( grep_command )
         print( str( file_index ) +  "--> Done.", file=sys.stderr ); sys.stderr.flush()
+
+    time_taken = time.time() - start_time
+    print( f'Time taken to grep the file with index {file_index} is {time_taken}', file=sys.stderr ); sys.stderr.flush()
+    start_time = time.time()
 
     h = html2text.HTML2Text()
     h.ignore_links = True
@@ -64,6 +76,7 @@ def process_single_file( file_name, file_index, output_path, idioms, return_dict
     idiom_sentences = list()
     counts          = defaultdict( int ) 
     num_lines = sum(1 for line in open( grep_file,'r', encoding='utf-8', errors='ignore' ) )
+    print(f"Going to extract {num_lines} lines from file {grep_file}", file=sys.stderr); sys.stderr.flush()
     with open( grep_file, 'r', encoding='utf-8', errors='ignore' ) as output :
         for url_text in tqdm( output, total=num_lines, desc=str( file_index ) + '--> Processing' ) :
             try :
@@ -146,7 +159,7 @@ def process_single_file( file_name, file_index, output_path, idioms, return_dict
                 return_dict[ file_index ] = defaultdict( int )
                 return
             
-        print( str( file_index ) + " --> Wrote ", idiom_file )
+        print( str( file_index ) + " --> Wrote ", idiom_file, file=sys.stderr); sys.stderr.flush()
 
         idiom_word_file = os.path.join( output_path, str( file_index ) + 'idiom_words.txt' )
         sentences       = list( set( sentences ) ) 
@@ -159,6 +172,12 @@ def process_single_file( file_name, file_index, output_path, idioms, return_dict
 
         
         return_dict[ file_index ] = counts
+
+        time_taken = time.time() - start_time
+        print( f'Time taken to extract lines from file with index {file_index} is {time_taken}', file=sys.stderr ); sys.stderr.flush()
+
+        total_time = time.time() - original_starttime
+        print (f'Processing completed: File index:{file_index} TOTAL Time taken:{total_time} seconds', file=sys.stderr); sys.stderr.flush()
 
         # print( "DEBUG", flush=True )
         os.system( 'rm -rf ' + this_scratch )
@@ -179,6 +198,8 @@ class processCCNews :
         
         self._get_idiom_info()
         self._init_run_state()
+
+        self.tmp_idiom_file = self._save_idioms_locally()
         return
 
     def _get_status_file( self ) : return os.path.join( self.info_path, 'processCCNNews-status.pk3' )
@@ -243,6 +264,18 @@ class processCCNews :
 
         return
 
+    def _save_idioms_locally(self):
+        # Save the idioms to a file, to be used by zgrep later
+        scratch_dir = os.path.join(self.output_path, 'scratch')
+        try :
+            os.makedirs(scratch_dir)
+        except FileExistsError :
+            pass
+        tmp_idiom_file = os.path.join(scratch_dir, 'idioms.txt')
+        with open(tmp_idiom_file, 'w') as write_file:
+            write_file.write( '\n'.join(self.idioms) )
+
+        return tmp_idiom_file
 
 
     def _get_file_to_process( self ) :
@@ -280,7 +313,7 @@ class processCCNews :
                 return_dict = dict()
                 done, file_index, file_name  = self._get_file_to_process()
                 if not done : 
-                    process_single_file( file_name, file_index, self.output_path, self.idioms, return_dict )
+                    process_single_file( file_name, file_index, self.output_path, self.idioms, self.tmp_idiom_file, return_dict )
                     this_counts = return_dict[ file_index ]
                     self._update_run_status( file_index, this_counts )
             return
@@ -291,16 +324,22 @@ class processCCNews :
         return_dict = manager.dict()
         done        = False
         while( not done and self._keep_running() ) :
+            count = 0
             for i in range( len( self.jobs ), self.processes ) :
                 done, file_index, file_name  = self._get_file_to_process()
                 if done :
                     break
                 p = multiprocessing.Process(
                     target=process_single_file,
-                    args=( file_name, file_index, self.output_path, self.idioms, return_dict )
+                    args=( file_name, file_index, self.output_path, self.idioms, self.tmp_idiom_file, return_dict )
                 )
                 self.jobs.append( (file_index, p ))
                 p.start()
+                count += 1
+
+            # Logging
+            if count != 0:
+                print(f"Submitted {count} new jobs", flush=True)
 
             running_jobs = list()
             for this_file_id, job in self.jobs :

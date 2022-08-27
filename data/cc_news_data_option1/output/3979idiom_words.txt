@@ -1,0 +1,23 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-3')})
+
+
+  googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-4')})
+
+
+  googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-5')})
+
+
+  jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Triple Crown produces 3 different winners, likely no closure
+
+
+--DocBreak--
+Trump at Walter Reed, coronavirus, NFL, SNL: The weekend's biggest news
+
+
+--DocBreak--
+Last season, Everton’s most prolific midfielders in terms of league goals and assists combined were Bernard and Gylfi Sigurdsson with five. After four games of the new season, James has already matched that total. Keep him fit and the two strikers will receive the service they craved last year. Then Everton really can knock on the door of the top six.
+

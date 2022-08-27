@@ -1,0 +1,7 @@
+document.write(new Date().getFullYear())
+   *[FT]: Financial Times
+
+
+--DocBreak--
+Hawley seeks overhaul of the Federal Trade Commission - Axios
+

@@ -1,0 +1,5 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-703489887756821816-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-703489887756821816-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-703489887756821816-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+

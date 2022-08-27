@@ -1,0 +1,27 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Louisville Urban League President: ‘Our City Is Crying’
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Opinion: Donald Trump would be toast if it wasn’t for Joe Biden - The Globe and Mail
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-668639045699725574-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-668639045699725574-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-668639045699725574-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+

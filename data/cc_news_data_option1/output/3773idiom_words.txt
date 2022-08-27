@@ -1,0 +1,10 @@
+More details on this significant milestone for Vulkan's portability via Khronos.org. There is also the KHR_portability_subset documentation as well. MoltenVK and GFX-RS already have support available as part of the Vulkan Portability Initiative.
+
+
+--DocBreak--
+The Vulkan Portability Extension (VK_KHR_portability_subset) has been released as part of the effort by The Khronos Group in getting Vulkan running on as many platforms as possible, including the likes of Apple macOS/iOS.
+
+
+--DocBreak--
+VK_KHR_portability_subset allows for disabling / mark as unsupported capabilities otherwise required of Vulkan. VK_KHR_portability_subset also allows for adding additional properties or limits for helping to suit the requirements/capabilities of the underlying graphics architecture being targeted. This extension only targets these cases like GFX-RS and MoltenVK and not for use by native/conformant Vulkan 1.0 implementations.
+

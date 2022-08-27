@@ -1,0 +1,14 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Israelis mark Yom Kippur under ‘painful’ virus lockdown | The Star
+
+
+--DocBreak--
+The 10 pm curfew is one of a number of guidelines which came into force recently. The new restrictions are introduced to contain the further spread of COVID-19. London has been made an “area of concern,” with all the 33 boroughs put on the national COVID-19 watchlist.
+ _(The above story first appeared on LatestLY on Sep 27, 2020 05:40 PM IST. For more news and updates on politics, world, sports, entertainment and lifestyle, log on to our websitelatestly.com)._
+

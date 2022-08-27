@@ -1,0 +1,22 @@
+Judging from the latest FUSE Git activity, it's looking like the VirtIO-FS DAX patches that have been around since last year could be merged for Linux 5.10. This can provide a significant speed-up for those making use of this FUSE file-system for sharing files/folders with guest VMs.
+
+
+--DocBreak--
+AUD/USD trades in the red near 0.7350 versus 0.7381 in early Asia. China's NBS Manufacturing PMI bettered estimates to signal expansion in August. Overbought AUD is struggling to cheer the upbeat China PMIs amid Australian data dump.
+
+
+--DocBreak--
+Behind the Scenes of System76: Web Team
+
+
+--DocBreak--
+BunsenLabs is available in two builds. One is a 1.2GB ISO file for 64-bit (x86_64) computers while the other is a 651MB ISO for 32-bit systems. The second ISO is quite a bit smaller in order to allow it to fit on a CD. Booting from the project's install media brings up a menu asking if we would like to boot into a live desktop environment or launch the system installer. The live mode is available in three flavours (normal, failsafe, and running from RAM) while the installer can be launched in graphical or text mode.
+
+
+--DocBreak--
+Bunsen's latest release is called Lithium (the project uses element names in place of version numbers) and is based on Debian 10 "Buster". Lithium now automatically updates the application menu when new software is installed and includes a range of Broadcom wireless drivers to help users get on-line. The distribution now ships with a dark theme by default and the project's welcome window script has been streamlined to get the system up and running faster. Bunsen should now work with Secure Boot systems.
+
+
+--DocBreak--
+Create A Wifi Hotspot on Ubuntu
+

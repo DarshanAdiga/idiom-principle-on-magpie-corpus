@@ -1,0 +1,23 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-3')})
+
+
+  googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-4')})
+
+
+  googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-5')})
+
+
+  jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+China builds large naval base in Djibouti - Middle East Monitor
+
+
+--DocBreak--
+Tara Reid tipped to play Carole Baskin in Tiger King movie | PerthNow
+
+
+--DocBreak--
+Georgia couple allegedly robs man after promising sex: report | Fox News
+

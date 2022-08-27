@@ -1,0 +1,16 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-466720361213805758-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-466720361213805758-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-466720361213805758-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Liverpool Fear Star Man Could Be Angling For A €150 Million Switch
+

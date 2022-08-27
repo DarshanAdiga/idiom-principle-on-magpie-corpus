@@ -24,28 +24,7 @@ The MAGPIE dataset contains `idiom` column but the sentences can contain differe
 
 * Option-2: Use the `offsets` column and extract the actual MWE from the sentence. This will capture all possible MWEs in the data, but the number of unique tokens would be very high
 
-
-### Experiment Tracker
-
-| Experiment | Notebook | Single Token Rep | Dataset  | Model | Context | Status |
-|:-----------|:---------|:-----------------|:---------|:------|:--------|:-------|
-| exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
-| exp1 | [exp1](./notebooks/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
-| exp2 | [exp2](./notebooks/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
-| **exp3A_1**| [exp3A_1](./notebooks/exp3A_1) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
-| **exp3A_2**| [exp3A_2](./notebooks/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
-| **exp3B_1**| [exp3B_1](./notebooks/exp3B_1) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
-| **exp3B_2**| [exp3B_2](./notebooks/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
-| exp4 | [exp4](./notebooks/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
-| exp5 | [exp5](./notebooks/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
-
-*> exp2 and onwards should have used XLNet architecture, used BERT because it was faster
-
-**TODO:**
-- Conduct single-token-representations experiment with XLNet base model.
-- The *AStitchInLanguageModels* paper does Idiom-includ/exclude experiment as well in Task-1. Try that as well, if required.
-
-**Variations of exp3:**
+### Variations of exp3:
 In both of the below experiments (exp3A and exp3B), the MWEs are replaced by their corresponding single tokens in the training data. 
 The single-token-representations experiment has following variations:
 
@@ -58,13 +37,43 @@ The single-token-representations experiment has following variations:
 
     i. Add the new tokens to the vocabulary of the model. This leads to two variations of models using `option-1` and `option-2`.  
 
-    ii. Train(fine-tune) the model with a *Masked-LM* objective on CC-News corpus. The pre-processed CC-News data for this purpose is already available [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#generating-pre-training-data). It has been used directly in these experiments. The training scripts are available [experiments/pretraining](experiments/pretraining).  
+    ii. Train(fine-tune) the model with a *Masked-LM* objective on the pre-processed CC-News corpus.  
 
-    iii. Use this fine-tuned model with a *SequenceClassification* objective on the MAGPIE dataset as done by previous experiments. This leads to two experiments: `exp3B_1` and `exp3B_2`.  
+    **CC News Data Preparation:**  
+    The pre-processed CC-News data for this purpose had to be generated with slight modifications. The original steps are described [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#generating-pre-training-data). The modified preprocessing scripts are available [here](./exp_helpers/prepare_cc_corpus/).  
 
+    First, download and preprocess the CC News Corpus using `experiments/exp3B_1/process_cc_hpc.sh` script.  
+    Then, prepare the training data for pretraining with single-tokens using `experiments/exp3B_1/create_pretrain_data_hpc.sh` script.  
+    And then, split the `all_replace_data.txt` file into train & eval sets using `experiments/exp3B_1/split_pretrain_data_hpc.sh` script.  
+    
+    **Pre Training:**
+    Finally, train the model (with updated tokens in step i.) with a *Masked-LM* objective on this data. The original pretraining-script is refered from [here](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/SubtaskA-Pre_Train/preTrain.py). The customized training scripts are available [exp3B_1/train_and_save_hpc](experiments/exp3B_1/train_and_save_hpc.sh).  
+
+    iii. Use this fine-tuned model with a *SequenceClassification* objective on the MAGPIE dataset:
+        - First convert the MaskedLM model to a SequenceClassification model using `exp3B_1/MLM_to_SeqClass_model_converter.ipynb`  
+        - Then fine-tune on MAGPIE dataset as done by previous experiments(that is, using `exp3B_1/hpc.sh`).  
+
+    iv. Follow these steps of `option-2` as well using the idioms of Option-2.  This leads to two experiments: `exp3B_1` and `exp3B_2`.  
+
+## Experiment Tracker
+
+| Experiment | Code | Single Token Rep | Dataset  | Model | Context | Status |
+|:-----------|:---------|:-----------------|:---------|:------|:--------|:-------|
+| exp0 | [exp0](./experiments/exp0) | No | Zero-shot | BERT base (cased) | No Context | Done (3GPUs) |
+| exp1 | [exp1](./experiments/exp1) | No | Zero-shot | XLNet base (cased) | No Context | Done (4GPUs) | 
+| exp2 | [exp2](./experiments/exp2) | No | Zero-shot | *BERT base (cased)* | All Context | Done (4GPUs) |
+| **exp3A_1**| [exp3A_1](./experiments/exp3A_1) | Yes | Zero-shot | **bert-base-uncased** | No Context | Done (RTX5000 x 1) |
+| **exp3A_2**| [exp3A_2](./experiments/exp3A_2) | Yes | Zero-shot | *BERT base (cased)* | No Context | Done (4GPUs) |
+| **exp3B_1**| [exp3B_1](./experiments/exp3B_1) | Yes | Zero-shot | **bert-base-uncased** | No Context | Done (RTX5000 x 1) |
+| **exp3B_2**| [exp3B_2](./experiments/exp3B_2) | Yes | Zero-shot | ToBeDecided | ToBeDecided | TODO |
+| exp4 | [exp4](./experiments/exp4) | ToBeDecided | One-shot | ToBeDecided | ToBeDecided | TODO |
+| exp5 | [exp5](./experiments/exp5) | ToBeDecided | Few-shot | ToBeDecided | ToBeDecided | TODO |
+
+*> exp2 and onwards should have used XLNet architecture, used BERT because it was faster
 
 **TODO:**
-- The pre-processed CC News Corpus used in the `step 2.ii` above has been created using [this script](https://github.com/H-TayyarMadabushi/AStitchInLanguageModels/blob/main/Dataset/Task2/README.md#extract-data-from-common-crawl). This method uses a list of idioms to identify sentences with and without idioms in the CC News dataset. Evaluate the percentage of overlap between the list of idioms used by this script and the list of idioms available in the MAGPIE dataset.
+- Conduct single-token-representations experiment with XLNet base model.
+- The *AStitchInLanguageModels* paper does Idiom-includ/exclude experiment as well in Task-1. Try that as well, if required.
 
 ## Results
 
@@ -73,14 +82,21 @@ The single-token-representations experiment has following variations:
 | exp0 | 85.16 | 83.00 | 0.0 | 0.0 |
 | exp1 | 87.60 | 85.38 | 0.0 | 0.0 |
 | exp2 | 84.91 | 81.50 | 0.0 | 0.0 |
-| exp3A_1| 78.26 | 67.54 | 0.0 | 0.0 |
-| exp3A_2| 80.39 | 74.21 | 0.0 | 0.0 |
+| *exp3A_1 | 78.32 | 71.57 | 0.0 | 0.0 |
+| exp3A_2 | 80.39 | 74.21 | 0.0 | 0.0 |
+| exp3B_1(*deprecated*) | 85.14 | 79.29 | 0.0 | 0.0 |
+| **exp3B_1 | 81.81 | 76.55 | 0.0 | 0.0 |
+
+- *exp3A_1 metrics are from the latest run on (RTX5000 x 1)
+- **exp3B_1 metrics are from the latest run on (RTX5000 x 1)
 
 Approximate Training (Wallclock) time per experiment:
 - BERT base-cased (3 GPUs): ~1.5 hours
 - BERT base-cased (4 GPUs): ~1.2 hours
 - XLNet base-cased (4 GPUs): ~1.76 hours
+- Pretraining BERT base-uncased on MLM task (5 GPUs): ~23 hours
 
+- With (RTX5000 x 1) GPUs: ~1 hour 20 mins
 
 # TODO
 - Track & Visualise Training progress

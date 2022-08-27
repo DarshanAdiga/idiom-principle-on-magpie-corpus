@@ -1,0 +1,400 @@
+If floors and ceilings are added to the stop level, the performance does not drastically change.  Many traders will find these lower and upper limits useful, at least mentally and emotionally.     
+
+
+--DocBreak--
+Where does the Future(s) Go from Here?
+
+
+--DocBreak--
+Also realize that both approaches have drawbacks.     
+
+
+--DocBreak--
+My biggest beef with ATR stops is that for some trades my stop loss (in dollar amounts) is reasonable, and other times it is not.  I’ve seen ATR stops much too high, and also much too small.     
+
+
+--DocBreak--
+What are the Ramifications of Bitcoin Futures?
+
+
+--DocBreak--
+The flippant comment by Cabinet minister Tzachi Hanegbi is symptomatic of what critics see as a bloated, out-of-touch government. It also has become a rallying cry for anti-Netanyahu protests spreading, like the virus, across the country.               
+
+
+--DocBreak--
+This week, the United States, Brazil and India saw their new daily infection highs, becoming the worst virus-hit countries accounting for more than 60% of new cases, according to recent tallies from Johns Hopkins University.               
+
+
+--DocBreak--
+Coronavirus 
+ # 68% have antibodies in this clinic. Can the neighborhood beat a next wave?
+ By Joseph Goldstein
+ The New York Times |
+ Jul 10, 2020  at 9:46 AM
+
+
+--DocBreak--
+If you use ATR stops, you might have to live with a lot of variability in dollar terms.  I personally do not like that.     
+
+
+--DocBreak--
+The flippant comment by Cabinet minister Tzachi Hanegbi is symptomatic of what critics see as a bloated, out-of-touch government. It also has become a rallying cry for anti-Netanyahu protests spreading, like the virus, across the country.
+     
+
+
+--DocBreak--
+By June 1, the government introduced its largest rollback of coronavirus restrictions, allowing cafes, restaurants and many other businesses to reopen, though with numerous precautions in place. Ankara also ended the weekend curfews and travel restrictions on 15 provinces hit hard by the outbreak.                           
+
+
+--DocBreak--
+If you don’t use Tradestation, maybe you should consider it.  It would make your life easier if you want to further my research.  Most students of my Strategy Factory® workshop (my paid algo development workshop)  use Tradestation.          In the meantime though, for non-Tradestation users here are strategy rules in plain English:     
+
+
+--DocBreak--
+Speaking in the capital Ankara, Koca said the new office would work to guide the battle against the COVID-19 pandemic and that it would help the WHO take a more “proactive” stance in future emergencies.                           
+
+
+--DocBreak--
+So, I ran tests with the same setup as in Part 1.  The floor amount is always set to $500 to match the Part 1 test, and the ceiling is set to $2000.     
+
+
+--DocBreak--
+What is nice about ATR stops is they do change with volatility.  They just might not work well in extreme high or low vol situations.     
+
+
+--DocBreak--
+Having no stop is better than either stop in general.  But for many people, having no stop is SCARY!!!  So realize that having a stop, whether it be dollar based, ATR based or something else, is primarily there for psychological support.     
+
+
+--DocBreak--
+First, let’s look at baseline results for each strategy, with no stops (other than the exits and stop and reverse conditions described above).     
+
+
+--DocBreak--
+How do we know which one to pick?  Simple, just like always, you need to test!     
+
+
+--DocBreak--
+After recording its highest daily new infections in nearly three months on June 15, daily cases have been on a slight decline with minor spikes, with most days reporting at the lower end of a thousand.                           
+
+
+--DocBreak--
+A second wave scenario didn’t play out, however, as Turkey succeeded in stopping the surge in daily cases before things got out of control.                           
+
+
+--DocBreak--
+Kluge also said Turkey was successful in protecting the elderly and called the higher death rate of senior citizens in Europe a “catastrophe.” Ankara imposed a full lockdown for people above 65 for several weeks and relaxed the measures in June, for some outdoor hours.                           
+
+
+--DocBreak--
+At the start of the pandemic, Netanyahu moved quickly to close the country&#39;s borders and impose strict measures to contain the virus. By May, Israel was among the first in the world to reopen its economy. Netanyahu boasted on TV that other countries were looking to Israel as a model. But the exit strategy appears to have been bungled. Now facing a drastic surge in confirmed COVID-19 cases, the country has begun reimposing restrictions, such as limits on public gatherings. Critics warn the government waited too long to respond.
+     
+
+
+--DocBreak--
+Highlighting striking differences between Europe and Turkey’s approach to the coronavirus, Kluge said Ankara took quick and determined action against the outbreak.                           
+
+
+--DocBreak--
+We can do this in three different ways:     
+
+
+--DocBreak--
+“I have told the European Union it is suitable to open borders with Turkey. I have never seen any European country adhere to WHO guidelines better than Turkey when it comes to the use of masks, social distancing and hygiene. Such discipline is exemplary,” he added.                           
+
+
+--DocBreak--
+One out-of-work Israeli erupted in anger during a live television interview, berating Netanyahu and warning the country is “going to burn” if aid is not given soon.
+     
+
+
+--DocBreak--
+One of the significant ramifications of Bitcoin futures was that its announcement allowed investors who were on-the-fence about cryptocurrency to enter the system in a regulated and safe fashion. This includes hedge funds, endowments, and pension funds, which all began warming up to the idea of cryptocurrencies.
+
+
+--DocBreak--
+But authorities warned the easing of restrictions would come with serious responsibilities, as failure to follow precautions and acting as if life had returned to normal could cause a resurgence in the outbreak.                           
+
+
+--DocBreak--
+“Sure, I have found that, too.  Dollar based stops can work very well.”     
+
+
+--DocBreak--
+The director said his visit to Ankara was his first mission abroad since February and praised Turkey for its health care infrastructure, increased testing capacity, contact tracing and the production of protective equipment and ventilators to combat the pandemic and lower death rates.                           
+
+
+--DocBreak--
+The lake in the northwestern Burdur province, in southern Turkey, has been a popular destination for tourists in recent years for its white beach and clear water.                           
+
+
+--DocBreak--
+This should make investors optimistic, as such products are slowly entering the market and being approved by lawmakers. In due time, such products will win the SEC’s approval and ensure that it is ‘ _designed to prevent fraudulent and manipulative acts and practices_ ’. This could very well bring a massive price push, similar to the first Bitcoin futures contract back in 2017.
+
+
+--DocBreak--
+For his part, Kluge said the aim of the WHO office would be to provide effective responses to any health problems that would occur in Turkey and Europe                           
+
+
+--DocBreak--
+There are 4 of 12 cases where the ATR stop is better than the Dollar stop by 10% or more.  This makes sense, since the ATR stops in comparative dollar terms are usually larger than the dollar stops.     
+
+
+--DocBreak--
+Crypto Weekly #2 - Steemit and TRON Reversed a fork, Bitcoin's Hash Rate Smashes ATH | Hacker Noon
+
+
+--DocBreak--
+I have strategies that use ATR stops.  And I have even more strategies that use dollar stops, which I personally prefer.     
+
+
+--DocBreak--
+I waited for the inevitable tongue lashing and belittling.  What he said instead shocked me.     
+
+
+--DocBreak--
+The key is either case is to test your approach thoroughly.  Don’t make assumptions about what is better – test it!     
+
+
+--DocBreak--
+If Close  is greater than the close “BigLength” bars ago and close is less than the close “SmallLength” bars ago,  then sell short next bar at market.
+     
+
+
+--DocBreak--
+You need to be careful with ATR stops on the high side, since losses can be huge.  And on the low side, the losses can be fast and frequent.     
+
+
+--DocBreak--
+In this interview, I had a chance to sit down Dalip and ask him a few questions. Here's what he had to say.         
+
+
+--DocBreak--
+My research found disagreement with the adage “always use ATR stops, not dollar stops.”     
+
+
+--DocBreak--
+It is a dramatic turn of events for Netanyahu, who claimed credit and was widely praised for Israel's successful management of the early stages of the crisis. Now his approval ratings are plummeting, and public health experts warn that Israel is close to being unable to cope.               
+
+
+--DocBreak--
+Yet, my result is a good lesson for us all.  No matter how much you like something (entry, exit, money management approach, whatever), and no matter how much you THINK something should work, you opinion DOES NOT (and should not) MATTER.  And that is OK.     
+
+
+--DocBreak--
+At the start of the pandemic, Netanyahu moved quickly to close the country's borders and impose strict measures to contain the virus. By May, Israel was among the first in the world to reopen its economy. Netanyahu boasted on TV that other countries were looking to Israel as a model. But the exit strategy appears to have been bungled. Now facing a drastic surge in confirmed COVID-19 cases, the country has begun reimposing restrictions, such as limits on public gatherings. Critics warn the government waited too long to respond.               
+
+
+--DocBreak--
+So, is this new composite stop even worth doing?  Based on the numbers alone, you’d have to say no.     
+
+
+--DocBreak--
+So, one day I decided to flaunt common thinking and try dollar based stops.  $500, or $1000 per contract stop loss.  Crazy stuff, according to everything I read.     
+
+
+--DocBreak--
+But, doing the floor and ceiling approach does still have a good psychological benefit.  With the floor, it is nice to know that a strategy will not take excessively small stops, should volatility plummet.        
+
+
+--DocBreak--
+Bitcoin Futures opened up the investment potential for large investors and institutions - the big players who wanted a suite of tools to make the most out of the asset class. Prior to futures, investors would have to buy Bitcoin from other investors or via an exchange - a method suitable for millions of retail investors, but not large investors. The latter wanted margin trading, leverage, and short selling.
+
+
+--DocBreak--
+I honestly expected more of a difference adding these dual purpose stops.  Maybe because I thought they were neat, and because they do serve a good purpose.  But as far as pure performance goes, I was wrong!     
+
+
+--DocBreak--
+For each strategy and each market, I ran the 3 cases listed above.     
+
+
+--DocBreak--
+Futures opened the floodgates of institutional investors, boosting liquidity and, more importantly, adding a sense of legitimacy to the overall cryptocurrency market. Futures contracts are also required to comply with regulations put down by the US Commodity Futures Trading Commission (CFTC), which further assuages any concerns about risk and legitimacy that professional investors may have. This, in turn, has spurred exchanges to offer specialized custody solutions so that traditional investors can invest in the crypto market even outside of derivative products such as futures.
+
+
+--DocBreak--
+In between the floor and ceiling, the actual stop is based on recent volatility, which is also comforting to know.     
+
+
+--DocBreak--
+Similarly, dollar stops can get you into trouble, too.  What might be a realistic, reasonable dollar stop for you (say $500) might be totally unrealistic for the market you are trading.  The random noise in the market might take you out very quickly!     
+
+
+--DocBreak--
+Test!  Run the ATR stop with the dollar floor and ceiling. You’ll get good performance usually, comparable to dollar stops or ATR stops alone.  Plus, you’ll protect yourself from extreme stops that ATRs alone occasionally produce.     
+
+
+--DocBreak--
+Why are Bitcoin Futures Important?
+
+
+--DocBreak--
+Turkish authorities had previously restricted road traffic and construction around Lake Salda.                           
+
+
+--DocBreak--
+Consumer Reviews 
+ # With stores closed, Barnes & Noble does some redecorating
+ By Elizabeth A. Harris
+ The New York Times |
+ Jul 10, 2020  at 9:45 AM
+
+
+--DocBreak--
+Despite successfully holding the virus at bay while its neighbors reported their first cases, Turkey’s COVID-19 cases quickly rose after Health Minister Fahrettin Koca announced the first confirmed patient on March 10.                           
+
+
+--DocBreak--
+One important point: when the ATR stops are very large, it is almost like not having a stop at all, especially if the ATR quickly changes from large to small.     
+
+
+--DocBreak--
+Coronavirus 
+ # These scientists raced to find a COVID-19 drug. Then the virus found them.
+ By Katie Thomas
+ The New York Times |
+ Jul 10, 2020  at 9:51 AM
+
+
+--DocBreak--
+Since easing or completely removing most restrictions, Turkey subsequently witnessed a spike in daily new coronavirus cases, with the number of new cases increasing as much as twofold in a two-week period.                           
+
+
+--DocBreak--
+The majority of the worlds' nations broke their own record for most daily coronavirus infections this week after weeks of relative calm and easing of lockdown measures. Seven months after the coronavirus emerged in Wuhan, China, optimism over easing lockdowns has won out over surging coronavirus infections worldwide with more than 12.2 million recorded cases and nearly 555,000 deaths.               
+
+
+--DocBreak--
+Consumer Reviews 
+ # Why you should care that Boohoo is making headlines this week
+ By Elizabeth Paton
+ The New York Times |
+ Jul 10, 2020  at 10:28 AM
+
+
+--DocBreak--
+The Health Ministry’s figures showed that less than 10% of the cases remained active thanks to the country’s expansive health care system and Ankara’s decision to offer free COVID-19 treatment.                           
+
+
+--DocBreak--
+“Turkey is an example all countries should follow in the fight against COVID-19. We are committed to continuing to work together, as we have done for the last 60 years,” Kluge said.                           
+
+
+--DocBreak--
+How You Can Use These Results
+     
+
+
+--DocBreak--
+_
+           _If the 2 period RSI is less than 100 minus “Thresh” then sell short next bar at market.
+
+
+--DocBreak--
+If Close crosses above the +1 standard deviation Bollinger Band of “Length” length then sell short next bar at market.
+     
+
+
+--DocBreak--
+The mayor's office "doesn't object to any of" the ideas, but noted that all of them are "much more nuanced than it initially might seem," according to a statement given to the Seattle Times.
+ "Our office doesn't object to any of these ideas - they are all undeniably critical to building a more just and equitable city," Durkan's spokeswoman Kelsey Nyland said. "But each … is much more nuanced than it initially might seem, and if we don't factor that into our discussions … then we'll never be able to build actionable and lasting solutions."
+ Council members are also discussing calls to cut the police department's remaining budget. Durkan previously pushed for cutting about $20 million from the department amid a larger plan. Many of the cuts proposed in that budget came as a result of the novel coronavirus crisis, the Seattle Times reported.
+
+
+--DocBreak--
+“The office in Istanbul, which will operate toward mitigating risks, managing crises and helping humanitarian causes will make our country an international hub,” Koca said.                           
+
+
+--DocBreak--
+mit Turan, an official from Directorate General for Preservation of Natural Heritage, said that as of Aug.1, visitors will be cautioned not to smoke in designated areas on the shores of the lake.                           
+
+
+--DocBreak--
+It is too bad there is not a way to incorporate the best parts of both stops.     
+
+
+--DocBreak--
+Friday marked exactly four months since Turkey confirmed its first coronavirus case, and it has been a rocky road for millions living in the country.                           
+
+
+--DocBreak--
+If currently long and close is greater than 0 Bollinger Band line of “Length” length then sell (exit long) next bar at market;._
+           _If currently short and close is less than 0 Bollinger Band line of “Length” length then buy to cover (exit short) next bar at market._               
+
+
+--DocBreak--
+The United States, the hardest-hit in the world by the pandemic, reported at least 60,565 new COVID-19 cases on Thursday, a new record increase and the second day in a row infections have risen by at least 60,000, according to a Reuters tally. For a third day in a row, U.S. deaths climbed by more than 800, the highest levels seen since early June, according to the tally. Infections have been on the rise in 41 of the 50 U.S. states for the past two weeks, with states like California, Arizona, Texas and Florida recently breaking records.               
+
+
+--DocBreak--
+So, I am going to analyze dollar stops and ATR stops, in three parts:
+     
+
+
+--DocBreak--
+I’ll try 3 values of stop loss: $500, $1250 and $2000.  These values are pretty reasonable for many markets.  For reporting purposes, I’ll average the resulting profit factors together, rather than pick an optimized result.
+     
+
+
+--DocBreak--
+Don’t be afraid to use dollar stops, if you like them.  They can be just as good as ATR stops.     
+
+
+--DocBreak--
+Shortly after announcing the country’s daily coronavirus figures, Koca attended a joint press conference with Hans Kluge, the regional director of the World Health Organization (WHO) for Europe, where the two announced an agreement to launch a WHO office in Istanbul.                           
+
+
+--DocBreak--
+Thursday’s daily stats also showed an almost threefold difference between new infections and recoveries, as Health Ministry data reported 1,024 new cases compared with the 2,879 daily recovered patients.                           
+
+
+--DocBreak--
+The ATR Stop beats the Dollar Stop 66% of the time, although many of the resulting profit factors are extremely similar to each other.     
+
+
+--DocBreak--
+And with the ceiling, I like knowing my max loss is basically capped (ignoring excessive stop slippage) at a value I choose.       
+
+
+--DocBreak--
+So, it would be nice to take the best features of dollar stops and ATR stops, and see if they can be used together to improve the situation.     
+
+
+--DocBreak--
+The surge worried many citizens trying to bring back some normalcy to their daily lives and quickly shifted the focus from the outbreak’s potential end to a possible second wave of infections.                           
+
+
+--DocBreak--
+One out-of-work Israeli erupted in anger during a live television interview, berating Netanyahu and warning the country is “going to burn” if aid is not given soon.               
+
+
+--DocBreak--
+Maybe I’ll look at some of those adages in future article series, but for this article, I want to examine this question:     
+
+
+--DocBreak--
+Maybe there are ways to get the “best of both worlds.”  I’ll offer up some suggestions in Part 2 below.               
+
+
+--DocBreak--
+“After August 10, warning signs will be placed in some areas. Visitors will able to smoke convenient areas away from the shores,” he said.                           
+
+
+--DocBreak--
+And they were right once again.                           
+
+
+--DocBreak--
+It is a dramatic turn of events for Netanyahu, who claimed credit and was widely praised for Israel&#39;s successful management of the early stages of the crisis. Now his approval ratings are plummeting, and public health experts warn that Israel is close to being unable to cope.
+     
+
+
+--DocBreak--
+According to the health minister, Turkey’s total number of coronavirus cases stood at 209,962 as of Thursday, with 190,390 of those declared recovered from COVID-19.                           
+
+
+--DocBreak--
+_
+           _If Close is less than close “length” bars ago then sell short next bar at market.
+

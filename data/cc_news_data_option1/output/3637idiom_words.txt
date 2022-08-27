@@ -1,0 +1,27 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-3')})
+
+
+  googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-4')})
+
+
+  googletag.cmd.push(function(){googletag.display('div-gpt- ad-541377795656479687-5')})
+
+
+  jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Earlier, Mitchell Marsh's half-century and a late onslaught from Glenn maxwell powered Australia to a respectable total 295. 
+
+
+--DocBreak--
+The duo took seven wickets together to restrict England to 275/9 while chasing Australia's total of 295 runs.The visitors, thus secured a 1-0 lead in the three-match ODI series. 
+
+
+--DocBreak--
+Apple may fit a LiDAR sensor in both Pro models 
+
+
+--DocBreak--
+Josh Hazlewood & Adam Zampa helped Australia register a thrilling 19-run victory over England in the first ODI, despite a brilliant maiden century by Sam Billings at Old Trafford on Friday. 
+

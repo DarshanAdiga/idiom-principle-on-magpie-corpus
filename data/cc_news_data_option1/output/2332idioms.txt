@@ -1,0 +1,22 @@
+end functions for video ads moving left and right
+
+
+--DocBreak--
+When using webpack for the first time, it can be difficult to understand how it works and how it should be used. Although it has good documentation, it can be daunting for novices, and it has a steep learning curve. However, webpack is worth learning and can save considerable time and effort in the long run. In this tutorial, I'll introduce all the core concepts to help you get started.
+
+
+--DocBreak--
+Returning soon to HBO Max, after a furlough: ‘Gone With the Wind,’ with intro by Jacqueline Stewart of U of Chicago and Turner Classic Movies - Orlando Sentinel
+
+
+--DocBreak--
+Emails will be sent directly from Legacy.com. We respect your privacy and will not sell your information to a third party. You may opt out at any time. See privacy policy for details.
+
+
+--DocBreak--
+functions for moving video ads to left and right
+
+
+--DocBreak--
+Configuring webpack from scratch for Tailwind CSS with React. A tutorial that explores how to configure webpack for use with React and Tailwind CSS.
+

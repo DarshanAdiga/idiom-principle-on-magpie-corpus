@@ -1,0 +1,50 @@
+Tourism chief Malcolm Bell described the incident as 'unforgivable'.
+ The chief executive of Visit Cornwall told CornwallLive: "I don't like to see signs like the one we saw on the A30 yesterday. It is being offensive to a large group of people.
+ "I find it unforgivable. It's accusing people before they even arrive."
+ Meanwhile, in Dawlish, a man dressed as the Grim Reaper who was holding a "Welcome holidaymakers" sign greeted the incoming visitors yesterday afternoon, before two men challenged him and confiscated his sign.
+ The incidents were not reflective of the general mood in the region, as Devon and Cornwall welcomed visitors back with open arms on day one of a major boost to the Westcountry's economy.
+
+
+--DocBreak--
+Mayor Ted Wheeler expressed concerns about Portland being "on edge," heading into Fourth of July weekend. A riot was declared around 4 a.m. Saturday in downtown Portland after overnight demonstrations, but events through the day remained generally peaceful until late Saturday, when police again declared a riot.
+
+
+--DocBreak--
+Even with the chip swap, this looks a lot easier than building your own smart bulbs from scratch. With so many cheap ESP8266 bulbs on the market, it seems there's never been a better time to code your own home lighting solution.
+
+
+--DocBreak--
+Britain's police said on Sunday that revellers who packed London's Soho district the night pubs finally reopened made it “crystal clear” that drunk people cannot socially distance.
+
+
+--DocBreak--
+To submit your comment online and to the Letters Desk, enter your phone number/city below
+
+
+--DocBreak--
+Lando Norris went from shocked to speechless to over the moon at the season- opening Austrian Grand Prix on Sunday as he celebrated a third place for McLaren and his first Formula One podium.The youngest driver in the race, at 20 years old, ...
+
+
+--DocBreak--
+“So overall I'm pleased with what happened yesterday. It was really good to see people out and about and largely, very largely social distancing.”
+
+
+--DocBreak--
+At Local 24, our coverage of the coronavirus is rooted in Facts, not Fear. Visit our coronavirus section for comprehensive coverage, find out what you need to know about COVID-19, learn more about the symptoms, and keep tabs on the cases around the world here.
+
+
+--DocBreak--
+Cut the mustard to barebones!
+
+
+--DocBreak--
+“What was crystal clear is that drunk people can't/won't socially distance,” John Apter told London radio.
+
+
+--DocBreak--
+Of course, it wasn't quite that easy. The chances that both bulbs would have used the same GPIO pins to control the red, green, blue, and white LEDs were pretty slim. But after some testing and modifications to the code, he was able to fire them up. The other issue was a bit trickier, as it turned out the bulb's flash chip was too small to hold his firmware's web configuration pages. So he had to break out the hot air gun and replace the SPI flash chip with something a bit roomier. We suppose he could have just made smaller web pages… but where's the fun in that?
+
+
+--DocBreak--
+From the 1st grade teacher with the heart of gold to that high school English teacher who infuses kids with a passion for reading. Teachers all across our districts educate and empower kids of all ages. Nominate your favorite teacher now!
+

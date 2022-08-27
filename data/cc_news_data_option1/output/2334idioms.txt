@@ -1,0 +1,240 @@
+FILE - In this Feb. 19, 2020, file photo, former national security adviser John Bolton takes part in a discussion on global leadership at Vanderbilt University in Nashville, Tenn. An attorney for Bolton said Wednesday, June 10, that President Donald Trump is trying to put on ice publication of the former top administration official’s forthcoming memoir after White House lawyers again this week raised concerns that the book contains classified material that presents a national security threat. (AP Photo/Mark Humphrey, File)
+
+
+--DocBreak--
+The Centers for Disease Control and Prevention report released Monday highlights the dangers posed by heart disease, diabetes and lung ailments.
+
+
+--DocBreak--
+So I said: “For the time being, you are NOT going out on your own! First a bit of practice with that thing.
+
+
+--DocBreak--
+What to make of the imbroglio around Wichita State University president Jay Golden?
+   
+ To recap, presidential daughter Ivanka Trump was briefly invited to deliver a virtual commencement speech to graduates of WSU Tech. After an outcry from students and staff, lent urgency by national protests against racist policy, Golden rescinded the younger Trump's invitation.
+   
+ The outcry from high-profile fundraisers and supporters of the university was immediate, with those connected to Koch Industries and Pizza Hut voicing their displeasure. Ivanka Trump and Secretary of State Mike Pompeo weighed in, also criticizing the decision.
+   
+ Some vociferous voices called for Golden's removal.
+   
+ But after a lengthy meeting, the Kansas Board of Regents declined to do so. They and Golden issued separate statements supporting free speech, along with diversity and inclusion. Koch voiced displeasure but said it would continue funding the commitments it made to the school.
+   
+ Here's the thing: Golden made the right call. Universities ultimately serve students, not donors. If students raise their voices in calling for change, higher education institutions should listen. Even those with extravagant wealth, such as the Koch family, don't get to call the shots -- unless they choose to open their own university (although perhaps we shouldn't be giving them ideas).
+   
+ Let's also dispense with the notion that disinviting Ivanka Trump had anything to do with freedom of speech or discussion. That's nonsense.
+   
+ Her remarks were released to the public soon after the controversy, and they're viewable by anyone with an internet connection. She or her father have abundant opportunity to reach the public through social media and public appearances. They both have arguably more opportunity to speak and be heard than the vast majority of Americans.
+   
+ No, what students and staff objected to was connecting Wichita State to that of a U.S. president with a history of racially charged statements and his daughter, whose prime qualification for giving a public speech is genetic.
+   
+ There's no reason that WSU should lift them up if it chooses not to.
+   
+ Yes, the college and its president may still face consequences. But standing on principle, even if inconvenient, should be noted. Inviting the speech in the first place was likely a mistake. Making it right took courage and a willingness to stand up to powerful interests. That's worthy of praise, not condemnation.
+
+
+--DocBreak--
+"If MLB is halted because they can't get together about how much money will be paid to the players, you got to bite your lip before you lay that out to the public."
+
+
+--DocBreak--
+Somewhere down the road, someone decided that this was the best approach for everything written in PHP and accessible with a browser. Then came along the rule that a Model should have a 1-on-1 relation to a row in a database, Controllers should be thin and views have to be written in a templating language that compiles to PHP.
+
+
+--DocBreak--
+Nevertheless, I have encountered a practical use case where the default configuration options are not enough. Namely, if you need to have multiple users with access to edit a particular node of a given type but without them necessarily having access to edit others of the same type. In other words, the next great article should be editable by Laura and Glenn but not by their colleagues. However, out of the box, users of a particular role can be masters either of their own content or of all content of a certain type. So this is not immediately possible.
+
+
+--DocBreak--
+Lt. Gov. Kathy Hochul says she's monitoring regional COVID data around the clock. (AP File Photo/Mike Groll)
+
+
+--DocBreak--
+A CERB extension is in the works for those in need: PM
+
+
+--DocBreak--
+With its commitment to a transition to green energy, the Taiwanese market presents significant opportunities for international renewable energy companies. Forecasters predict that Taiwan will become the second-largest offshore wind farm market in Asia in the next 10 years, and geothermal heat power also has enormous potential, given Taiwan’s location on the Pacific "ring of fire," known for high seismological activity. Companies already set to capitalize on this momentum include Sweden’s Climeon, which this month finalized a geothermal heat power order worth $4.2 million, and Denmark’s Orsted, which owns a 35% stake in the $627 million Formosa 1 wind complex off the coast of west Taiwan.
+
+
+--DocBreak--
+LAS VEGAS (AP) -- The Vegas Golden Knights have signed tough guy Ryan Reaves to a two-year contract extension worth $3.5 million.
+
+
+--DocBreak--
+I hope I have convinced you by now _why_ you should use transactional email. But doing it is one thing, actually using it is even more important. Because there’s a fine line between becoming a spammer or being regarded as company that sends useful emails, even if it is a lot. And the perfect way of measuring success is by analyzing what the receiver is doing with it. Did he come back to the site? Did she purchase what you recommended? Or did your email just go straight to the trash bin? Did your email even make it all the way to their inbox?
+
+
+--DocBreak--
+Manistee City Council gave the green light for pursuing the grant application in February.
+
+
+--DocBreak--
+She is taking a big step up in class to this Group 2 level after cruising to an impressive victory at Newcastle 15 days ago. Rab Havlin was on board that day and didn’t have to move a muscle as she cantered to an impressive five- length success.
+
+
+--DocBreak--
+The even catchier icon. It must be recognizable, simple and easy on the eye. For many people an attractive stylish icon may become a major reason for checking the page of the app and learning more about it.
+
+
+--DocBreak--
+Don't reinvent the wheel. You are not the first developer trying to create modules in JavaScript, neither are you the first one developing event handling software. A lot of smarter, more trained professionals have done the exact same thing before you.
+
+
+--DocBreak--
+One of the things that makes Drupal great is its flexible user permission system. The out of the box permissions grid we are all familiar with covers most uses cases of controlling what users can and cannot do. It is also very easy for module developers to create new permissions and roles that restrict the logic they implement.
+
+
+--DocBreak--
+Nikola Corp to go public at over $3.3 billion valuation
+
+
+--DocBreak--
+Ontario Premier Doug Ford has given the green light for seven more regions in the province would move into stage two of Ontario's reopening plan this Friday. All regions except Toronto, Peel and Windsor-Essex would then have launched into a post-lockdown world.
+
+
+--DocBreak--
+"
+ What to make of the imbroglio around Wichita State University president Jay Golden?
+ To recap, presidential daughter Ivanka Trump was briefly invited to deliver a virtual commencement speech to graduates of WSU Tech. After an outcry from students and staff, lent urgency by national protests against racist policy, Golden rescinded the younger Trump's invitation.
+ The outcry from high-profile fundraisers and supporters of the university was immediate, with those connected to Koch Industries and Pizza Hut voicing their displeasure. Ivanka Trump and Secretary of State Mike Pompeo weighed in, also criticizing the decision.
+ Some vociferous voices called for Golden's removal.
+ But after a lengthy meeting, the Kansas Board of Regents declined to do so. They and Golden issued separate statements supporting free speech, along with diversity and inclusion. Koch voiced displeasure but said it would continue funding the commitments it made to the school.
+ Here's the thing: Golden made the right call. Universities ultimately serve students, not donors. If students raise their voices in calling for change, higher education institutions should listen. Even those with extravagant wealth, such as the Koch family, don't get to call the shots -- unless they choose to open their own university (although perhaps we shouldn't be giving them ideas).
+ Let's also dispense with the notion that disinviting Ivanka Trump had anything to do with freedom of speech or discussion. That's nonsense.
+ Her remarks were released to the public soon after the controversy, and they're viewable by anyone with an internet connection. She or her father have abundant opportunity to reach the public through social media and public appearances. They both have arguably more opportunity to speak and be heard than the vast majority of Americans.
+ No, what students and staff objected to was connecting Wichita State to that of a U.S. president with a history of racially charged statements and his daughter, whose prime qualification for giving a public speech is genetic.
+ There's no reason that WSU should lift them up if it chooses not to.
+ Yes, the college and its president may still face consequences. But standing on principle, even if inconvenient, should be noted. Inviting the speech in the first place was likely a mistake. Making it right took courage and a willingness to stand up to powerful interests. That's worthy of praise, not condemnation.
+ "
+
+
+--DocBreak--
+FILE - In this Feb. 19, 2020, file photo, former national security adviser John Bolton takes part in a discussion on global leadership at Vanderbilt University in Nashville, Tenn. An attorney for Bolton said Wednesday, June 10, that President Donald Trump is trying to put on ice publication of the former top administration official’s forthcoming memoir after White House lawyers again this week raised concerns that the book contains classified material that presents a national security threat. less
+
+
+--DocBreak--
+Taylor Swift tweeted on Monday, "YES!! Thank you to the Supreme Court Justices who voted in favor and all the advocates who have fought so hard for this! We still have a long way to go to reach equality, but this is a beautiful step forward."
+
+
+--DocBreak--
+But the resumption comes as the federal prison has struggled to combat the coronavirus pandemic behind bars, including at least one death at USP Terre Haute, where they will take place. One inmate there has died from COVID-19.
+ The inmates who will be executed are: Danny Lee, who was convicted of killing a family of three, including an 8-year-old; Wesley Ira Purkey, who raped and murdered a 16-year-old girl and killed an 80-year-old woman; Dustin Lee Honken, who killed five people, including two children; and Keith Dwayne Nelson, who kidnapped a 10-year-old girl who was rollerblading in front of her home and raped her in a forest behind a church before strangling the young girl to death with a wire.
+ Three of the executions — for Lee, Purkley and Honken — are scheduled days apart beginning July 13. Nelson's execution is scheduled for Aug. 28. The Justice Department said additional executions will be set at a later date.
+ Executions on the federal level have been rare and the government has put to death only three defendants since restoring the federal death penalty in 1988 — most recently in 2003, when Louis Jones was executed for the 1995 kidnapping, rape and murder of a young female soldier. Though there hasn’t been a federal execution since 2003, the Justice Department has continued to approve death penalty prosecutions and federal courts have sentenced defendants to death.
+ In 2014, following a botched state execution in Oklahoma, President Barack Obama directed the Justice Department to conduct a broad review of capital punishment and issues surrounding lethal injection drugs.
+ The attorney general said last July that the Obama-era review had been completed, clearing the way for executions to resume. He approved a new procedure for lethal injections that replaces the three-drug combination previously used in federal executions with one drug, pentobarbital. This is similar to the procedure used in several states, including Georgia, Missouri and Texas, but not all.
+
+
+--DocBreak--
+As you can see, these two frameworks look similar. I like the fact that Bootcamp runs on Grunt and NPM with a very simple syntax. On the other hand, True has proven to work very well on Susy and is very lightweight. On a side note, Bootcamp 2 is in the pipeline and is going to make the syntax a whole simpler.
+
+
+--DocBreak--
+Speaking after chairing video talks between the ministers and U.S. Secretary of State Mike Pompeo, EU foreign policy chief Josep Borrell said the Europeans “recognize the merit of the U.S. plan because it has created a certain momentum where there was nothing.”
+
+
+--DocBreak--
+The province has also given the green light to social gatherings of up to 10 people.
+
+
+--DocBreak--
+Yet these are not the most gruesome examples of gender violence that come to mind. If you bear a man, and you are raising girls, know that these are the conditions of life you are preparing them for. We need a President, who can put ending gender violence at the top of his agenda. We need a male minister who can lead it.
+
+
+--DocBreak--
+A British court has jailed for two weeks a football fan who urinated next to a terror attack memorial during clashes between far-right protesters and the London police.
+
+
+--DocBreak--
+The lowest dollar amount awarded went to the Maple Grove Township Fire Department and Stronach Township Fire Department for $707 each for a thermal imaging camera for both departments requesting the same camera.      Grant applications must be submitted by a Manistee County government entity, though some may submit applications on behalf of other non-governmental organizations.      While the Little River Casino Resort was closed during part of the the COVID-19 pandemic, there had been concerns that grant money may dry up for future distribution cycles. Jeff Dontz, revenue board vice-chair, previously told the News Advocate that the impacts were "certain to affect future grant requests."   "The question is by how much and none of us know," he had said.   In light of the casino's financial loss, the revenue sharing board had voted to temporarily postpone the next grant distribution cycle until December.   "It's an assist to help them through this unique time," Dontz previously said. "The till will still be collecting. It's just a matter that we will not have that money in this house at that time."      The funding amount approved for grants varies from year to year.   For example, the board approved grant requests totaling $225,134 this time last year and in the December 2013 grant cycle, more than $1.4 million was distributed.      More than $32 million in grants have been awarded since the board began in 1999.
+
+
+--DocBreak--
+Myth: Newsletters _Must_ Be Short and Sweet
+
+
+--DocBreak--
+Newsom, who came to Waverly 27 years ago for the job now holds, said that as a black man, he lives in a different world, one where he has to make decisions and choices to protect his life.
+ “One of the things that my mother said to me — as we have had numerous conversations — my grandmother came from the South, migrated to the North for a better life. My grandmother was in the heart of the Civil Rights Movement,” he continued. “She worked to make life better for my mother and her siblings and to fight the sin of racism. She did everything she could to prepare my mother and her siblings how to carry themselves so that they could be safe.
+ “My mother said for 50 years now — I’m 50 years old — she’s worried about me just like my grandmother worried about her. For 50 years, my mother has worried about me. She’s not worried about the choices and decisions I was going to make. She worried about the sin of racism and what that meant in terms of me being a black man. She worried about me, and still, to this day, she’ll tell you, she’s still worried about me.”
+ Newsom said as parents of biracial children, both he and his wife share his ancestors’ concern to prepare their children on “how to handle the evils of this world.”
+ “They are very proud of their history and their heritage, both their African- American heritage and their German heritage,” he said. “We take full pride in that.
+ “All three of the boys, they’re first names and their middle names have both their German heritage and their African-American heritage. We wanted them to be proud of who they were, so they knew who they were. They never had to feel like they had to choose or make a decision or fit in, that they could be who they were, and most importantly, is to be a child of God first. We taught all of the boys, ‘God loves you for who you are.’ The Bible says, ‘Come as you are.’ That’s how we have empowered and raised our children.”
+ Newsom, who grew up Baptist, went to a Catholic school, earned his college degree from a Lutheran college and now works at another college of the same denomination, said integrating spirituality into the vigil was important to him.
+ “The spiritual part is what my foundation is,” he said. “I really felt like when speaking to Pastor Arthur about visiting with the other clergy in the community and getting our communities together from a standpoint of our clergy, I think that is part of that healing process, that we can start praying about change, and acting upon that with some guidance.”
+ He said he agreed to speak at the vigil because change is needed not just in the world but also in Waverly.
+ “With me being in this community for 27 years, I felt it was very important for me to do what I could do so that we as a community can pay our respects for all of those lives that’s been lost because of senseless behaviors and attitudes.”
+ If meaningful change were to happen, he added, the events that led to the protests cannot be ignored.
+ “We have to keep this in front of us,” he said. “We can’t wish this away. This is not going to go away. We can see from the weeks and weeks and weeks of what we’ve seen in terms of the protests — the non-violent protests — because no one wants to be a month down the road and act like this never, ever happened.
+ “This has to be in front of us and in front of each step we take daily as a reminder of what our personal, individual jobs are and making this world a better place for our children, our future leaders. If we’re going to do that, we’re all going to have to be committed to change. We have to have to be committed to honest change, true change.”
+ Newsome said he is pleased with the new law signed by the governor, which reforms police practices, emphasizes de-escalation and training.
+ “With that reform, every individual also has to make their own personal reforms of what they believe in and what’s in their heart,” he said. “It’s been the decision and the choice of individuals that has harmed lives. We all have to look in the mirror and look at ourselves and ask what personal reforms do we need to make. I’m definitely pleased with the reform that we see happening in our own state of Iowa and in our country as well.”
+
+
+--DocBreak--
+You can even repurpose content for your newsletters if you’re short on time and need material to send out. Check your archives and look for well- performing content from a few months back. While you should still tweak the content a bit, in general you don’t need to reinvent the wheel with your material.
+
+
+--DocBreak--
+And Euro chiefs hope some fans can travel to the city’s Stadium of Light and Jose Alvalade Stadium to watch games in the flesh.
+
+
+--DocBreak--
+“I knew if I was just patient, ran the pace I wanted and the pace I was comfortable with, we were going to be hard to beat in the long run," Hamlin said.
+
+
+--DocBreak--
+Later movies from 'Catch Me If You Can' (2002) to 'Up In The Air' (2009) have riffed off both Bass's work and the earlier Bauhaus designers he was inspired by.
+
+
+--DocBreak--
+The one common thread of email marketing is that you should treat this medium as a method for building a long term relationship with your audience, rather than for trying to make a one-off sale. As with most things in business, what works for one company isn’t necessarily going to work for another. This is why you need to conduct ongoing tests of your email campaigns to ensure that they are actually serving their purpose.
+
+
+--DocBreak--
+“That will serve me well in England because I learned I cannot go to ground too easily and need to deal with it as best I can.”
+
+
+--DocBreak--
+In this article, we created a solution to a content editing problem that Drupal 7 could not fix out of the box. However, it did provide us with the development tools necessary to make this an easy task inside of a custom module.
+
+
+--DocBreak--
+To account for this situation, we need to implement a field access check and remove the possibility that editors tamper with that field. Implementing hook_field_access should do the trick nicely. And if you are wondering, this hook is similar to `hook_node_access()` but is responsible for individual fields rather than the entire node (+ a couple of other small differences).
+
+
+--DocBreak--
+The Oscars ceremony date was the big lingering unknown, however. The organization's leadership has acknowledged all along that the situation was fluid and that everything was on the table. Now, Oscars nominations will be announced on March 15 and the nominees luncheon will be on April 15.
+ Still, many decisions need to be made. Academy leadership has not yet addressed the format of the show and whether it will be virtual or in-person. Further, the future eligibility of films for the 94th Oscars and that show date will be announced later.
+ The Oscars have been postponed before, but never this far in advance. The ceremony was pushed back a week because of disastrous flooding in Los Angeles in 1938. In 1968, it was delayed two days following the assassination of Dr. Martin Luther King Jr. And in 1981, it was put off for 24 hours after President Ronald Reagan was shot in Washington D.C. The 1981 decision was made four hours before the broadcast was scheduled to begin.
+ The eligibility window was extended beyond 12 months once before -- in advance of the 6th Academy Awards in 1934.
+ Other entertainment industry awards shows are also in flux. The 74th Tony Awards, originally set for June 7, has been postponed indefinitely. But the 72nd Emmy Awards is still holding onto Sept. 20. The 78th Golden Globes does not yet have a date.
+ Even as the country begins to "open up," studios are still making decisions to delay releases. Just Friday, Warner Bros. announced that it was pushing back what was supposed to be the first major movie in theaters, Christopher Nolan's "Tenet," by two weeks.
+
+
+--DocBreak--
+“So it was one of those things you have to deal with.”
+
+
+--DocBreak--
+Rudd removed his name from consideration for the CEO role earlier in the process, the letter said. The search committee wanted the new CEO to have experience leading a large business, a qualification that Rudd did not meet based on his finance background, according to the letter.
+
+
+--DocBreak--
+Even if you have the query cache enabled, depending on your hosting environment, it will be cleared every time the MySQL server is restarted. This means it will have to be rebuilt query by query from scratch after each servers restart.
+
+
+--DocBreak--
+With its commitment to a transition to green energy, the Taiwanese market presents significant opportunities for international renewable energy companies. Forecasters predict that Taiwan will become the second-largest offshore wind farm market in Asia in the next 10 years, and geothermal heat power also has enormous potential, given Taiwan’s location on the Pacific &quot;ring of fire,&quot; known for high seismological activity. Companies already set to capitalize on this momentum include Sweden’s Climeon, which this month finalized a geothermal heat power order worth $4.2 million, and Denmark’s Orsted, which owns a 35% stake in the $627 million Formosa 1 wind complex off the coast of west Taiwan.
+
+
+--DocBreak--
+Former drivers Tony Stewart and Greg Biffle are the other three-time winners. Hamlin is in the club now, after battling Elliott most of the night.
+
+
+--DocBreak--
+Zarda died in 2014, leaving his sister and partner to advance his case. And last month, after seeing her case argued at the Supreme Court in the fall, Stephens died of kidney failure.
+ "I truly wish they were here with me," said Bostock, who said he was honored to meet Stephens and her wife, Donna, in Washington, D.C., along with Zarda's relatives.
+ After Monday's Supreme Court ruling, Bostock, 56, plans to return to a trial court in Georgia to fight his case, after years of legal roadblocks.
+

@@ -1,0 +1,3 @@
+img
+   *[ASX]: Australian Stock Exchange
+

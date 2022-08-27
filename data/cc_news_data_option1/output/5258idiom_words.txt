@@ -1,0 +1,19 @@
+Google e Facebook combinam aliança contra possível ação antitruste, diz 'WSJ' | GZH
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-316138013223246778-6')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-316138013223246778-2')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-316138013223246778-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-316138013223246778-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-316138013223246778-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-113702431193124417-6')})      googletag.cmd.push(function(){googletag.display('div-gpt- ad-113702431193124417-2')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-113702431193124417-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-113702431193124417-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-113702431193124417-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+

@@ -1,0 +1,11 @@
+font-family { font-family: Roboto Slab, -apple-system,system- ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif; }
+
+
+--DocBreak--
+Vice President Mike Pence visiting liberal stronghold in Wisconsin as Trump chases every vote in battleground state - Chicago Tribune
+
+
+--DocBreak--
+document.write(new Date().getFullYear())
+   *[ASX]: Australian Stock Exchange
+

@@ -1,0 +1,2 @@
+# Suggests github-linguist to reclassify `.ipynb` files as Python:
+*.ipynb linguist-language=Python

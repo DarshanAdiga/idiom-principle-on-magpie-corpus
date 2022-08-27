@@ -1,0 +1,34 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250365703-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Home __Business News __ US consumer prices drop 0.4% with core down record amount
+
+
+--DocBreak--
+KQED
+ Get the best of KQED’s science coverage in your inbox weekly.
+ Enter Email Address
+ Sign Up
+ Thanks for signing up for our newsletter.
+ Copyright © 2020 KQED Inc. All Rights Reserved. Terms of ServicePrivacy PolicyContact Us
+ KQED
+ TVRadioPodcastsEventsFor Educators
+ NewsScienceArts & Culture
+ DonateHelp CenterAboutCareersCorporate SponsorshipContact Us
+ Copyright © 2020 KQED Inc. All Rights Reserved.
+ Terms of ServicePrivacy Policy   Contest RulesFCC Public Files
+
+
+--DocBreak--
+Questo sito utilizza i cookie per fornire la migliore esperienza di navigazione possibile. Scorrendo, o continuando a utilizzare questo sito senza modificare le impostazioni dei cookie o cliccando su "Accetta" permetti il loro utilizzo. maggiori informazioni Accetto
+
+
+  Questo sito utilizza i cookie per fornire la migliore esperienza di navigazione possibile. Continuando a utilizzare questo sito senza modificare le impostazioni dei cookie o cliccando su "Accetta" permetti il loro utilizzo.
+
+
+  Chiudi
+

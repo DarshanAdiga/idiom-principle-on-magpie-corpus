@@ -1,0 +1,66 @@
+While all transmission lines, line reactors & bus reactors will be readied by 20:00 hrs for stable voltage, all reactors will be put in service wherever required. Also, capacitors at distribution level will be kept off to maintain voltage at nominal.
+
+
+--DocBreak--
+Hydro generation and gas generation will be ramped down starting from 20:57 hrs. keeping a watch on the system frequency. The hydro units will be kept rolling at 0-10 per cent of the rating and not to be disconnected during this period. Gas station will be ramped down to the minimum level.
+
+
+--DocBreak--
+Also, lights in all essential services, including hospitals, police stations and manufacturing facilities as well as street lights are not to be switched off.
+
+
+--DocBreak--
+Unlike normal operation, this reduction in load of 12-13 GW would happen in 2-4 minutes and recover nine minutes later -- within 2-4 minutes. This sharp reduction in load and recovery, which is unprecedented, will need to be handled through hydro and gas resources.
+
+
+--DocBreak--
+Wind generators of ISGS/ intra state level will be advised to automatically disconnect the wind generating plants and units will be synchronized after 21:30 hrs.
+
+
+--DocBreak--
+The number of people recovered from the COVID-19 virus in Turkey has jumped to 786 from 464 in the last 24 hours, Health Minister Fahrettin Koca announced Saturday.
+
+
+--DocBreak--
+All defence mechanisms such as Under Frequency / df/dt relays and automatic demand management systems will be in service and healthiness will also be ensured.
+
+
+--DocBreak--
+"The virus takes its strength from contact. Let us not give it this chance."
+
+
+--DocBreak--
+All regional entities have been advised to maintain their interchange with the grid as per schedule.
+
+
+--DocBreak--
+More than 12% of the total 161,380 tests in Turkey have been conducted in the last 24 hours, the minister added urging people not to give the virus a chance.
+
+
+--DocBreak--
+Power System Operation Corp Ltd - the agency responsible for managing the grid - has mapped all India lighting load and estimated such demand at 12-13 gigawatts (out of a total consumption of 125-126 GW).
+
+
+--DocBreak--
+These two steps will ensure sizeable household demand continues irrespective of lights-out.
+
+
+--DocBreak--
+Also, control room staff at national and all regional/ state load centres will be strengthened and grids will be closely monitored to tackle any contingency.
+
+
+--DocBreak--
+State load distribution centres have asked distribution companies to ensure that substations and housing society/ residential apartments' main supply is not be switched off at feeder / mains level.
+
+
+--DocBreak--
+Voltage Control measures - Since COVID-19 containment measures implemented from March 25, 2020 nearly 220-240 lines at 400 kV voltage level and above are kept in open condition for voltage control. System voltages have been within the Indian Electricity Grid code (IEGC) band. Line where voltage level is expected to rise by more than 0.01 pu have been identified.
+
+
+--DocBreak--
+The drop in load and subsequent rise will be managed by using hydro and gas generators that require the least amount of time for ramp up.
+
+
+--DocBreak--
+Subsequently after the peak hours, at thermal Inter State Generating Stations (ISGS) generation would be gradually reduced to near technical minimum level of 60 per cent by 20:55 hrs and simultaneously, hydro generation will be increased to maintain the load generation balance.
+

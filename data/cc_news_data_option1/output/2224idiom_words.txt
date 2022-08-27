@@ -1,0 +1,24 @@
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-319511514470019133-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+   *[8 Jun]: 8 June 2020
+
+
+--DocBreak--
+Tags
+ Agropoli agropoli notizie Cilento Cilento Notizie
+   *[8 Jun]: 8 June 2020
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-1438250449017-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+   *[8 Jun]: 8 June 2020
+
+
+--DocBreak--
+5 things to know for June 8: George Floyd, police reform, coronavirus, economy, China - CNN
+

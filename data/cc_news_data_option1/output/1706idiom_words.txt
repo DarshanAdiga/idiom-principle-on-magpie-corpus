@@ -1,0 +1,21 @@
+standfirst, .standfirst-text, .promo-inner .caption, .network-most-popular .most-pop-major li, #content-fixedmenu a, #nav-level1 a, .story-block .section a, .story-block .kicker, .network-most-popular a {font-family: Arial, Helvetica, sans-serif !important }
+
+
+--DocBreak--
+Home __News __Dutch __ Unknown illness puts several children in intensive care in the Netherlands
+
+
+--DocBreak--
+googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-3')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-4')})
+ googletag.cmd.push(function(){googletag.display('div-gpt- ad-783061624906669251-5')})
+ jQuery(function(){jQuery.scrollDepth()})
+
+
+--DocBreak--
+Gary Neville on Man Utd dressing room reaction to Cristiano Ronaldo's spat with Wayne Rooney - Mirror Online
+
+
+--DocBreak--
+Haryana government hikes VAT on petrol and diesel prices, raises bus fares
+
