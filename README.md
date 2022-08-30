@@ -98,8 +98,16 @@ Approximate Training (Wallclock) time per experiment:
 
 - With (RTX5000 x 1) GPUs: ~1 hour 20 mins
 
+
+## Error Analysis & Study
+For the error analysis and to study the idiom principle, the MAGPIE PIEs are grouped into different lists based on their characteristics.  
+The characteristics are observed in the MAGPIE as well as preprocessed CommonCrawl News corpus.  
+
+The implementation of grouping of PIEs is available at [PIE_segregation_util.ipynb](./exp_helpers/PIE_segregation_util.ipynb).
+
 # TODO
 - Track & Visualise Training progress
+
 
 ## References
 [1] Hessel Haagsma, Johan Bos, and Malvina Nissim. 2020. MAGPIE: A Large Corpus of Potentially Idiomatic Expressions. In Proceedings of the 12th Language Resources and Evaluation Conference, pages 279–287, Marseille, France. European Language Resources Association.
