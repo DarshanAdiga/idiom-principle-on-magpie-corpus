@@ -1,0 +1,14 @@
+Confusion Matrix:
+          pred_0  pred_1
+actual_0    1204     120
+actual_1     422     379
+
+              precision    recall  f1-score   support
+
+           0       0.74      0.91      0.82      1324
+           1       0.76      0.47      0.58       801
+
+    accuracy                           0.74      2125
+   macro avg       0.75      0.69      0.70      2125
+weighted avg       0.75      0.74      0.73      2125
+
