@@ -21,7 +21,7 @@ def save_overall_classification_report(y_true, y_pred, out_dir, outfile_prefix):
     print()
 
     print('-'*15, 'Classification Report', '-'*15)
-    report = classification_report(y_true, y_pred, target_names=TARGET_NAMES)
+    report = classification_report(y_true, y_pred, target_names=TARGET_NAMES, digits=4)
     print(report)
     print('-'*40)
 

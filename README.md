@@ -82,10 +82,10 @@ The single-token-representations experiment has following variations:
 | exp0 | 85.16 | 83.00 | 0.0 | 0.0 |
 | exp1 | 87.60 | 85.38 | 0.0 | 0.0 |
 | exp2 | 84.91 | 81.50 | 0.0 | 0.0 |
-| *exp3A_1 | 78.32 | 71.57 | 0.0 | 0.0 |
+| *exp3A_1 | 79.23 | 71.42 | 78.33 | 71.57 |
 | exp3A_2 | 80.39 | 74.21 | 0.0 | 0.0 |
 | exp3B_1(*deprecated*) | 85.14 | 79.29 | 0.0 | 0.0 |
-| **exp3B_1 | 81.81 | 76.55 | 0.0 | 0.0 |
+| **exp3B_1 | 82.83 | 75.66 | 81.82 | 76.55 |
 
 - *exp3A_1 metrics are from the latest run on (RTX5000 x 1)
 - **exp3B_1 metrics are from the latest run on (RTX5000 x 1)
