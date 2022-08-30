@@ -105,6 +105,8 @@ The characteristics are observed in the MAGPIE as well as preprocessed CommonCra
 
 The implementation of grouping of PIEs is available at [PIE_segregation_util.ipynb](./exp_helpers/PIE_segregation_util.ipynb).
 
+The classification reports (both overall and segreated) is generated for `exp3A_1` and `exp3B_1` using the script [produce_test_results.py](./exp_helpers/produce_test_results.py).
+
 # TODO
 - Track & Visualise Training progress
 
