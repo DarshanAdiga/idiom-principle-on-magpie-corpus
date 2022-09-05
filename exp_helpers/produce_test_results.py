@@ -58,6 +58,7 @@ def insert_test_PIE_tokens(df_merged, magpie_token_set):
             raise Exception("No PIE token found in the sentence!")
     # Add the PIE tokens as a column
     df_merged['test_PIE_tokens'] = test_PIE_list
+    print(f"#> There are {len(set(test_PIE_list))} unique PIE tokens in the test set")
     return df_merged
 
 
