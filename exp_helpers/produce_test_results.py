@@ -70,6 +70,10 @@ def save_segregated_reports(df_merged, df_pie_segregation, out_dir):
     df_merged_segregated = pd.merge(df_merged, df_pie_segregation, left_on='test_PIE_tokens', \
         right_on='idiom_token', how='inner')
     # print(df_merged_segregated.columns)
+    # Save this merged dataframe for future use
+    merged_file_path = os.path.join(out_dir, 'merged_segregated_test_results.csv')
+    df_merged_segregated.to_csv(merged_file_path, index=False)
+    print(f"Saved the merged segregated test results to {merged_file_path}")
 
     # ------------------------------------
     #  Compute the classification reports
