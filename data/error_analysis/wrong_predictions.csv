@@ -1,0 +1,11 @@
+ID,Sentence,Actual Label,"AStitchInLanguageModels-Task-2B","BERTRAM-Embeddings"
+1,"""It is blueish in colour, six times larger than a chicken's egg , and about to make ornithological history.""",Idiom,Literal,Idiom
+2,"""Yet, when we dig a little deeper, we find simply another style of moral paternalism lies buried beneath the surface.""",Idiom,Literal,Idiom
+3,"""of French perfume knocked off the shelf, spilling into the steamy bath,""",Literal,Idiom,Literal
+4,"""Leif demanded, as Vitor sat in the driving seat with the child on his knee.""",Literal,Idiom,Idiom
+5,"""They got hold of me and pushed me to the ground then they took the money in my pockets.""",Literal,Idiom,Idiom
+6,"""The boy took a little of the warm broth, then turned his head slightly.""",Literal,Idiom,Idiom
+7,"""Because he has the word of assurance from God himself!""",Literal,Idiom,Idiom
+8,""" ‘One moment,’ he said, climbing up into the cab and sitting in the driving seat.""",Literal,Literal,Idiom
+9,"""Nick has played good, solid golf under the gun to win five majors while others around him have made their mistakes.""",Idiom,Idiom,Literal
+10,"""If Jake found out he would have her guts for garters!""",Idiom,Idiom,Literal
