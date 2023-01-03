@@ -517,19 +517,26 @@ def main():
             # Removing the `label` columns because it contains -1 and Trainer won't like that.
             test_dataset.remove_columns_("label")
             predictions = trainer.predict(test_dataset=test_dataset).predictions
-            predictions = np.squeeze(predictions) if is_regression else np.argmax(predictions, axis=1)
+            # mostly predictions is a 2-D array with probs for each class, but for regression it's a 1-D array
+            if is_regression:
+                prediction_probs_class1 = np.zeros(predictions.shape)
+                predictions = np.squeeze(predictions)
+            else:
+                prediction_probs_class1 = predictions[:, 1]
+                predictions = np.argmax(predictions, axis=1)
 
             output_test_file = os.path.join(training_args.output_dir, f"test_results_{task}.txt")
             if trainer.is_world_process_zero():
                 with open(output_test_file, "w") as writer:
                     logger.info(f"***** Test results {task} *****")
-                    writer.write("index\tprediction\n")
-                    for index, item in enumerate(predictions):
+                    writer.write("index\tprediction\tprediction_prob\n")
+                    for index, pair in enumerate(zip(predictions,prediction_probs_class1)):
+                        item,prob = pair
                         if is_regression:
                             writer.write(f"{index}\t{item:3.3f}\n")
                         else:
                             item = label_list[item]
-                            writer.write(f"{index}\t{item}\n")
+                            writer.write(f"{index}\t{item}\t{prob:2.4f}\n")
 
             # Get the metrics on the test data, if required
             if data_args.test_metrics:
