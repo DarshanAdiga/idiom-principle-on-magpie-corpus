@@ -22,6 +22,7 @@ import numpy         as np
 import random
 import pickle
 import logging
+from scipy.special import softmax
 
 from typing          import Optional
 from dataclasses     import dataclass, field
@@ -522,8 +523,9 @@ def main():
                 prediction_probs_class1 = np.zeros(predictions.shape)
                 predictions = np.squeeze(predictions)
             else:
-                prediction_probs_class1 = predictions[:, 1]
-                predictions = np.argmax(predictions, axis=1)
+                prediction_probs = softmax(predictions, axis=1)
+                prediction_probs_class1 = prediction_probs[:, 1]
+                predictions = np.argmax(prediction_probs, axis=1)
 
             output_test_file = os.path.join(training_args.output_dir, f"test_results_{task}.txt")
             if trainer.is_world_process_zero():
