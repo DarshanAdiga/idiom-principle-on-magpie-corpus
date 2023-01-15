@@ -122,6 +122,27 @@ Wilcoxon signed-rank test is used to test the null hypothesis that two related p
 **References:**
 - https://pythonfordatascienceorg.wordpress.com/wilcoxon-sign-ranked-test-python/
 
+### Results:
+Null Hypothesis: The two samples (i.e predicted probabilities of two experiments) come from the same distribution.
+
+Experiments considered: `exp3A_1`, `exp3B_1` and [bt2](https://github.com/DarshanAdiga/bertram-on-magpie#experiments)
+
+| 1st Exp  | 2nd Exp | W statistic | p-value | Conclusion |
+|:---------|:--------|:------------|:--------|:-----------|
+| exp3A_1 | exp3B_1 | 5195121.0 | 9.433284e-12 | Reject Null Hypothesis |
+| exp3A_1 | bt2 | 3002096.0 | 1.232316e-189 | Reject Null Hypothesis |
+| exp3B_1 | bt2 | 3878590.0 | 4.04974e-92 | Reject Null Hypothesis |
+
+
+**A significance level of 0.01 is used for all the tests. Repetition of experiments doesn't produce much variations. A small difference in the predicted probabilities lead to very different distributions, indicated by the very high p-values.**
+
+| Two trials of the same Exp | W statistic | p-value |
+|:---------------------------|:------------|:--------|
+| exp3A_1 | 5831043.0 | 0.75282 |
+| exp3B_1 | 5845520.5 | 0.88596 |
+| bt2 | 5855191.0 | 0.97709 |
+
+
 # TODO
 - Track & Visualise Training progress
 
