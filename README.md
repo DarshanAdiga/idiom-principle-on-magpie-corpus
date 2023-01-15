@@ -11,6 +11,13 @@ Original dataset is available: [MAGPIE_filtered_split_{*}.jsonl](https://github.
 **Notes on Reproducibility:**
 1. The paths used in the notebooks are relative. Run every notebook from its own current directory.
 2. It is better to use even-numbered GPUs (2 is slow, 4 is better) for training & evaluation. Specifically, the batch size should be divisible by number of GPUs.
+3. When running the experiments on JarvisLabs.ai, follow the below steps:  
+   a. Uninstall the existing version of PyTorch from the instance (it should be PyTorch 1.13)  
+   b. Install the PyTorch 1.12.0 version for the correct CUDA version, using the below command:
+   ```bash
+   pip install torch==1.12.0+cu116 torchvision==0.13.0+cu116 torchaudio==0.12.0 --extra-index-url https://download.pytorch.org/whl/cu116
+   ```
+   More details can be found [here](https://pytorch.org/get-started/previous-versions/)
 
 ### Single Token Representation
 The code for adding single-token-representations is based on:
@@ -106,6 +113,14 @@ The characteristics are observed in the MAGPIE as well as preprocessed CommonCra
 The implementation of grouping of PIEs is available at [PIE_segregation_util.ipynb](./exp_helpers/PIE_segregation_util.ipynb).
 
 The classification reports (both overall and segreated) is generated for `exp3A_1` and `exp3B_1` using the script [produce_test_results.py](./exp_helpers/produce_test_results.py).
+
+## Statistical Significance test
+The statistical significance test is done using the script [exp_helpers/statistical_significance_test.ipynb](./exp_helpers/exp_helpers/statistical_significance_test.ipynb).
+
+Wilcoxon signed-rank test is used to test the null hypothesis that two related paired samples come from the same distribution.
+
+**References:**
+- https://pythonfordatascienceorg.wordpress.com/wilcoxon-sign-ranked-test-python/
 
 # TODO
 - Track & Visualise Training progress
