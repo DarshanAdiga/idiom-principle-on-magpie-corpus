@@ -126,6 +126,7 @@ Wilcoxon signed-rank test is used to test the null hypothesis that two related p
 Null Hypothesis: The two samples (i.e predicted probabilities of two experiments) come from the same distribution.
 
 Experiments considered: `exp3A_1`, `exp3B_1` and [bt2](https://github.com/DarshanAdiga/bertram-on-magpie#experiments)
+Sample Size: 4840
 
 | 1st Exp  | 2nd Exp | W statistic | p-value | Conclusion |
 |:---------|:--------|:------------|:--------|:-----------|
@@ -133,9 +134,18 @@ Experiments considered: `exp3A_1`, `exp3B_1` and [bt2](https://github.com/Darsha
 | exp3A_1 | bt2 | 3002096.0 | 1.232316e-189 | Reject Null Hypothesis |
 | exp3B_1 | bt2 | 3878590.0 | 4.04974e-92 | Reject Null Hypothesis |
 
+Sample Size: 300 (Randomly selected 300 PIEs from the test set, 150 from each class)
+
+| 1st Exp  | 2nd Exp | W statistic | p-value | Conclusion |
+|:---------|:--------|:------------|:--------|:-----------|
+| exp3A_1 | exp3B_1 | 17981.5 | 0.0022545 | Reject Null Hypothesis |
+| exp3A_1 | bt2 | 12223.5 | 5.8385e-12 | Reject Null Hypothesis |
+| exp3B_1 | bt2 | 17471.5 | 0.0006899 | Reject Null Hypothesis |
+
 
 **A significance level of 0.01 is used for all the tests. Repetition of experiments doesn't produce much variations. A small difference in the predicted probabilities lead to very different distributions, indicated by the very high p-values.**
 
+Below results are on the full test set (4840 instances):
 | Two trials of the same Exp | W statistic | p-value |
 |:---------------------------|:------------|:--------|
 | exp3A_1 | 5831043.0 | 0.75282 |
